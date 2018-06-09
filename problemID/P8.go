@@ -5,6 +5,7 @@ import(
 )
 
 /**
+ * 旋转字符
  * @param str: An array of char
  * @param offset: An integer
  * @return: nothing

@@ -5,6 +5,7 @@ import(
 )
 
 /**
+ * 统计数字
  * @param k: An integer
  * @param n: An integer
  * @return: An integer denote the count of digit k in 1..n

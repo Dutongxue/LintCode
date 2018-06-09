@@ -5,6 +5,7 @@ import (
 )
 
 /**
+ * 合并排序数组II
  * @param A: sorted integer array A
  * @param B: sorted integer array B
  * @return: A new sorted integer array
