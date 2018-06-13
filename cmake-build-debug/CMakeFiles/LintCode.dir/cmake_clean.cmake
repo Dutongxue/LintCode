@@ -3,6 +3,11 @@ file(REMOVE_RECURSE
   "CMakeFiles/LintCode.dir/String/P55.cpp.o"
   "CMakeFiles/LintCode.dir/String/P13.cpp.o"
   "CMakeFiles/LintCode.dir/String/P171.cpp.o"
+  "CMakeFiles/LintCode.dir/other/P28.cpp.o"
+  "CMakeFiles/LintCode.dir/String/P79.cpp.o"
+  "CMakeFiles/LintCode.dir/String/P78.cpp.o"
+  "CMakeFiles/LintCode.dir/Array/P172.cpp.o"
+  "CMakeFiles/LintCode.dir/Array/P138.cpp.o"
   "LintCode.pdb"
   "LintCode"
 )

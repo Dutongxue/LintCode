@@ -14,6 +14,8 @@ func binarySearch (nums []int, target int) int {
     // write your code here
     var f, m, b int
 
+    if target == nums[0] {return 0}
+    f = 1
     b = len(nums) - 1
     for f <= b{
         m = (b + f) / 2
@@ -21,9 +23,7 @@ func binarySearch (nums []int, target int) int {
             f = m + 1
         }else if target == nums[m] {
             i := m
-            for ; target == nums[i] ; i-- {
-                if i == 0 {return 0}
-            }
+            for ; target == nums[i] && i > 0; i-- {}
             return i + 1
         }else{
             b = m - 1
@@ -35,5 +35,5 @@ func binarySearch (nums []int, target int) int {
 }
 
 func P14(){
-    fmt.Println(binarySearch([]int{4,5,9,9,12,13,14,15,15,18}, 17))
+    fmt.Println(binarySearch([]int{9,9,9,9,12,13,14,15,15,18}, 9))
 }

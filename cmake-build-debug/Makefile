@@ -123,6 +123,60 @@ LintCode/fast:
 	$(MAKE) -f CMakeFiles/LintCode.dir/build.make CMakeFiles/LintCode.dir/build
 .PHONY : LintCode/fast
 
+Array/P138.o: Array/P138.cpp.o
+
+.PHONY : Array/P138.o
+
+# target to build an object file
+Array/P138.cpp.o:
+	$(MAKE) -f CMakeFiles/LintCode.dir/build.make CMakeFiles/LintCode.dir/Array/P138.cpp.o
+.PHONY : Array/P138.cpp.o
+
+Array/P138.i: Array/P138.cpp.i
+
+.PHONY : Array/P138.i
+
+# target to preprocess a source file
+Array/P138.cpp.i:
+	$(MAKE) -f CMakeFiles/LintCode.dir/build.make CMakeFiles/LintCode.dir/Array/P138.cpp.i
+.PHONY : Array/P138.cpp.i
+
+Array/P138.s: Array/P138.cpp.s
+
+.PHONY : Array/P138.s
+
+# target to generate assembly for a file
+Array/P138.cpp.s:
+	$(MAKE) -f CMakeFiles/LintCode.dir/build.make CMakeFiles/LintCode.dir/Array/P138.cpp.s
+.PHONY : Array/P138.cpp.s
+
+Array/P172.o: Array/P172.cpp.o
+
+.PHONY : Array/P172.o
+
+# target to build an object file
+Array/P172.cpp.o:
+	$(MAKE) -f CMakeFiles/LintCode.dir/build.make CMakeFiles/LintCode.dir/Array/P172.cpp.o
+.PHONY : Array/P172.cpp.o
+
+Array/P172.i: Array/P172.cpp.i
+
+.PHONY : Array/P172.i
+
+# target to preprocess a source file
+Array/P172.cpp.i:
+	$(MAKE) -f CMakeFiles/LintCode.dir/build.make CMakeFiles/LintCode.dir/Array/P172.cpp.i
+.PHONY : Array/P172.cpp.i
+
+Array/P172.s: Array/P172.cpp.s
+
+.PHONY : Array/P172.s
+
+# target to generate assembly for a file
+Array/P172.cpp.s:
+	$(MAKE) -f CMakeFiles/LintCode.dir/build.make CMakeFiles/LintCode.dir/Array/P172.cpp.s
+.PHONY : Array/P172.cpp.s
+
 String/P13.o: String/P13.cpp.o
 
 .PHONY : String/P13.o
@@ -204,6 +258,60 @@ String/P55.cpp.s:
 	$(MAKE) -f CMakeFiles/LintCode.dir/build.make CMakeFiles/LintCode.dir/String/P55.cpp.s
 .PHONY : String/P55.cpp.s
 
+String/P78.o: String/P78.cpp.o
+
+.PHONY : String/P78.o
+
+# target to build an object file
+String/P78.cpp.o:
+	$(MAKE) -f CMakeFiles/LintCode.dir/build.make CMakeFiles/LintCode.dir/String/P78.cpp.o
+.PHONY : String/P78.cpp.o
+
+String/P78.i: String/P78.cpp.i
+
+.PHONY : String/P78.i
+
+# target to preprocess a source file
+String/P78.cpp.i:
+	$(MAKE) -f CMakeFiles/LintCode.dir/build.make CMakeFiles/LintCode.dir/String/P78.cpp.i
+.PHONY : String/P78.cpp.i
+
+String/P78.s: String/P78.cpp.s
+
+.PHONY : String/P78.s
+
+# target to generate assembly for a file
+String/P78.cpp.s:
+	$(MAKE) -f CMakeFiles/LintCode.dir/build.make CMakeFiles/LintCode.dir/String/P78.cpp.s
+.PHONY : String/P78.cpp.s
+
+String/P79.o: String/P79.cpp.o
+
+.PHONY : String/P79.o
+
+# target to build an object file
+String/P79.cpp.o:
+	$(MAKE) -f CMakeFiles/LintCode.dir/build.make CMakeFiles/LintCode.dir/String/P79.cpp.o
+.PHONY : String/P79.cpp.o
+
+String/P79.i: String/P79.cpp.i
+
+.PHONY : String/P79.i
+
+# target to preprocess a source file
+String/P79.cpp.i:
+	$(MAKE) -f CMakeFiles/LintCode.dir/build.make CMakeFiles/LintCode.dir/String/P79.cpp.i
+.PHONY : String/P79.cpp.i
+
+String/P79.s: String/P79.cpp.s
+
+.PHONY : String/P79.s
+
+# target to generate assembly for a file
+String/P79.cpp.s:
+	$(MAKE) -f CMakeFiles/LintCode.dir/build.make CMakeFiles/LintCode.dir/String/P79.cpp.s
+.PHONY : String/P79.cpp.s
+
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -231,6 +339,33 @@ main.cpp.s:
 	$(MAKE) -f CMakeFiles/LintCode.dir/build.make CMakeFiles/LintCode.dir/main.cpp.s
 .PHONY : main.cpp.s
 
+other/P28.o: other/P28.cpp.o
+
+.PHONY : other/P28.o
+
+# target to build an object file
+other/P28.cpp.o:
+	$(MAKE) -f CMakeFiles/LintCode.dir/build.make CMakeFiles/LintCode.dir/other/P28.cpp.o
+.PHONY : other/P28.cpp.o
+
+other/P28.i: other/P28.cpp.i
+
+.PHONY : other/P28.i
+
+# target to preprocess a source file
+other/P28.cpp.i:
+	$(MAKE) -f CMakeFiles/LintCode.dir/build.make CMakeFiles/LintCode.dir/other/P28.cpp.i
+.PHONY : other/P28.cpp.i
+
+other/P28.s: other/P28.cpp.s
+
+.PHONY : other/P28.s
+
+# target to generate assembly for a file
+other/P28.cpp.s:
+	$(MAKE) -f CMakeFiles/LintCode.dir/build.make CMakeFiles/LintCode.dir/other/P28.cpp.s
+.PHONY : other/P28.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -240,6 +375,12 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... LintCode"
+	@echo "... Array/P138.o"
+	@echo "... Array/P138.i"
+	@echo "... Array/P138.s"
+	@echo "... Array/P172.o"
+	@echo "... Array/P172.i"
+	@echo "... Array/P172.s"
 	@echo "... String/P13.o"
 	@echo "... String/P13.i"
 	@echo "... String/P13.s"
@@ -249,9 +390,18 @@ help:
 	@echo "... String/P55.o"
 	@echo "... String/P55.i"
 	@echo "... String/P55.s"
+	@echo "... String/P78.o"
+	@echo "... String/P78.i"
+	@echo "... String/P78.s"
+	@echo "... String/P79.o"
+	@echo "... String/P79.i"
+	@echo "... String/P79.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
+	@echo "... other/P28.o"
+	@echo "... other/P28.i"
+	@echo "... other/P28.s"
 .PHONY : help
 
 
