@@ -11,7 +11,7 @@
 using namespace std;
 
 template <class T>
-void print(vector<T> &v){
+void print(vector<T> v){
     for(auto x : v){
         cout << x << " ";
     }
