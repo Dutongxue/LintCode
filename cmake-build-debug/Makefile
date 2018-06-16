@@ -123,6 +123,33 @@ LintCode/fast:
 	$(MAKE) -f CMakeFiles/LintCode.dir/build.make CMakeFiles/LintCode.dir/build
 .PHONY : LintCode/fast
 
+Array/P100.o: Array/P100.cpp.o
+
+.PHONY : Array/P100.o
+
+# target to build an object file
+Array/P100.cpp.o:
+	$(MAKE) -f CMakeFiles/LintCode.dir/build.make CMakeFiles/LintCode.dir/Array/P100.cpp.o
+.PHONY : Array/P100.cpp.o
+
+Array/P100.i: Array/P100.cpp.i
+
+.PHONY : Array/P100.i
+
+# target to preprocess a source file
+Array/P100.cpp.i:
+	$(MAKE) -f CMakeFiles/LintCode.dir/build.make CMakeFiles/LintCode.dir/Array/P100.cpp.i
+.PHONY : Array/P100.cpp.i
+
+Array/P100.s: Array/P100.cpp.s
+
+.PHONY : Array/P100.s
+
+# target to generate assembly for a file
+Array/P100.cpp.s:
+	$(MAKE) -f CMakeFiles/LintCode.dir/build.make CMakeFiles/LintCode.dir/Array/P100.cpp.s
+.PHONY : Array/P100.cpp.s
+
 Array/P138.o: Array/P138.cpp.o
 
 .PHONY : Array/P138.o
@@ -176,6 +203,60 @@ Array/P172.s: Array/P172.cpp.s
 Array/P172.cpp.s:
 	$(MAKE) -f CMakeFiles/LintCode.dir/build.make CMakeFiles/LintCode.dir/Array/P172.cpp.s
 .PHONY : Array/P172.cpp.s
+
+Array/P56.o: Array/P56.cpp.o
+
+.PHONY : Array/P56.o
+
+# target to build an object file
+Array/P56.cpp.o:
+	$(MAKE) -f CMakeFiles/LintCode.dir/build.make CMakeFiles/LintCode.dir/Array/P56.cpp.o
+.PHONY : Array/P56.cpp.o
+
+Array/P56.i: Array/P56.cpp.i
+
+.PHONY : Array/P56.i
+
+# target to preprocess a source file
+Array/P56.cpp.i:
+	$(MAKE) -f CMakeFiles/LintCode.dir/build.make CMakeFiles/LintCode.dir/Array/P56.cpp.i
+.PHONY : Array/P56.cpp.i
+
+Array/P56.s: Array/P56.cpp.s
+
+.PHONY : Array/P56.s
+
+# target to generate assembly for a file
+Array/P56.cpp.s:
+	$(MAKE) -f CMakeFiles/LintCode.dir/build.make CMakeFiles/LintCode.dir/Array/P56.cpp.s
+.PHONY : Array/P56.cpp.s
+
+Array/P64.o: Array/P64.cpp.o
+
+.PHONY : Array/P64.o
+
+# target to build an object file
+Array/P64.cpp.o:
+	$(MAKE) -f CMakeFiles/LintCode.dir/build.make CMakeFiles/LintCode.dir/Array/P64.cpp.o
+.PHONY : Array/P64.cpp.o
+
+Array/P64.i: Array/P64.cpp.i
+
+.PHONY : Array/P64.i
+
+# target to preprocess a source file
+Array/P64.cpp.i:
+	$(MAKE) -f CMakeFiles/LintCode.dir/build.make CMakeFiles/LintCode.dir/Array/P64.cpp.i
+.PHONY : Array/P64.cpp.i
+
+Array/P64.s: Array/P64.cpp.s
+
+.PHONY : Array/P64.s
+
+# target to generate assembly for a file
+Array/P64.cpp.s:
+	$(MAKE) -f CMakeFiles/LintCode.dir/build.make CMakeFiles/LintCode.dir/Array/P64.cpp.s
+.PHONY : Array/P64.cpp.s
 
 String/P13.o: String/P13.cpp.o
 
@@ -375,12 +456,21 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... LintCode"
+	@echo "... Array/P100.o"
+	@echo "... Array/P100.i"
+	@echo "... Array/P100.s"
 	@echo "... Array/P138.o"
 	@echo "... Array/P138.i"
 	@echo "... Array/P138.s"
 	@echo "... Array/P172.o"
 	@echo "... Array/P172.i"
 	@echo "... Array/P172.s"
+	@echo "... Array/P56.o"
+	@echo "... Array/P56.i"
+	@echo "... Array/P56.s"
+	@echo "... Array/P64.o"
+	@echo "... Array/P64.i"
+	@echo "... Array/P64.s"
 	@echo "... String/P13.o"
 	@echo "... String/P13.i"
 	@echo "... String/P13.s"

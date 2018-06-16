@@ -6,6 +6,16 @@
 
 #IncludeRegexTransform: 
 
+/home/enheng/CLionProjects/LintCode/Array/P100.cpp
+P100.h
+/home/enheng/CLionProjects/LintCode/Array/P100.h
+iostream
+-
+vector
+-
+
+/home/enheng/CLionProjects/LintCode/Array/P100.h
+
 /home/enheng/CLionProjects/LintCode/Array/P138.cpp
 P138.h
 /home/enheng/CLionProjects/LintCode/Array/P138.h
@@ -31,6 +41,16 @@ vector
 -
 
 /home/enheng/CLionProjects/LintCode/Array/P172.h
+
+/home/enheng/CLionProjects/LintCode/Array/P56.h
+
+/home/enheng/CLionProjects/LintCode/Array/P64.cpp
+P64.h
+/home/enheng/CLionProjects/LintCode/Array/P64.h
+iostream
+-
+
+/home/enheng/CLionProjects/LintCode/Array/P64.h
 
 /home/enheng/CLionProjects/LintCode/String/P13.cpp
 P13.h
@@ -107,8 +127,8 @@ String/P55.h
 /home/enheng/CLionProjects/LintCode/String/P55.h
 String/P13.h
 /home/enheng/CLionProjects/LintCode/String/P13.h
-Array/P138.h
-/home/enheng/CLionProjects/LintCode/Array/P138.h
+Array/P56.h
+/home/enheng/CLionProjects/LintCode/Array/P56.h
 
 /home/enheng/CLionProjects/LintCode/main.h
 iostream

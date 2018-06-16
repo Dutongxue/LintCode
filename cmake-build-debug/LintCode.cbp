@@ -84,6 +84,12 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/home/enheng/CLionProjects/LintCode/Array/P100.cpp">
+			<Option target="LintCode"/>
+		</Unit>
+		<Unit filename="/home/enheng/CLionProjects/LintCode/Array/P100.h">
+			<Option target="LintCode"/>
+		</Unit>
 		<Unit filename="/home/enheng/CLionProjects/LintCode/Array/P138.cpp">
 			<Option target="LintCode"/>
 		</Unit>
@@ -94,6 +100,18 @@
 			<Option target="LintCode"/>
 		</Unit>
 		<Unit filename="/home/enheng/CLionProjects/LintCode/Array/P172.h">
+			<Option target="LintCode"/>
+		</Unit>
+		<Unit filename="/home/enheng/CLionProjects/LintCode/Array/P56.cpp">
+			<Option target="LintCode"/>
+		</Unit>
+		<Unit filename="/home/enheng/CLionProjects/LintCode/Array/P56.h">
+			<Option target="LintCode"/>
+		</Unit>
+		<Unit filename="/home/enheng/CLionProjects/LintCode/Array/P64.cpp">
+			<Option target="LintCode"/>
+		</Unit>
+		<Unit filename="/home/enheng/CLionProjects/LintCode/Array/P64.h">
 			<Option target="LintCode"/>
 		</Unit>
 		<Unit filename="/home/enheng/CLionProjects/LintCode/String/P13.cpp">
