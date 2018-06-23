@@ -1,10 +1,10 @@
 #include "main.h"
 #include "String/P55.h"
 #include "String/P13.h"
-#include "Array/P56.h"
+#include "Array/P31.h"
 
 int main() {
-    P56();
+    P31();
 
     return 0;
 }
