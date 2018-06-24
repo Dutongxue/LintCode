@@ -312,6 +312,33 @@ Array/P56.cpp.s:
 	$(MAKE) -f CMakeFiles/LintCode.dir/build.make CMakeFiles/LintCode.dir/Array/P56.cpp.s
 .PHONY : Array/P56.cpp.s
 
+Array/P57.o: Array/P57.cpp.o
+
+.PHONY : Array/P57.o
+
+# target to build an object file
+Array/P57.cpp.o:
+	$(MAKE) -f CMakeFiles/LintCode.dir/build.make CMakeFiles/LintCode.dir/Array/P57.cpp.o
+.PHONY : Array/P57.cpp.o
+
+Array/P57.i: Array/P57.cpp.i
+
+.PHONY : Array/P57.i
+
+# target to preprocess a source file
+Array/P57.cpp.i:
+	$(MAKE) -f CMakeFiles/LintCode.dir/build.make CMakeFiles/LintCode.dir/Array/P57.cpp.i
+.PHONY : Array/P57.cpp.i
+
+Array/P57.s: Array/P57.cpp.s
+
+.PHONY : Array/P57.s
+
+# target to generate assembly for a file
+Array/P57.cpp.s:
+	$(MAKE) -f CMakeFiles/LintCode.dir/build.make CMakeFiles/LintCode.dir/Array/P57.cpp.s
+.PHONY : Array/P57.cpp.s
+
 Array/P59.o: Array/P59.cpp.o
 
 .PHONY : Array/P59.o
@@ -501,6 +528,60 @@ String/P79.cpp.s:
 	$(MAKE) -f CMakeFiles/LintCode.dir/build.make CMakeFiles/LintCode.dir/String/P79.cpp.s
 .PHONY : String/P79.cpp.s
 
+binSearch/P141.o: binSearch/P141.cpp.o
+
+.PHONY : binSearch/P141.o
+
+# target to build an object file
+binSearch/P141.cpp.o:
+	$(MAKE) -f CMakeFiles/LintCode.dir/build.make CMakeFiles/LintCode.dir/binSearch/P141.cpp.o
+.PHONY : binSearch/P141.cpp.o
+
+binSearch/P141.i: binSearch/P141.cpp.i
+
+.PHONY : binSearch/P141.i
+
+# target to preprocess a source file
+binSearch/P141.cpp.i:
+	$(MAKE) -f CMakeFiles/LintCode.dir/build.make CMakeFiles/LintCode.dir/binSearch/P141.cpp.i
+.PHONY : binSearch/P141.cpp.i
+
+binSearch/P141.s: binSearch/P141.cpp.s
+
+.PHONY : binSearch/P141.s
+
+# target to generate assembly for a file
+binSearch/P141.cpp.s:
+	$(MAKE) -f CMakeFiles/LintCode.dir/build.make CMakeFiles/LintCode.dir/binSearch/P141.cpp.s
+.PHONY : binSearch/P141.cpp.s
+
+binSearch/P60.o: binSearch/P60.cpp.o
+
+.PHONY : binSearch/P60.o
+
+# target to build an object file
+binSearch/P60.cpp.o:
+	$(MAKE) -f CMakeFiles/LintCode.dir/build.make CMakeFiles/LintCode.dir/binSearch/P60.cpp.o
+.PHONY : binSearch/P60.cpp.o
+
+binSearch/P60.i: binSearch/P60.cpp.i
+
+.PHONY : binSearch/P60.i
+
+# target to preprocess a source file
+binSearch/P60.cpp.i:
+	$(MAKE) -f CMakeFiles/LintCode.dir/build.make CMakeFiles/LintCode.dir/binSearch/P60.cpp.i
+.PHONY : binSearch/P60.cpp.i
+
+binSearch/P60.s: binSearch/P60.cpp.s
+
+.PHONY : binSearch/P60.s
+
+# target to generate assembly for a file
+binSearch/P60.cpp.s:
+	$(MAKE) -f CMakeFiles/LintCode.dir/build.make CMakeFiles/LintCode.dir/binSearch/P60.cpp.s
+.PHONY : binSearch/P60.cpp.s
+
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -585,6 +666,9 @@ help:
 	@echo "... Array/P56.o"
 	@echo "... Array/P56.i"
 	@echo "... Array/P56.s"
+	@echo "... Array/P57.o"
+	@echo "... Array/P57.i"
+	@echo "... Array/P57.s"
 	@echo "... Array/P59.o"
 	@echo "... Array/P59.i"
 	@echo "... Array/P59.s"
@@ -606,6 +690,12 @@ help:
 	@echo "... String/P79.o"
 	@echo "... String/P79.i"
 	@echo "... String/P79.s"
+	@echo "... binSearch/P141.o"
+	@echo "... binSearch/P141.i"
+	@echo "... binSearch/P141.s"
+	@echo "... binSearch/P60.o"
+	@echo "... binSearch/P60.i"
+	@echo "... binSearch/P60.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

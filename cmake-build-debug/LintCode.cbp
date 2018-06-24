@@ -126,6 +126,12 @@
 		<Unit filename="/home/enheng/CLionProjects/LintCode/Array/P56.h">
 			<Option target="LintCode"/>
 		</Unit>
+		<Unit filename="/home/enheng/CLionProjects/LintCode/Array/P57.cpp">
+			<Option target="LintCode"/>
+		</Unit>
+		<Unit filename="/home/enheng/CLionProjects/LintCode/Array/P57.h">
+			<Option target="LintCode"/>
+		</Unit>
 		<Unit filename="/home/enheng/CLionProjects/LintCode/Array/P59.cpp">
 			<Option target="LintCode"/>
 		</Unit>
@@ -166,6 +172,18 @@
 			<Option target="LintCode"/>
 		</Unit>
 		<Unit filename="/home/enheng/CLionProjects/LintCode/String/P79.h">
+			<Option target="LintCode"/>
+		</Unit>
+		<Unit filename="/home/enheng/CLionProjects/LintCode/binSearch/P141.cpp">
+			<Option target="LintCode"/>
+		</Unit>
+		<Unit filename="/home/enheng/CLionProjects/LintCode/binSearch/P141.h">
+			<Option target="LintCode"/>
+		</Unit>
+		<Unit filename="/home/enheng/CLionProjects/LintCode/binSearch/P60.cpp">
+			<Option target="LintCode"/>
+		</Unit>
+		<Unit filename="/home/enheng/CLionProjects/LintCode/binSearch/P60.h">
 			<Option target="LintCode"/>
 		</Unit>
 		<Unit filename="/home/enheng/CLionProjects/LintCode/main.cpp">

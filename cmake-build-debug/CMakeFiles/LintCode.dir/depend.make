@@ -25,6 +25,10 @@ CMakeFiles/LintCode.dir/Array/P56.cpp.o: ../Array/P56.cpp
 CMakeFiles/LintCode.dir/Array/P56.cpp.o: ../Array/P56.h
 CMakeFiles/LintCode.dir/Array/P56.cpp.o: ../main.h
 
+CMakeFiles/LintCode.dir/Array/P57.cpp.o: ../Array/P57.cpp
+CMakeFiles/LintCode.dir/Array/P57.cpp.o: ../Array/P57.h
+CMakeFiles/LintCode.dir/Array/P57.cpp.o: ../main.h
+
 CMakeFiles/LintCode.dir/Array/P59.cpp.o: ../Array/P59.cpp
 CMakeFiles/LintCode.dir/Array/P59.cpp.o: ../Array/P59.h
 
@@ -46,9 +50,16 @@ CMakeFiles/LintCode.dir/String/P78.cpp.o: ../String/P78.h
 CMakeFiles/LintCode.dir/String/P79.cpp.o: ../String/P79.cpp
 CMakeFiles/LintCode.dir/String/P79.cpp.o: ../String/P79.h
 
-CMakeFiles/LintCode.dir/main.cpp.o: ../Array/P31.h
+CMakeFiles/LintCode.dir/binSearch/P141.cpp.o: ../binSearch/P141.cpp
+CMakeFiles/LintCode.dir/binSearch/P141.cpp.o: ../binSearch/P141.h
+
+CMakeFiles/LintCode.dir/binSearch/P60.cpp.o: ../binSearch/P60.cpp
+CMakeFiles/LintCode.dir/binSearch/P60.cpp.o: ../binSearch/P60.h
+
+CMakeFiles/LintCode.dir/main.cpp.o: ../Array/P57.h
 CMakeFiles/LintCode.dir/main.cpp.o: ../String/P13.h
 CMakeFiles/LintCode.dir/main.cpp.o: ../String/P55.h
+CMakeFiles/LintCode.dir/main.cpp.o: ../binSearch/P60.h
 CMakeFiles/LintCode.dir/main.cpp.o: ../main.cpp
 CMakeFiles/LintCode.dir/main.cpp.o: ../main.h
 
