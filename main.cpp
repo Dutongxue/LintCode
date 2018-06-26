@@ -2,10 +2,10 @@
 #include "String/P55.h"
 #include "String/P13.h"
 #include "Array/P57.h"
-#include "binSearch/P60.h"
+#include "binSearch/P74.h"
 
 int main() {
-    P60();
+    P74();
 
     return 0;
 }
