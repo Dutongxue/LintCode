@@ -54,10 +54,6 @@ loop:
     return ans
 }
 
-func insert2 (intervals []*Interval, newInterval *Interval) []*Interval {
-
-}
-
 func P30(){
     a := Interval{1, 2}
     b := Interval{5, 9}
