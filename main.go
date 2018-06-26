@@ -6,5 +6,5 @@ import (
 )
 
 func main(){
-    problemID.P35()
+    problemID.P30()
 }
