@@ -206,6 +206,30 @@ iostream
 
 /home/enheng/CLionProjects/LintCode/binSearch/P141.h
 
+/home/enheng/CLionProjects/LintCode/binSearch/P159.cpp
+P159.h
+/home/enheng/CLionProjects/LintCode/binSearch/P159.h
+iostream
+-
+vector
+-
+
+/home/enheng/CLionProjects/LintCode/binSearch/P159.h
+
+/home/enheng/CLionProjects/LintCode/binSearch/P183.cpp
+P183.h
+/home/enheng/CLionProjects/LintCode/binSearch/P183.h
+iostream
+-
+vector
+-
+algorithm
+-
+initializer_list
+-
+
+/home/enheng/CLionProjects/LintCode/binSearch/P183.h
+
 /home/enheng/CLionProjects/LintCode/binSearch/P60.cpp
 P60.h
 /home/enheng/CLionProjects/LintCode/binSearch/P60.h
@@ -215,6 +239,36 @@ vector
 -
 
 /home/enheng/CLionProjects/LintCode/binSearch/P60.h
+
+/home/enheng/CLionProjects/LintCode/binSearch/P61.cpp
+P61.h
+/home/enheng/CLionProjects/LintCode/binSearch/P61.h
+../main.h
+/home/enheng/CLionProjects/LintCode/main.h
+iostream
+-
+vector
+-
+
+/home/enheng/CLionProjects/LintCode/binSearch/P61.h
+
+/home/enheng/CLionProjects/LintCode/binSearch/P62.cpp
+P62.h
+/home/enheng/CLionProjects/LintCode/binSearch/P62.h
+iostream
+-
+vector
+-
+
+/home/enheng/CLionProjects/LintCode/binSearch/P62.h
+
+/home/enheng/CLionProjects/LintCode/binSearch/P74.cpp
+P74.h
+/home/enheng/CLionProjects/LintCode/binSearch/P74.h
+iostream
+-
+
+/home/enheng/CLionProjects/LintCode/binSearch/P74.h
 
 /home/enheng/CLionProjects/LintCode/binSearch/P75.cpp
 P75.h
@@ -235,8 +289,8 @@ String/P13.h
 /home/enheng/CLionProjects/LintCode/String/P13.h
 Array/P57.h
 /home/enheng/CLionProjects/LintCode/Array/P57.h
-binSearch/P75.h
-/home/enheng/CLionProjects/LintCode/binSearch/P75.h
+binSearch/P183.h
+/home/enheng/CLionProjects/LintCode/binSearch/P183.h
 
 /home/enheng/CLionProjects/LintCode/main.h
 iostream

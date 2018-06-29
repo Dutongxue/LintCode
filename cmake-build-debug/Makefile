@@ -555,6 +555,60 @@ binSearch/P141.cpp.s:
 	$(MAKE) -f CMakeFiles/LintCode.dir/build.make CMakeFiles/LintCode.dir/binSearch/P141.cpp.s
 .PHONY : binSearch/P141.cpp.s
 
+binSearch/P159.o: binSearch/P159.cpp.o
+
+.PHONY : binSearch/P159.o
+
+# target to build an object file
+binSearch/P159.cpp.o:
+	$(MAKE) -f CMakeFiles/LintCode.dir/build.make CMakeFiles/LintCode.dir/binSearch/P159.cpp.o
+.PHONY : binSearch/P159.cpp.o
+
+binSearch/P159.i: binSearch/P159.cpp.i
+
+.PHONY : binSearch/P159.i
+
+# target to preprocess a source file
+binSearch/P159.cpp.i:
+	$(MAKE) -f CMakeFiles/LintCode.dir/build.make CMakeFiles/LintCode.dir/binSearch/P159.cpp.i
+.PHONY : binSearch/P159.cpp.i
+
+binSearch/P159.s: binSearch/P159.cpp.s
+
+.PHONY : binSearch/P159.s
+
+# target to generate assembly for a file
+binSearch/P159.cpp.s:
+	$(MAKE) -f CMakeFiles/LintCode.dir/build.make CMakeFiles/LintCode.dir/binSearch/P159.cpp.s
+.PHONY : binSearch/P159.cpp.s
+
+binSearch/P183.o: binSearch/P183.cpp.o
+
+.PHONY : binSearch/P183.o
+
+# target to build an object file
+binSearch/P183.cpp.o:
+	$(MAKE) -f CMakeFiles/LintCode.dir/build.make CMakeFiles/LintCode.dir/binSearch/P183.cpp.o
+.PHONY : binSearch/P183.cpp.o
+
+binSearch/P183.i: binSearch/P183.cpp.i
+
+.PHONY : binSearch/P183.i
+
+# target to preprocess a source file
+binSearch/P183.cpp.i:
+	$(MAKE) -f CMakeFiles/LintCode.dir/build.make CMakeFiles/LintCode.dir/binSearch/P183.cpp.i
+.PHONY : binSearch/P183.cpp.i
+
+binSearch/P183.s: binSearch/P183.cpp.s
+
+.PHONY : binSearch/P183.s
+
+# target to generate assembly for a file
+binSearch/P183.cpp.s:
+	$(MAKE) -f CMakeFiles/LintCode.dir/build.make CMakeFiles/LintCode.dir/binSearch/P183.cpp.s
+.PHONY : binSearch/P183.cpp.s
+
 binSearch/P60.o: binSearch/P60.cpp.o
 
 .PHONY : binSearch/P60.o
@@ -581,6 +635,87 @@ binSearch/P60.s: binSearch/P60.cpp.s
 binSearch/P60.cpp.s:
 	$(MAKE) -f CMakeFiles/LintCode.dir/build.make CMakeFiles/LintCode.dir/binSearch/P60.cpp.s
 .PHONY : binSearch/P60.cpp.s
+
+binSearch/P61.o: binSearch/P61.cpp.o
+
+.PHONY : binSearch/P61.o
+
+# target to build an object file
+binSearch/P61.cpp.o:
+	$(MAKE) -f CMakeFiles/LintCode.dir/build.make CMakeFiles/LintCode.dir/binSearch/P61.cpp.o
+.PHONY : binSearch/P61.cpp.o
+
+binSearch/P61.i: binSearch/P61.cpp.i
+
+.PHONY : binSearch/P61.i
+
+# target to preprocess a source file
+binSearch/P61.cpp.i:
+	$(MAKE) -f CMakeFiles/LintCode.dir/build.make CMakeFiles/LintCode.dir/binSearch/P61.cpp.i
+.PHONY : binSearch/P61.cpp.i
+
+binSearch/P61.s: binSearch/P61.cpp.s
+
+.PHONY : binSearch/P61.s
+
+# target to generate assembly for a file
+binSearch/P61.cpp.s:
+	$(MAKE) -f CMakeFiles/LintCode.dir/build.make CMakeFiles/LintCode.dir/binSearch/P61.cpp.s
+.PHONY : binSearch/P61.cpp.s
+
+binSearch/P62.o: binSearch/P62.cpp.o
+
+.PHONY : binSearch/P62.o
+
+# target to build an object file
+binSearch/P62.cpp.o:
+	$(MAKE) -f CMakeFiles/LintCode.dir/build.make CMakeFiles/LintCode.dir/binSearch/P62.cpp.o
+.PHONY : binSearch/P62.cpp.o
+
+binSearch/P62.i: binSearch/P62.cpp.i
+
+.PHONY : binSearch/P62.i
+
+# target to preprocess a source file
+binSearch/P62.cpp.i:
+	$(MAKE) -f CMakeFiles/LintCode.dir/build.make CMakeFiles/LintCode.dir/binSearch/P62.cpp.i
+.PHONY : binSearch/P62.cpp.i
+
+binSearch/P62.s: binSearch/P62.cpp.s
+
+.PHONY : binSearch/P62.s
+
+# target to generate assembly for a file
+binSearch/P62.cpp.s:
+	$(MAKE) -f CMakeFiles/LintCode.dir/build.make CMakeFiles/LintCode.dir/binSearch/P62.cpp.s
+.PHONY : binSearch/P62.cpp.s
+
+binSearch/P74.o: binSearch/P74.cpp.o
+
+.PHONY : binSearch/P74.o
+
+# target to build an object file
+binSearch/P74.cpp.o:
+	$(MAKE) -f CMakeFiles/LintCode.dir/build.make CMakeFiles/LintCode.dir/binSearch/P74.cpp.o
+.PHONY : binSearch/P74.cpp.o
+
+binSearch/P74.i: binSearch/P74.cpp.i
+
+.PHONY : binSearch/P74.i
+
+# target to preprocess a source file
+binSearch/P74.cpp.i:
+	$(MAKE) -f CMakeFiles/LintCode.dir/build.make CMakeFiles/LintCode.dir/binSearch/P74.cpp.i
+.PHONY : binSearch/P74.cpp.i
+
+binSearch/P74.s: binSearch/P74.cpp.s
+
+.PHONY : binSearch/P74.s
+
+# target to generate assembly for a file
+binSearch/P74.cpp.s:
+	$(MAKE) -f CMakeFiles/LintCode.dir/build.make CMakeFiles/LintCode.dir/binSearch/P74.cpp.s
+.PHONY : binSearch/P74.cpp.s
 
 binSearch/P75.o: binSearch/P75.cpp.o
 
@@ -720,9 +855,24 @@ help:
 	@echo "... binSearch/P141.o"
 	@echo "... binSearch/P141.i"
 	@echo "... binSearch/P141.s"
+	@echo "... binSearch/P159.o"
+	@echo "... binSearch/P159.i"
+	@echo "... binSearch/P159.s"
+	@echo "... binSearch/P183.o"
+	@echo "... binSearch/P183.i"
+	@echo "... binSearch/P183.s"
 	@echo "... binSearch/P60.o"
 	@echo "... binSearch/P60.i"
 	@echo "... binSearch/P60.s"
+	@echo "... binSearch/P61.o"
+	@echo "... binSearch/P61.i"
+	@echo "... binSearch/P61.s"
+	@echo "... binSearch/P62.o"
+	@echo "... binSearch/P62.i"
+	@echo "... binSearch/P62.s"
+	@echo "... binSearch/P74.o"
+	@echo "... binSearch/P74.i"
+	@echo "... binSearch/P74.s"
 	@echo "... binSearch/P75.o"
 	@echo "... binSearch/P75.i"
 	@echo "... binSearch/P75.s"

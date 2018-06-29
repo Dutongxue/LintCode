@@ -18,7 +18,12 @@ file(REMOVE_RECURSE
   "CMakeFiles/LintCode.dir/Array/P57.cpp.o"
   "CMakeFiles/LintCode.dir/binSearch/P141.cpp.o"
   "CMakeFiles/LintCode.dir/binSearch/P60.cpp.o"
+  "CMakeFiles/LintCode.dir/binSearch/P74.cpp.o"
   "CMakeFiles/LintCode.dir/binSearch/P75.cpp.o"
+  "CMakeFiles/LintCode.dir/binSearch/P159.cpp.o"
+  "CMakeFiles/LintCode.dir/binSearch/P62.cpp.o"
+  "CMakeFiles/LintCode.dir/binSearch/P61.cpp.o"
+  "CMakeFiles/LintCode.dir/binSearch/P183.cpp.o"
   "LintCode.pdb"
   "LintCode"
 )
