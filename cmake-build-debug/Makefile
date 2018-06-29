@@ -582,6 +582,33 @@ binSearch/P60.cpp.s:
 	$(MAKE) -f CMakeFiles/LintCode.dir/build.make CMakeFiles/LintCode.dir/binSearch/P60.cpp.s
 .PHONY : binSearch/P60.cpp.s
 
+binSearch/P75.o: binSearch/P75.cpp.o
+
+.PHONY : binSearch/P75.o
+
+# target to build an object file
+binSearch/P75.cpp.o:
+	$(MAKE) -f CMakeFiles/LintCode.dir/build.make CMakeFiles/LintCode.dir/binSearch/P75.cpp.o
+.PHONY : binSearch/P75.cpp.o
+
+binSearch/P75.i: binSearch/P75.cpp.i
+
+.PHONY : binSearch/P75.i
+
+# target to preprocess a source file
+binSearch/P75.cpp.i:
+	$(MAKE) -f CMakeFiles/LintCode.dir/build.make CMakeFiles/LintCode.dir/binSearch/P75.cpp.i
+.PHONY : binSearch/P75.cpp.i
+
+binSearch/P75.s: binSearch/P75.cpp.s
+
+.PHONY : binSearch/P75.s
+
+# target to generate assembly for a file
+binSearch/P75.cpp.s:
+	$(MAKE) -f CMakeFiles/LintCode.dir/build.make CMakeFiles/LintCode.dir/binSearch/P75.cpp.s
+.PHONY : binSearch/P75.cpp.s
+
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -696,6 +723,9 @@ help:
 	@echo "... binSearch/P60.o"
 	@echo "... binSearch/P60.i"
 	@echo "... binSearch/P60.s"
+	@echo "... binSearch/P75.o"
+	@echo "... binSearch/P75.i"
+	@echo "... binSearch/P75.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
