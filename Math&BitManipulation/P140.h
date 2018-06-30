@@ -4,5 +4,5 @@
 
 #ifndef LINTCODE_P140_H
 #define LINTCODE_P140_H
-
+void P140();
 #endif //LINTCODE_P140_H
