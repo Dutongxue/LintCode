@@ -144,6 +144,48 @@
 		<Unit filename="/home/enheng/CLionProjects/LintCode/Array/P64.h">
 			<Option target="LintCode"/>
 		</Unit>
+		<Unit filename="/home/enheng/CLionProjects/LintCode/Greedy/P82.cpp">
+			<Option target="LintCode"/>
+		</Unit>
+		<Unit filename="/home/enheng/CLionProjects/LintCode/Greedy/P82.h">
+			<Option target="LintCode"/>
+		</Unit>
+		<Unit filename="/home/enheng/CLionProjects/LintCode/Math&amp;BitManipulation/P140.cpp">
+			<Option target="LintCode"/>
+		</Unit>
+		<Unit filename="/home/enheng/CLionProjects/LintCode/Math&amp;BitManipulation/P140.h">
+			<Option target="LintCode"/>
+		</Unit>
+		<Unit filename="/home/enheng/CLionProjects/LintCode/Math&amp;BitManipulation/P142.cpp">
+			<Option target="LintCode"/>
+		</Unit>
+		<Unit filename="/home/enheng/CLionProjects/LintCode/Math&amp;BitManipulation/P142.h">
+			<Option target="LintCode"/>
+		</Unit>
+		<Unit filename="/home/enheng/CLionProjects/LintCode/Math&amp;BitManipulation/P163.cpp">
+			<Option target="LintCode"/>
+		</Unit>
+		<Unit filename="/home/enheng/CLionProjects/LintCode/Math&amp;BitManipulation/P163.h">
+			<Option target="LintCode"/>
+		</Unit>
+		<Unit filename="/home/enheng/CLionProjects/LintCode/Math&amp;BitManipulation/P179.cpp">
+			<Option target="LintCode"/>
+		</Unit>
+		<Unit filename="/home/enheng/CLionProjects/LintCode/Math&amp;BitManipulation/P179.h">
+			<Option target="LintCode"/>
+		</Unit>
+		<Unit filename="/home/enheng/CLionProjects/LintCode/Math&amp;BitManipulation/P180.cpp">
+			<Option target="LintCode"/>
+		</Unit>
+		<Unit filename="/home/enheng/CLionProjects/LintCode/Math&amp;BitManipulation/P180.h">
+			<Option target="LintCode"/>
+		</Unit>
+		<Unit filename="/home/enheng/CLionProjects/LintCode/Math&amp;BitManipulation/P181.cpp">
+			<Option target="LintCode"/>
+		</Unit>
+		<Unit filename="/home/enheng/CLionProjects/LintCode/Math&amp;BitManipulation/P181.h">
+			<Option target="LintCode"/>
+		</Unit>
 		<Unit filename="/home/enheng/CLionProjects/LintCode/String/P13.cpp">
 			<Option target="LintCode"/>
 		</Unit>

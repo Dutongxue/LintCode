@@ -657,6 +657,174 @@ CMakeFiles/LintCode.dir/binSearch/P183.cpp.o.provides: CMakeFiles/LintCode.dir/b
 CMakeFiles/LintCode.dir/binSearch/P183.cpp.o.provides.build: CMakeFiles/LintCode.dir/binSearch/P183.cpp.o
 
 
+CMakeFiles/LintCode.dir/Math&BitManipulation/P181.cpp.o: CMakeFiles/LintCode.dir/flags.make
+CMakeFiles/LintCode.dir/Math&BitManipulation/P181.cpp.o: ../Math&BitManipulation/P181.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/enheng/CLionProjects/LintCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_26) "Building CXX object CMakeFiles/LintCode.dir/Math&BitManipulation/P181.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o "CMakeFiles/LintCode.dir/Math&BitManipulation/P181.cpp.o" -c "/home/enheng/CLionProjects/LintCode/Math&BitManipulation/P181.cpp"
+
+CMakeFiles/LintCode.dir/Math&BitManipulation/P181.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LintCode.dir/Math&BitManipulation/P181.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/enheng/CLionProjects/LintCode/Math&BitManipulation/P181.cpp" > "CMakeFiles/LintCode.dir/Math&BitManipulation/P181.cpp.i"
+
+CMakeFiles/LintCode.dir/Math&BitManipulation/P181.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LintCode.dir/Math&BitManipulation/P181.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/enheng/CLionProjects/LintCode/Math&BitManipulation/P181.cpp" -o "CMakeFiles/LintCode.dir/Math&BitManipulation/P181.cpp.s"
+
+CMakeFiles/LintCode.dir/Math&BitManipulation/P181.cpp.o.requires:
+
+.PHONY : CMakeFiles/LintCode.dir/Math&BitManipulation/P181.cpp.o.requires
+
+CMakeFiles/LintCode.dir/Math&BitManipulation/P181.cpp.o.provides: CMakeFiles/LintCode.dir/Math&BitManipulation/P181.cpp.o.requires
+	$(MAKE) -f CMakeFiles/LintCode.dir/build.make "CMakeFiles/LintCode.dir/Math&BitManipulation/P181.cpp.o.provides.build"
+.PHONY : CMakeFiles/LintCode.dir/Math&BitManipulation/P181.cpp.o.provides
+
+CMakeFiles/LintCode.dir/Math&BitManipulation/P181.cpp.o.provides.build: CMakeFiles/LintCode.dir/Math&BitManipulation/P181.cpp.o
+
+
+CMakeFiles/LintCode.dir/Math&BitManipulation/P142.cpp.o: CMakeFiles/LintCode.dir/flags.make
+CMakeFiles/LintCode.dir/Math&BitManipulation/P142.cpp.o: ../Math&BitManipulation/P142.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/enheng/CLionProjects/LintCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_27) "Building CXX object CMakeFiles/LintCode.dir/Math&BitManipulation/P142.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o "CMakeFiles/LintCode.dir/Math&BitManipulation/P142.cpp.o" -c "/home/enheng/CLionProjects/LintCode/Math&BitManipulation/P142.cpp"
+
+CMakeFiles/LintCode.dir/Math&BitManipulation/P142.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LintCode.dir/Math&BitManipulation/P142.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/enheng/CLionProjects/LintCode/Math&BitManipulation/P142.cpp" > "CMakeFiles/LintCode.dir/Math&BitManipulation/P142.cpp.i"
+
+CMakeFiles/LintCode.dir/Math&BitManipulation/P142.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LintCode.dir/Math&BitManipulation/P142.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/enheng/CLionProjects/LintCode/Math&BitManipulation/P142.cpp" -o "CMakeFiles/LintCode.dir/Math&BitManipulation/P142.cpp.s"
+
+CMakeFiles/LintCode.dir/Math&BitManipulation/P142.cpp.o.requires:
+
+.PHONY : CMakeFiles/LintCode.dir/Math&BitManipulation/P142.cpp.o.requires
+
+CMakeFiles/LintCode.dir/Math&BitManipulation/P142.cpp.o.provides: CMakeFiles/LintCode.dir/Math&BitManipulation/P142.cpp.o.requires
+	$(MAKE) -f CMakeFiles/LintCode.dir/build.make "CMakeFiles/LintCode.dir/Math&BitManipulation/P142.cpp.o.provides.build"
+.PHONY : CMakeFiles/LintCode.dir/Math&BitManipulation/P142.cpp.o.provides
+
+CMakeFiles/LintCode.dir/Math&BitManipulation/P142.cpp.o.provides.build: CMakeFiles/LintCode.dir/Math&BitManipulation/P142.cpp.o
+
+
+CMakeFiles/LintCode.dir/Math&BitManipulation/P179.cpp.o: CMakeFiles/LintCode.dir/flags.make
+CMakeFiles/LintCode.dir/Math&BitManipulation/P179.cpp.o: ../Math&BitManipulation/P179.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/enheng/CLionProjects/LintCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_28) "Building CXX object CMakeFiles/LintCode.dir/Math&BitManipulation/P179.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o "CMakeFiles/LintCode.dir/Math&BitManipulation/P179.cpp.o" -c "/home/enheng/CLionProjects/LintCode/Math&BitManipulation/P179.cpp"
+
+CMakeFiles/LintCode.dir/Math&BitManipulation/P179.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LintCode.dir/Math&BitManipulation/P179.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/enheng/CLionProjects/LintCode/Math&BitManipulation/P179.cpp" > "CMakeFiles/LintCode.dir/Math&BitManipulation/P179.cpp.i"
+
+CMakeFiles/LintCode.dir/Math&BitManipulation/P179.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LintCode.dir/Math&BitManipulation/P179.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/enheng/CLionProjects/LintCode/Math&BitManipulation/P179.cpp" -o "CMakeFiles/LintCode.dir/Math&BitManipulation/P179.cpp.s"
+
+CMakeFiles/LintCode.dir/Math&BitManipulation/P179.cpp.o.requires:
+
+.PHONY : CMakeFiles/LintCode.dir/Math&BitManipulation/P179.cpp.o.requires
+
+CMakeFiles/LintCode.dir/Math&BitManipulation/P179.cpp.o.provides: CMakeFiles/LintCode.dir/Math&BitManipulation/P179.cpp.o.requires
+	$(MAKE) -f CMakeFiles/LintCode.dir/build.make "CMakeFiles/LintCode.dir/Math&BitManipulation/P179.cpp.o.provides.build"
+.PHONY : CMakeFiles/LintCode.dir/Math&BitManipulation/P179.cpp.o.provides
+
+CMakeFiles/LintCode.dir/Math&BitManipulation/P179.cpp.o.provides.build: CMakeFiles/LintCode.dir/Math&BitManipulation/P179.cpp.o
+
+
+CMakeFiles/LintCode.dir/Math&BitManipulation/P180.cpp.o: CMakeFiles/LintCode.dir/flags.make
+CMakeFiles/LintCode.dir/Math&BitManipulation/P180.cpp.o: ../Math&BitManipulation/P180.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/enheng/CLionProjects/LintCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_29) "Building CXX object CMakeFiles/LintCode.dir/Math&BitManipulation/P180.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o "CMakeFiles/LintCode.dir/Math&BitManipulation/P180.cpp.o" -c "/home/enheng/CLionProjects/LintCode/Math&BitManipulation/P180.cpp"
+
+CMakeFiles/LintCode.dir/Math&BitManipulation/P180.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LintCode.dir/Math&BitManipulation/P180.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/enheng/CLionProjects/LintCode/Math&BitManipulation/P180.cpp" > "CMakeFiles/LintCode.dir/Math&BitManipulation/P180.cpp.i"
+
+CMakeFiles/LintCode.dir/Math&BitManipulation/P180.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LintCode.dir/Math&BitManipulation/P180.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/enheng/CLionProjects/LintCode/Math&BitManipulation/P180.cpp" -o "CMakeFiles/LintCode.dir/Math&BitManipulation/P180.cpp.s"
+
+CMakeFiles/LintCode.dir/Math&BitManipulation/P180.cpp.o.requires:
+
+.PHONY : CMakeFiles/LintCode.dir/Math&BitManipulation/P180.cpp.o.requires
+
+CMakeFiles/LintCode.dir/Math&BitManipulation/P180.cpp.o.provides: CMakeFiles/LintCode.dir/Math&BitManipulation/P180.cpp.o.requires
+	$(MAKE) -f CMakeFiles/LintCode.dir/build.make "CMakeFiles/LintCode.dir/Math&BitManipulation/P180.cpp.o.provides.build"
+.PHONY : CMakeFiles/LintCode.dir/Math&BitManipulation/P180.cpp.o.provides
+
+CMakeFiles/LintCode.dir/Math&BitManipulation/P180.cpp.o.provides.build: CMakeFiles/LintCode.dir/Math&BitManipulation/P180.cpp.o
+
+
+CMakeFiles/LintCode.dir/Math&BitManipulation/P140.cpp.o: CMakeFiles/LintCode.dir/flags.make
+CMakeFiles/LintCode.dir/Math&BitManipulation/P140.cpp.o: ../Math&BitManipulation/P140.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/enheng/CLionProjects/LintCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_30) "Building CXX object CMakeFiles/LintCode.dir/Math&BitManipulation/P140.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o "CMakeFiles/LintCode.dir/Math&BitManipulation/P140.cpp.o" -c "/home/enheng/CLionProjects/LintCode/Math&BitManipulation/P140.cpp"
+
+CMakeFiles/LintCode.dir/Math&BitManipulation/P140.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LintCode.dir/Math&BitManipulation/P140.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/enheng/CLionProjects/LintCode/Math&BitManipulation/P140.cpp" > "CMakeFiles/LintCode.dir/Math&BitManipulation/P140.cpp.i"
+
+CMakeFiles/LintCode.dir/Math&BitManipulation/P140.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LintCode.dir/Math&BitManipulation/P140.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/enheng/CLionProjects/LintCode/Math&BitManipulation/P140.cpp" -o "CMakeFiles/LintCode.dir/Math&BitManipulation/P140.cpp.s"
+
+CMakeFiles/LintCode.dir/Math&BitManipulation/P140.cpp.o.requires:
+
+.PHONY : CMakeFiles/LintCode.dir/Math&BitManipulation/P140.cpp.o.requires
+
+CMakeFiles/LintCode.dir/Math&BitManipulation/P140.cpp.o.provides: CMakeFiles/LintCode.dir/Math&BitManipulation/P140.cpp.o.requires
+	$(MAKE) -f CMakeFiles/LintCode.dir/build.make "CMakeFiles/LintCode.dir/Math&BitManipulation/P140.cpp.o.provides.build"
+.PHONY : CMakeFiles/LintCode.dir/Math&BitManipulation/P140.cpp.o.provides
+
+CMakeFiles/LintCode.dir/Math&BitManipulation/P140.cpp.o.provides.build: CMakeFiles/LintCode.dir/Math&BitManipulation/P140.cpp.o
+
+
+CMakeFiles/LintCode.dir/Math&BitManipulation/P163.cpp.o: CMakeFiles/LintCode.dir/flags.make
+CMakeFiles/LintCode.dir/Math&BitManipulation/P163.cpp.o: ../Math&BitManipulation/P163.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/enheng/CLionProjects/LintCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_31) "Building CXX object CMakeFiles/LintCode.dir/Math&BitManipulation/P163.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o "CMakeFiles/LintCode.dir/Math&BitManipulation/P163.cpp.o" -c "/home/enheng/CLionProjects/LintCode/Math&BitManipulation/P163.cpp"
+
+CMakeFiles/LintCode.dir/Math&BitManipulation/P163.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LintCode.dir/Math&BitManipulation/P163.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/enheng/CLionProjects/LintCode/Math&BitManipulation/P163.cpp" > "CMakeFiles/LintCode.dir/Math&BitManipulation/P163.cpp.i"
+
+CMakeFiles/LintCode.dir/Math&BitManipulation/P163.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LintCode.dir/Math&BitManipulation/P163.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/enheng/CLionProjects/LintCode/Math&BitManipulation/P163.cpp" -o "CMakeFiles/LintCode.dir/Math&BitManipulation/P163.cpp.s"
+
+CMakeFiles/LintCode.dir/Math&BitManipulation/P163.cpp.o.requires:
+
+.PHONY : CMakeFiles/LintCode.dir/Math&BitManipulation/P163.cpp.o.requires
+
+CMakeFiles/LintCode.dir/Math&BitManipulation/P163.cpp.o.provides: CMakeFiles/LintCode.dir/Math&BitManipulation/P163.cpp.o.requires
+	$(MAKE) -f CMakeFiles/LintCode.dir/build.make "CMakeFiles/LintCode.dir/Math&BitManipulation/P163.cpp.o.provides.build"
+.PHONY : CMakeFiles/LintCode.dir/Math&BitManipulation/P163.cpp.o.provides
+
+CMakeFiles/LintCode.dir/Math&BitManipulation/P163.cpp.o.provides.build: CMakeFiles/LintCode.dir/Math&BitManipulation/P163.cpp.o
+
+
+CMakeFiles/LintCode.dir/Greedy/P82.cpp.o: CMakeFiles/LintCode.dir/flags.make
+CMakeFiles/LintCode.dir/Greedy/P82.cpp.o: ../Greedy/P82.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/enheng/CLionProjects/LintCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_32) "Building CXX object CMakeFiles/LintCode.dir/Greedy/P82.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LintCode.dir/Greedy/P82.cpp.o -c /home/enheng/CLionProjects/LintCode/Greedy/P82.cpp
+
+CMakeFiles/LintCode.dir/Greedy/P82.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LintCode.dir/Greedy/P82.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/enheng/CLionProjects/LintCode/Greedy/P82.cpp > CMakeFiles/LintCode.dir/Greedy/P82.cpp.i
+
+CMakeFiles/LintCode.dir/Greedy/P82.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LintCode.dir/Greedy/P82.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/enheng/CLionProjects/LintCode/Greedy/P82.cpp -o CMakeFiles/LintCode.dir/Greedy/P82.cpp.s
+
+CMakeFiles/LintCode.dir/Greedy/P82.cpp.o.requires:
+
+.PHONY : CMakeFiles/LintCode.dir/Greedy/P82.cpp.o.requires
+
+CMakeFiles/LintCode.dir/Greedy/P82.cpp.o.provides: CMakeFiles/LintCode.dir/Greedy/P82.cpp.o.requires
+	$(MAKE) -f CMakeFiles/LintCode.dir/build.make CMakeFiles/LintCode.dir/Greedy/P82.cpp.o.provides.build
+.PHONY : CMakeFiles/LintCode.dir/Greedy/P82.cpp.o.provides
+
+CMakeFiles/LintCode.dir/Greedy/P82.cpp.o.provides.build: CMakeFiles/LintCode.dir/Greedy/P82.cpp.o
+
+
 # Object files for target LintCode
 LintCode_OBJECTS = \
 "CMakeFiles/LintCode.dir/main.cpp.o" \
@@ -683,7 +851,14 @@ LintCode_OBJECTS = \
 "CMakeFiles/LintCode.dir/binSearch/P159.cpp.o" \
 "CMakeFiles/LintCode.dir/binSearch/P62.cpp.o" \
 "CMakeFiles/LintCode.dir/binSearch/P61.cpp.o" \
-"CMakeFiles/LintCode.dir/binSearch/P183.cpp.o"
+"CMakeFiles/LintCode.dir/binSearch/P183.cpp.o" \
+"CMakeFiles/LintCode.dir/Math&BitManipulation/P181.cpp.o" \
+"CMakeFiles/LintCode.dir/Math&BitManipulation/P142.cpp.o" \
+"CMakeFiles/LintCode.dir/Math&BitManipulation/P179.cpp.o" \
+"CMakeFiles/LintCode.dir/Math&BitManipulation/P180.cpp.o" \
+"CMakeFiles/LintCode.dir/Math&BitManipulation/P140.cpp.o" \
+"CMakeFiles/LintCode.dir/Math&BitManipulation/P163.cpp.o" \
+"CMakeFiles/LintCode.dir/Greedy/P82.cpp.o"
 
 # External object files for target LintCode
 LintCode_EXTERNAL_OBJECTS =
@@ -713,9 +888,16 @@ LintCode: CMakeFiles/LintCode.dir/binSearch/P159.cpp.o
 LintCode: CMakeFiles/LintCode.dir/binSearch/P62.cpp.o
 LintCode: CMakeFiles/LintCode.dir/binSearch/P61.cpp.o
 LintCode: CMakeFiles/LintCode.dir/binSearch/P183.cpp.o
+LintCode: CMakeFiles/LintCode.dir/Math&BitManipulation/P181.cpp.o
+LintCode: CMakeFiles/LintCode.dir/Math&BitManipulation/P142.cpp.o
+LintCode: CMakeFiles/LintCode.dir/Math&BitManipulation/P179.cpp.o
+LintCode: CMakeFiles/LintCode.dir/Math&BitManipulation/P180.cpp.o
+LintCode: CMakeFiles/LintCode.dir/Math&BitManipulation/P140.cpp.o
+LintCode: CMakeFiles/LintCode.dir/Math&BitManipulation/P163.cpp.o
+LintCode: CMakeFiles/LintCode.dir/Greedy/P82.cpp.o
 LintCode: CMakeFiles/LintCode.dir/build.make
 LintCode: CMakeFiles/LintCode.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/enheng/CLionProjects/LintCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_26) "Linking CXX executable LintCode"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/enheng/CLionProjects/LintCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_33) "Linking CXX executable LintCode"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/LintCode.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -748,6 +930,13 @@ CMakeFiles/LintCode.dir/requires: CMakeFiles/LintCode.dir/binSearch/P159.cpp.o.r
 CMakeFiles/LintCode.dir/requires: CMakeFiles/LintCode.dir/binSearch/P62.cpp.o.requires
 CMakeFiles/LintCode.dir/requires: CMakeFiles/LintCode.dir/binSearch/P61.cpp.o.requires
 CMakeFiles/LintCode.dir/requires: CMakeFiles/LintCode.dir/binSearch/P183.cpp.o.requires
+CMakeFiles/LintCode.dir/requires: CMakeFiles/LintCode.dir/Math&BitManipulation/P181.cpp.o.requires
+CMakeFiles/LintCode.dir/requires: CMakeFiles/LintCode.dir/Math&BitManipulation/P142.cpp.o.requires
+CMakeFiles/LintCode.dir/requires: CMakeFiles/LintCode.dir/Math&BitManipulation/P179.cpp.o.requires
+CMakeFiles/LintCode.dir/requires: CMakeFiles/LintCode.dir/Math&BitManipulation/P180.cpp.o.requires
+CMakeFiles/LintCode.dir/requires: CMakeFiles/LintCode.dir/Math&BitManipulation/P140.cpp.o.requires
+CMakeFiles/LintCode.dir/requires: CMakeFiles/LintCode.dir/Math&BitManipulation/P163.cpp.o.requires
+CMakeFiles/LintCode.dir/requires: CMakeFiles/LintCode.dir/Greedy/P82.cpp.o.requires
 
 .PHONY : CMakeFiles/LintCode.dir/requires
 

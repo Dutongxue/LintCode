@@ -35,6 +35,27 @@ CMakeFiles/LintCode.dir/Array/P59.cpp.o: ../Array/P59.h
 CMakeFiles/LintCode.dir/Array/P64.cpp.o: ../Array/P64.cpp
 CMakeFiles/LintCode.dir/Array/P64.cpp.o: ../Array/P64.h
 
+CMakeFiles/LintCode.dir/Greedy/P82.cpp.o: ../Greedy/P82.cpp
+CMakeFiles/LintCode.dir/Greedy/P82.cpp.o: ../Greedy/P82.h
+
+CMakeFiles/LintCode.dir/Math&BitManipulation/P140.cpp.o: ../Math&BitManipulation/P140.cpp
+CMakeFiles/LintCode.dir/Math&BitManipulation/P140.cpp.o: ../Math&BitManipulation/P140.h
+
+CMakeFiles/LintCode.dir/Math&BitManipulation/P142.cpp.o: ../Math&BitManipulation/P142.cpp
+CMakeFiles/LintCode.dir/Math&BitManipulation/P142.cpp.o: ../Math&BitManipulation/P142.h
+
+CMakeFiles/LintCode.dir/Math&BitManipulation/P163.cpp.o: ../Math&BitManipulation/P163.cpp
+CMakeFiles/LintCode.dir/Math&BitManipulation/P163.cpp.o: ../Math&BitManipulation/P163.h
+
+CMakeFiles/LintCode.dir/Math&BitManipulation/P179.cpp.o: ../Math&BitManipulation/P179.cpp
+CMakeFiles/LintCode.dir/Math&BitManipulation/P179.cpp.o: ../Math&BitManipulation/P179.h
+
+CMakeFiles/LintCode.dir/Math&BitManipulation/P180.cpp.o: ../Math&BitManipulation/P180.cpp
+CMakeFiles/LintCode.dir/Math&BitManipulation/P180.cpp.o: ../Math&BitManipulation/P180.h
+
+CMakeFiles/LintCode.dir/Math&BitManipulation/P181.cpp.o: ../Math&BitManipulation/P181.cpp
+CMakeFiles/LintCode.dir/Math&BitManipulation/P181.cpp.o: ../Math&BitManipulation/P181.h
+
 CMakeFiles/LintCode.dir/String/P13.cpp.o: ../String/P13.cpp
 CMakeFiles/LintCode.dir/String/P13.cpp.o: ../String/P13.h
 
@@ -76,6 +97,8 @@ CMakeFiles/LintCode.dir/binSearch/P75.cpp.o: ../binSearch/P75.cpp
 CMakeFiles/LintCode.dir/binSearch/P75.cpp.o: ../binSearch/P75.h
 
 CMakeFiles/LintCode.dir/main.cpp.o: ../Array/P57.h
+CMakeFiles/LintCode.dir/main.cpp.o: ../Greedy/P82.h
+CMakeFiles/LintCode.dir/main.cpp.o: ../Math&BitManipulation/P163.h
 CMakeFiles/LintCode.dir/main.cpp.o: ../String/P13.h
 CMakeFiles/LintCode.dir/main.cpp.o: ../String/P55.h
 CMakeFiles/LintCode.dir/main.cpp.o: ../binSearch/P183.h

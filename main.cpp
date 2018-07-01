@@ -3,10 +3,11 @@
 #include "String/P13.h"
 #include "Array/P57.h"
 #include "binSearch/P183.h"
-#include "Math&BitManipulation/P140.h"
+#include "Math&BitManipulation/P163.h"
+#include "Greedy/P82.h"
 
 int main() {
-    P140();
+    P82();
 
     return 0;
 }

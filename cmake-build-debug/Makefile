@@ -393,6 +393,195 @@ Array/P64.cpp.s:
 	$(MAKE) -f CMakeFiles/LintCode.dir/build.make CMakeFiles/LintCode.dir/Array/P64.cpp.s
 .PHONY : Array/P64.cpp.s
 
+Greedy/P82.o: Greedy/P82.cpp.o
+
+.PHONY : Greedy/P82.o
+
+# target to build an object file
+Greedy/P82.cpp.o:
+	$(MAKE) -f CMakeFiles/LintCode.dir/build.make CMakeFiles/LintCode.dir/Greedy/P82.cpp.o
+.PHONY : Greedy/P82.cpp.o
+
+Greedy/P82.i: Greedy/P82.cpp.i
+
+.PHONY : Greedy/P82.i
+
+# target to preprocess a source file
+Greedy/P82.cpp.i:
+	$(MAKE) -f CMakeFiles/LintCode.dir/build.make CMakeFiles/LintCode.dir/Greedy/P82.cpp.i
+.PHONY : Greedy/P82.cpp.i
+
+Greedy/P82.s: Greedy/P82.cpp.s
+
+.PHONY : Greedy/P82.s
+
+# target to generate assembly for a file
+Greedy/P82.cpp.s:
+	$(MAKE) -f CMakeFiles/LintCode.dir/build.make CMakeFiles/LintCode.dir/Greedy/P82.cpp.s
+.PHONY : Greedy/P82.cpp.s
+
+Math&BitManipulation/P140.o: Math&BitManipulation/P140.cpp.o
+
+.PHONY : Math&BitManipulation/P140.o
+
+# target to build an object file
+Math&BitManipulation/P140.cpp.o:
+	$(MAKE) -f CMakeFiles/LintCode.dir/build.make "CMakeFiles/LintCode.dir/Math&BitManipulation/P140.cpp.o"
+.PHONY : Math&BitManipulation/P140.cpp.o
+
+Math&BitManipulation/P140.i: Math&BitManipulation/P140.cpp.i
+
+.PHONY : Math&BitManipulation/P140.i
+
+# target to preprocess a source file
+Math&BitManipulation/P140.cpp.i:
+	$(MAKE) -f CMakeFiles/LintCode.dir/build.make "CMakeFiles/LintCode.dir/Math&BitManipulation/P140.cpp.i"
+.PHONY : Math&BitManipulation/P140.cpp.i
+
+Math&BitManipulation/P140.s: Math&BitManipulation/P140.cpp.s
+
+.PHONY : Math&BitManipulation/P140.s
+
+# target to generate assembly for a file
+Math&BitManipulation/P140.cpp.s:
+	$(MAKE) -f CMakeFiles/LintCode.dir/build.make "CMakeFiles/LintCode.dir/Math&BitManipulation/P140.cpp.s"
+.PHONY : Math&BitManipulation/P140.cpp.s
+
+Math&BitManipulation/P142.o: Math&BitManipulation/P142.cpp.o
+
+.PHONY : Math&BitManipulation/P142.o
+
+# target to build an object file
+Math&BitManipulation/P142.cpp.o:
+	$(MAKE) -f CMakeFiles/LintCode.dir/build.make "CMakeFiles/LintCode.dir/Math&BitManipulation/P142.cpp.o"
+.PHONY : Math&BitManipulation/P142.cpp.o
+
+Math&BitManipulation/P142.i: Math&BitManipulation/P142.cpp.i
+
+.PHONY : Math&BitManipulation/P142.i
+
+# target to preprocess a source file
+Math&BitManipulation/P142.cpp.i:
+	$(MAKE) -f CMakeFiles/LintCode.dir/build.make "CMakeFiles/LintCode.dir/Math&BitManipulation/P142.cpp.i"
+.PHONY : Math&BitManipulation/P142.cpp.i
+
+Math&BitManipulation/P142.s: Math&BitManipulation/P142.cpp.s
+
+.PHONY : Math&BitManipulation/P142.s
+
+# target to generate assembly for a file
+Math&BitManipulation/P142.cpp.s:
+	$(MAKE) -f CMakeFiles/LintCode.dir/build.make "CMakeFiles/LintCode.dir/Math&BitManipulation/P142.cpp.s"
+.PHONY : Math&BitManipulation/P142.cpp.s
+
+Math&BitManipulation/P163.o: Math&BitManipulation/P163.cpp.o
+
+.PHONY : Math&BitManipulation/P163.o
+
+# target to build an object file
+Math&BitManipulation/P163.cpp.o:
+	$(MAKE) -f CMakeFiles/LintCode.dir/build.make "CMakeFiles/LintCode.dir/Math&BitManipulation/P163.cpp.o"
+.PHONY : Math&BitManipulation/P163.cpp.o
+
+Math&BitManipulation/P163.i: Math&BitManipulation/P163.cpp.i
+
+.PHONY : Math&BitManipulation/P163.i
+
+# target to preprocess a source file
+Math&BitManipulation/P163.cpp.i:
+	$(MAKE) -f CMakeFiles/LintCode.dir/build.make "CMakeFiles/LintCode.dir/Math&BitManipulation/P163.cpp.i"
+.PHONY : Math&BitManipulation/P163.cpp.i
+
+Math&BitManipulation/P163.s: Math&BitManipulation/P163.cpp.s
+
+.PHONY : Math&BitManipulation/P163.s
+
+# target to generate assembly for a file
+Math&BitManipulation/P163.cpp.s:
+	$(MAKE) -f CMakeFiles/LintCode.dir/build.make "CMakeFiles/LintCode.dir/Math&BitManipulation/P163.cpp.s"
+.PHONY : Math&BitManipulation/P163.cpp.s
+
+Math&BitManipulation/P179.o: Math&BitManipulation/P179.cpp.o
+
+.PHONY : Math&BitManipulation/P179.o
+
+# target to build an object file
+Math&BitManipulation/P179.cpp.o:
+	$(MAKE) -f CMakeFiles/LintCode.dir/build.make "CMakeFiles/LintCode.dir/Math&BitManipulation/P179.cpp.o"
+.PHONY : Math&BitManipulation/P179.cpp.o
+
+Math&BitManipulation/P179.i: Math&BitManipulation/P179.cpp.i
+
+.PHONY : Math&BitManipulation/P179.i
+
+# target to preprocess a source file
+Math&BitManipulation/P179.cpp.i:
+	$(MAKE) -f CMakeFiles/LintCode.dir/build.make "CMakeFiles/LintCode.dir/Math&BitManipulation/P179.cpp.i"
+.PHONY : Math&BitManipulation/P179.cpp.i
+
+Math&BitManipulation/P179.s: Math&BitManipulation/P179.cpp.s
+
+.PHONY : Math&BitManipulation/P179.s
+
+# target to generate assembly for a file
+Math&BitManipulation/P179.cpp.s:
+	$(MAKE) -f CMakeFiles/LintCode.dir/build.make "CMakeFiles/LintCode.dir/Math&BitManipulation/P179.cpp.s"
+.PHONY : Math&BitManipulation/P179.cpp.s
+
+Math&BitManipulation/P180.o: Math&BitManipulation/P180.cpp.o
+
+.PHONY : Math&BitManipulation/P180.o
+
+# target to build an object file
+Math&BitManipulation/P180.cpp.o:
+	$(MAKE) -f CMakeFiles/LintCode.dir/build.make "CMakeFiles/LintCode.dir/Math&BitManipulation/P180.cpp.o"
+.PHONY : Math&BitManipulation/P180.cpp.o
+
+Math&BitManipulation/P180.i: Math&BitManipulation/P180.cpp.i
+
+.PHONY : Math&BitManipulation/P180.i
+
+# target to preprocess a source file
+Math&BitManipulation/P180.cpp.i:
+	$(MAKE) -f CMakeFiles/LintCode.dir/build.make "CMakeFiles/LintCode.dir/Math&BitManipulation/P180.cpp.i"
+.PHONY : Math&BitManipulation/P180.cpp.i
+
+Math&BitManipulation/P180.s: Math&BitManipulation/P180.cpp.s
+
+.PHONY : Math&BitManipulation/P180.s
+
+# target to generate assembly for a file
+Math&BitManipulation/P180.cpp.s:
+	$(MAKE) -f CMakeFiles/LintCode.dir/build.make "CMakeFiles/LintCode.dir/Math&BitManipulation/P180.cpp.s"
+.PHONY : Math&BitManipulation/P180.cpp.s
+
+Math&BitManipulation/P181.o: Math&BitManipulation/P181.cpp.o
+
+.PHONY : Math&BitManipulation/P181.o
+
+# target to build an object file
+Math&BitManipulation/P181.cpp.o:
+	$(MAKE) -f CMakeFiles/LintCode.dir/build.make "CMakeFiles/LintCode.dir/Math&BitManipulation/P181.cpp.o"
+.PHONY : Math&BitManipulation/P181.cpp.o
+
+Math&BitManipulation/P181.i: Math&BitManipulation/P181.cpp.i
+
+.PHONY : Math&BitManipulation/P181.i
+
+# target to preprocess a source file
+Math&BitManipulation/P181.cpp.i:
+	$(MAKE) -f CMakeFiles/LintCode.dir/build.make "CMakeFiles/LintCode.dir/Math&BitManipulation/P181.cpp.i"
+.PHONY : Math&BitManipulation/P181.cpp.i
+
+Math&BitManipulation/P181.s: Math&BitManipulation/P181.cpp.s
+
+.PHONY : Math&BitManipulation/P181.s
+
+# target to generate assembly for a file
+Math&BitManipulation/P181.cpp.s:
+	$(MAKE) -f CMakeFiles/LintCode.dir/build.make "CMakeFiles/LintCode.dir/Math&BitManipulation/P181.cpp.s"
+.PHONY : Math&BitManipulation/P181.cpp.s
+
 String/P13.o: String/P13.cpp.o
 
 .PHONY : String/P13.o
@@ -837,6 +1026,27 @@ help:
 	@echo "... Array/P64.o"
 	@echo "... Array/P64.i"
 	@echo "... Array/P64.s"
+	@echo "... Greedy/P82.o"
+	@echo "... Greedy/P82.i"
+	@echo "... Greedy/P82.s"
+	@echo "... Math&BitManipulation/P140.o"
+	@echo "... Math&BitManipulation/P140.i"
+	@echo "... Math&BitManipulation/P140.s"
+	@echo "... Math&BitManipulation/P142.o"
+	@echo "... Math&BitManipulation/P142.i"
+	@echo "... Math&BitManipulation/P142.s"
+	@echo "... Math&BitManipulation/P163.o"
+	@echo "... Math&BitManipulation/P163.i"
+	@echo "... Math&BitManipulation/P163.s"
+	@echo "... Math&BitManipulation/P179.o"
+	@echo "... Math&BitManipulation/P179.i"
+	@echo "... Math&BitManipulation/P179.s"
+	@echo "... Math&BitManipulation/P180.o"
+	@echo "... Math&BitManipulation/P180.i"
+	@echo "... Math&BitManipulation/P180.s"
+	@echo "... Math&BitManipulation/P181.o"
+	@echo "... Math&BitManipulation/P181.i"
+	@echo "... Math&BitManipulation/P181.s"
 	@echo "... String/P13.o"
 	@echo "... String/P13.i"
 	@echo "... String/P13.s"
