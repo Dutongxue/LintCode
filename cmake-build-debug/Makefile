@@ -393,6 +393,168 @@ Array/P64.cpp.s:
 	$(MAKE) -f CMakeFiles/LintCode.dir/build.make CMakeFiles/LintCode.dir/Array/P64.cpp.s
 .PHONY : Array/P64.cpp.s
 
+Greedy/P116.o: Greedy/P116.cpp.o
+
+.PHONY : Greedy/P116.o
+
+# target to build an object file
+Greedy/P116.cpp.o:
+	$(MAKE) -f CMakeFiles/LintCode.dir/build.make CMakeFiles/LintCode.dir/Greedy/P116.cpp.o
+.PHONY : Greedy/P116.cpp.o
+
+Greedy/P116.i: Greedy/P116.cpp.i
+
+.PHONY : Greedy/P116.i
+
+# target to preprocess a source file
+Greedy/P116.cpp.i:
+	$(MAKE) -f CMakeFiles/LintCode.dir/build.make CMakeFiles/LintCode.dir/Greedy/P116.cpp.i
+.PHONY : Greedy/P116.cpp.i
+
+Greedy/P116.s: Greedy/P116.cpp.s
+
+.PHONY : Greedy/P116.s
+
+# target to generate assembly for a file
+Greedy/P116.cpp.s:
+	$(MAKE) -f CMakeFiles/LintCode.dir/build.make CMakeFiles/LintCode.dir/Greedy/P116.cpp.s
+.PHONY : Greedy/P116.cpp.s
+
+Greedy/P182.o: Greedy/P182.cpp.o
+
+.PHONY : Greedy/P182.o
+
+# target to build an object file
+Greedy/P182.cpp.o:
+	$(MAKE) -f CMakeFiles/LintCode.dir/build.make CMakeFiles/LintCode.dir/Greedy/P182.cpp.o
+.PHONY : Greedy/P182.cpp.o
+
+Greedy/P182.i: Greedy/P182.cpp.i
+
+.PHONY : Greedy/P182.i
+
+# target to preprocess a source file
+Greedy/P182.cpp.i:
+	$(MAKE) -f CMakeFiles/LintCode.dir/build.make CMakeFiles/LintCode.dir/Greedy/P182.cpp.i
+.PHONY : Greedy/P182.cpp.i
+
+Greedy/P182.s: Greedy/P182.cpp.s
+
+.PHONY : Greedy/P182.s
+
+# target to generate assembly for a file
+Greedy/P182.cpp.s:
+	$(MAKE) -f CMakeFiles/LintCode.dir/build.make CMakeFiles/LintCode.dir/Greedy/P182.cpp.s
+.PHONY : Greedy/P182.cpp.s
+
+Greedy/P184.o: Greedy/P184.cpp.o
+
+.PHONY : Greedy/P184.o
+
+# target to build an object file
+Greedy/P184.cpp.o:
+	$(MAKE) -f CMakeFiles/LintCode.dir/build.make CMakeFiles/LintCode.dir/Greedy/P184.cpp.o
+.PHONY : Greedy/P184.cpp.o
+
+Greedy/P184.i: Greedy/P184.cpp.i
+
+.PHONY : Greedy/P184.i
+
+# target to preprocess a source file
+Greedy/P184.cpp.i:
+	$(MAKE) -f CMakeFiles/LintCode.dir/build.make CMakeFiles/LintCode.dir/Greedy/P184.cpp.i
+.PHONY : Greedy/P184.cpp.i
+
+Greedy/P184.s: Greedy/P184.cpp.s
+
+.PHONY : Greedy/P184.s
+
+# target to generate assembly for a file
+Greedy/P184.cpp.s:
+	$(MAKE) -f CMakeFiles/LintCode.dir/build.make CMakeFiles/LintCode.dir/Greedy/P184.cpp.s
+.PHONY : Greedy/P184.cpp.s
+
+Greedy/P187.o: Greedy/P187.cpp.o
+
+.PHONY : Greedy/P187.o
+
+# target to build an object file
+Greedy/P187.cpp.o:
+	$(MAKE) -f CMakeFiles/LintCode.dir/build.make CMakeFiles/LintCode.dir/Greedy/P187.cpp.o
+.PHONY : Greedy/P187.cpp.o
+
+Greedy/P187.i: Greedy/P187.cpp.i
+
+.PHONY : Greedy/P187.i
+
+# target to preprocess a source file
+Greedy/P187.cpp.i:
+	$(MAKE) -f CMakeFiles/LintCode.dir/build.make CMakeFiles/LintCode.dir/Greedy/P187.cpp.i
+.PHONY : Greedy/P187.cpp.i
+
+Greedy/P187.s: Greedy/P187.cpp.s
+
+.PHONY : Greedy/P187.s
+
+# target to generate assembly for a file
+Greedy/P187.cpp.s:
+	$(MAKE) -f CMakeFiles/LintCode.dir/build.make CMakeFiles/LintCode.dir/Greedy/P187.cpp.s
+.PHONY : Greedy/P187.cpp.s
+
+Greedy/P46.o: Greedy/P46.cpp.o
+
+.PHONY : Greedy/P46.o
+
+# target to build an object file
+Greedy/P46.cpp.o:
+	$(MAKE) -f CMakeFiles/LintCode.dir/build.make CMakeFiles/LintCode.dir/Greedy/P46.cpp.o
+.PHONY : Greedy/P46.cpp.o
+
+Greedy/P46.i: Greedy/P46.cpp.i
+
+.PHONY : Greedy/P46.i
+
+# target to preprocess a source file
+Greedy/P46.cpp.i:
+	$(MAKE) -f CMakeFiles/LintCode.dir/build.make CMakeFiles/LintCode.dir/Greedy/P46.cpp.i
+.PHONY : Greedy/P46.cpp.i
+
+Greedy/P46.s: Greedy/P46.cpp.s
+
+.PHONY : Greedy/P46.s
+
+# target to generate assembly for a file
+Greedy/P46.cpp.s:
+	$(MAKE) -f CMakeFiles/LintCode.dir/build.make CMakeFiles/LintCode.dir/Greedy/P46.cpp.s
+.PHONY : Greedy/P46.cpp.s
+
+Greedy/P52.o: Greedy/P52.cpp.o
+
+.PHONY : Greedy/P52.o
+
+# target to build an object file
+Greedy/P52.cpp.o:
+	$(MAKE) -f CMakeFiles/LintCode.dir/build.make CMakeFiles/LintCode.dir/Greedy/P52.cpp.o
+.PHONY : Greedy/P52.cpp.o
+
+Greedy/P52.i: Greedy/P52.cpp.i
+
+.PHONY : Greedy/P52.i
+
+# target to preprocess a source file
+Greedy/P52.cpp.i:
+	$(MAKE) -f CMakeFiles/LintCode.dir/build.make CMakeFiles/LintCode.dir/Greedy/P52.cpp.i
+.PHONY : Greedy/P52.cpp.i
+
+Greedy/P52.s: Greedy/P52.cpp.s
+
+.PHONY : Greedy/P52.s
+
+# target to generate assembly for a file
+Greedy/P52.cpp.s:
+	$(MAKE) -f CMakeFiles/LintCode.dir/build.make CMakeFiles/LintCode.dir/Greedy/P52.cpp.s
+.PHONY : Greedy/P52.cpp.s
+
 Greedy/P82.o: Greedy/P82.cpp.o
 
 .PHONY : Greedy/P82.o
@@ -1026,6 +1188,24 @@ help:
 	@echo "... Array/P64.o"
 	@echo "... Array/P64.i"
 	@echo "... Array/P64.s"
+	@echo "... Greedy/P116.o"
+	@echo "... Greedy/P116.i"
+	@echo "... Greedy/P116.s"
+	@echo "... Greedy/P182.o"
+	@echo "... Greedy/P182.i"
+	@echo "... Greedy/P182.s"
+	@echo "... Greedy/P184.o"
+	@echo "... Greedy/P184.i"
+	@echo "... Greedy/P184.s"
+	@echo "... Greedy/P187.o"
+	@echo "... Greedy/P187.i"
+	@echo "... Greedy/P187.s"
+	@echo "... Greedy/P46.o"
+	@echo "... Greedy/P46.i"
+	@echo "... Greedy/P46.s"
+	@echo "... Greedy/P52.o"
+	@echo "... Greedy/P52.i"
+	@echo "... Greedy/P52.s"
 	@echo "... Greedy/P82.o"
 	@echo "... Greedy/P82.i"
 	@echo "... Greedy/P82.s"

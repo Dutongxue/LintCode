@@ -35,6 +35,27 @@ CMakeFiles/LintCode.dir/Array/P59.cpp.o: ../Array/P59.h
 CMakeFiles/LintCode.dir/Array/P64.cpp.o: ../Array/P64.cpp
 CMakeFiles/LintCode.dir/Array/P64.cpp.o: ../Array/P64.h
 
+CMakeFiles/LintCode.dir/Greedy/P116.cpp.o: ../Greedy/P116.cpp
+CMakeFiles/LintCode.dir/Greedy/P116.cpp.o: ../Greedy/P116.h
+
+CMakeFiles/LintCode.dir/Greedy/P182.cpp.o: ../Greedy/P182.cpp
+CMakeFiles/LintCode.dir/Greedy/P182.cpp.o: ../Greedy/P182.h
+CMakeFiles/LintCode.dir/Greedy/P182.cpp.o: ../main.h
+
+CMakeFiles/LintCode.dir/Greedy/P184.cpp.o: ../Greedy/P184.cpp
+CMakeFiles/LintCode.dir/Greedy/P184.cpp.o: ../Greedy/P184.h
+CMakeFiles/LintCode.dir/Greedy/P184.cpp.o: ../main.h
+
+CMakeFiles/LintCode.dir/Greedy/P187.cpp.o: ../Greedy/P187.cpp
+CMakeFiles/LintCode.dir/Greedy/P187.cpp.o: ../Greedy/P187.h
+
+CMakeFiles/LintCode.dir/Greedy/P46.cpp.o: ../Greedy/P46.cpp
+CMakeFiles/LintCode.dir/Greedy/P46.cpp.o: ../Greedy/P46.h
+
+CMakeFiles/LintCode.dir/Greedy/P52.cpp.o: ../Greedy/P52.cpp
+CMakeFiles/LintCode.dir/Greedy/P52.cpp.o: ../Greedy/P52.h
+CMakeFiles/LintCode.dir/Greedy/P52.cpp.o: ../main.h
+
 CMakeFiles/LintCode.dir/Greedy/P82.cpp.o: ../Greedy/P82.cpp
 CMakeFiles/LintCode.dir/Greedy/P82.cpp.o: ../Greedy/P82.h
 
@@ -97,7 +118,7 @@ CMakeFiles/LintCode.dir/binSearch/P75.cpp.o: ../binSearch/P75.cpp
 CMakeFiles/LintCode.dir/binSearch/P75.cpp.o: ../binSearch/P75.h
 
 CMakeFiles/LintCode.dir/main.cpp.o: ../Array/P57.h
-CMakeFiles/LintCode.dir/main.cpp.o: ../Greedy/P82.h
+CMakeFiles/LintCode.dir/main.cpp.o: ../Greedy/P52.h
 CMakeFiles/LintCode.dir/main.cpp.o: ../Math&BitManipulation/P163.h
 CMakeFiles/LintCode.dir/main.cpp.o: ../String/P13.h
 CMakeFiles/LintCode.dir/main.cpp.o: ../String/P55.h

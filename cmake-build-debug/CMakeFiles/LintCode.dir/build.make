@@ -825,6 +825,150 @@ CMakeFiles/LintCode.dir/Greedy/P82.cpp.o.provides: CMakeFiles/LintCode.dir/Greed
 CMakeFiles/LintCode.dir/Greedy/P82.cpp.o.provides.build: CMakeFiles/LintCode.dir/Greedy/P82.cpp.o
 
 
+CMakeFiles/LintCode.dir/Greedy/P46.cpp.o: CMakeFiles/LintCode.dir/flags.make
+CMakeFiles/LintCode.dir/Greedy/P46.cpp.o: ../Greedy/P46.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/enheng/CLionProjects/LintCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_33) "Building CXX object CMakeFiles/LintCode.dir/Greedy/P46.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LintCode.dir/Greedy/P46.cpp.o -c /home/enheng/CLionProjects/LintCode/Greedy/P46.cpp
+
+CMakeFiles/LintCode.dir/Greedy/P46.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LintCode.dir/Greedy/P46.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/enheng/CLionProjects/LintCode/Greedy/P46.cpp > CMakeFiles/LintCode.dir/Greedy/P46.cpp.i
+
+CMakeFiles/LintCode.dir/Greedy/P46.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LintCode.dir/Greedy/P46.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/enheng/CLionProjects/LintCode/Greedy/P46.cpp -o CMakeFiles/LintCode.dir/Greedy/P46.cpp.s
+
+CMakeFiles/LintCode.dir/Greedy/P46.cpp.o.requires:
+
+.PHONY : CMakeFiles/LintCode.dir/Greedy/P46.cpp.o.requires
+
+CMakeFiles/LintCode.dir/Greedy/P46.cpp.o.provides: CMakeFiles/LintCode.dir/Greedy/P46.cpp.o.requires
+	$(MAKE) -f CMakeFiles/LintCode.dir/build.make CMakeFiles/LintCode.dir/Greedy/P46.cpp.o.provides.build
+.PHONY : CMakeFiles/LintCode.dir/Greedy/P46.cpp.o.provides
+
+CMakeFiles/LintCode.dir/Greedy/P46.cpp.o.provides.build: CMakeFiles/LintCode.dir/Greedy/P46.cpp.o
+
+
+CMakeFiles/LintCode.dir/Greedy/P187.cpp.o: CMakeFiles/LintCode.dir/flags.make
+CMakeFiles/LintCode.dir/Greedy/P187.cpp.o: ../Greedy/P187.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/enheng/CLionProjects/LintCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_34) "Building CXX object CMakeFiles/LintCode.dir/Greedy/P187.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LintCode.dir/Greedy/P187.cpp.o -c /home/enheng/CLionProjects/LintCode/Greedy/P187.cpp
+
+CMakeFiles/LintCode.dir/Greedy/P187.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LintCode.dir/Greedy/P187.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/enheng/CLionProjects/LintCode/Greedy/P187.cpp > CMakeFiles/LintCode.dir/Greedy/P187.cpp.i
+
+CMakeFiles/LintCode.dir/Greedy/P187.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LintCode.dir/Greedy/P187.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/enheng/CLionProjects/LintCode/Greedy/P187.cpp -o CMakeFiles/LintCode.dir/Greedy/P187.cpp.s
+
+CMakeFiles/LintCode.dir/Greedy/P187.cpp.o.requires:
+
+.PHONY : CMakeFiles/LintCode.dir/Greedy/P187.cpp.o.requires
+
+CMakeFiles/LintCode.dir/Greedy/P187.cpp.o.provides: CMakeFiles/LintCode.dir/Greedy/P187.cpp.o.requires
+	$(MAKE) -f CMakeFiles/LintCode.dir/build.make CMakeFiles/LintCode.dir/Greedy/P187.cpp.o.provides.build
+.PHONY : CMakeFiles/LintCode.dir/Greedy/P187.cpp.o.provides
+
+CMakeFiles/LintCode.dir/Greedy/P187.cpp.o.provides.build: CMakeFiles/LintCode.dir/Greedy/P187.cpp.o
+
+
+CMakeFiles/LintCode.dir/Greedy/P184.cpp.o: CMakeFiles/LintCode.dir/flags.make
+CMakeFiles/LintCode.dir/Greedy/P184.cpp.o: ../Greedy/P184.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/enheng/CLionProjects/LintCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_35) "Building CXX object CMakeFiles/LintCode.dir/Greedy/P184.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LintCode.dir/Greedy/P184.cpp.o -c /home/enheng/CLionProjects/LintCode/Greedy/P184.cpp
+
+CMakeFiles/LintCode.dir/Greedy/P184.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LintCode.dir/Greedy/P184.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/enheng/CLionProjects/LintCode/Greedy/P184.cpp > CMakeFiles/LintCode.dir/Greedy/P184.cpp.i
+
+CMakeFiles/LintCode.dir/Greedy/P184.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LintCode.dir/Greedy/P184.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/enheng/CLionProjects/LintCode/Greedy/P184.cpp -o CMakeFiles/LintCode.dir/Greedy/P184.cpp.s
+
+CMakeFiles/LintCode.dir/Greedy/P184.cpp.o.requires:
+
+.PHONY : CMakeFiles/LintCode.dir/Greedy/P184.cpp.o.requires
+
+CMakeFiles/LintCode.dir/Greedy/P184.cpp.o.provides: CMakeFiles/LintCode.dir/Greedy/P184.cpp.o.requires
+	$(MAKE) -f CMakeFiles/LintCode.dir/build.make CMakeFiles/LintCode.dir/Greedy/P184.cpp.o.provides.build
+.PHONY : CMakeFiles/LintCode.dir/Greedy/P184.cpp.o.provides
+
+CMakeFiles/LintCode.dir/Greedy/P184.cpp.o.provides.build: CMakeFiles/LintCode.dir/Greedy/P184.cpp.o
+
+
+CMakeFiles/LintCode.dir/Greedy/P182.cpp.o: CMakeFiles/LintCode.dir/flags.make
+CMakeFiles/LintCode.dir/Greedy/P182.cpp.o: ../Greedy/P182.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/enheng/CLionProjects/LintCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_36) "Building CXX object CMakeFiles/LintCode.dir/Greedy/P182.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LintCode.dir/Greedy/P182.cpp.o -c /home/enheng/CLionProjects/LintCode/Greedy/P182.cpp
+
+CMakeFiles/LintCode.dir/Greedy/P182.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LintCode.dir/Greedy/P182.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/enheng/CLionProjects/LintCode/Greedy/P182.cpp > CMakeFiles/LintCode.dir/Greedy/P182.cpp.i
+
+CMakeFiles/LintCode.dir/Greedy/P182.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LintCode.dir/Greedy/P182.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/enheng/CLionProjects/LintCode/Greedy/P182.cpp -o CMakeFiles/LintCode.dir/Greedy/P182.cpp.s
+
+CMakeFiles/LintCode.dir/Greedy/P182.cpp.o.requires:
+
+.PHONY : CMakeFiles/LintCode.dir/Greedy/P182.cpp.o.requires
+
+CMakeFiles/LintCode.dir/Greedy/P182.cpp.o.provides: CMakeFiles/LintCode.dir/Greedy/P182.cpp.o.requires
+	$(MAKE) -f CMakeFiles/LintCode.dir/build.make CMakeFiles/LintCode.dir/Greedy/P182.cpp.o.provides.build
+.PHONY : CMakeFiles/LintCode.dir/Greedy/P182.cpp.o.provides
+
+CMakeFiles/LintCode.dir/Greedy/P182.cpp.o.provides.build: CMakeFiles/LintCode.dir/Greedy/P182.cpp.o
+
+
+CMakeFiles/LintCode.dir/Greedy/P116.cpp.o: CMakeFiles/LintCode.dir/flags.make
+CMakeFiles/LintCode.dir/Greedy/P116.cpp.o: ../Greedy/P116.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/enheng/CLionProjects/LintCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_37) "Building CXX object CMakeFiles/LintCode.dir/Greedy/P116.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LintCode.dir/Greedy/P116.cpp.o -c /home/enheng/CLionProjects/LintCode/Greedy/P116.cpp
+
+CMakeFiles/LintCode.dir/Greedy/P116.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LintCode.dir/Greedy/P116.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/enheng/CLionProjects/LintCode/Greedy/P116.cpp > CMakeFiles/LintCode.dir/Greedy/P116.cpp.i
+
+CMakeFiles/LintCode.dir/Greedy/P116.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LintCode.dir/Greedy/P116.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/enheng/CLionProjects/LintCode/Greedy/P116.cpp -o CMakeFiles/LintCode.dir/Greedy/P116.cpp.s
+
+CMakeFiles/LintCode.dir/Greedy/P116.cpp.o.requires:
+
+.PHONY : CMakeFiles/LintCode.dir/Greedy/P116.cpp.o.requires
+
+CMakeFiles/LintCode.dir/Greedy/P116.cpp.o.provides: CMakeFiles/LintCode.dir/Greedy/P116.cpp.o.requires
+	$(MAKE) -f CMakeFiles/LintCode.dir/build.make CMakeFiles/LintCode.dir/Greedy/P116.cpp.o.provides.build
+.PHONY : CMakeFiles/LintCode.dir/Greedy/P116.cpp.o.provides
+
+CMakeFiles/LintCode.dir/Greedy/P116.cpp.o.provides.build: CMakeFiles/LintCode.dir/Greedy/P116.cpp.o
+
+
+CMakeFiles/LintCode.dir/Greedy/P52.cpp.o: CMakeFiles/LintCode.dir/flags.make
+CMakeFiles/LintCode.dir/Greedy/P52.cpp.o: ../Greedy/P52.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/enheng/CLionProjects/LintCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_38) "Building CXX object CMakeFiles/LintCode.dir/Greedy/P52.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LintCode.dir/Greedy/P52.cpp.o -c /home/enheng/CLionProjects/LintCode/Greedy/P52.cpp
+
+CMakeFiles/LintCode.dir/Greedy/P52.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LintCode.dir/Greedy/P52.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/enheng/CLionProjects/LintCode/Greedy/P52.cpp > CMakeFiles/LintCode.dir/Greedy/P52.cpp.i
+
+CMakeFiles/LintCode.dir/Greedy/P52.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LintCode.dir/Greedy/P52.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/enheng/CLionProjects/LintCode/Greedy/P52.cpp -o CMakeFiles/LintCode.dir/Greedy/P52.cpp.s
+
+CMakeFiles/LintCode.dir/Greedy/P52.cpp.o.requires:
+
+.PHONY : CMakeFiles/LintCode.dir/Greedy/P52.cpp.o.requires
+
+CMakeFiles/LintCode.dir/Greedy/P52.cpp.o.provides: CMakeFiles/LintCode.dir/Greedy/P52.cpp.o.requires
+	$(MAKE) -f CMakeFiles/LintCode.dir/build.make CMakeFiles/LintCode.dir/Greedy/P52.cpp.o.provides.build
+.PHONY : CMakeFiles/LintCode.dir/Greedy/P52.cpp.o.provides
+
+CMakeFiles/LintCode.dir/Greedy/P52.cpp.o.provides.build: CMakeFiles/LintCode.dir/Greedy/P52.cpp.o
+
+
 # Object files for target LintCode
 LintCode_OBJECTS = \
 "CMakeFiles/LintCode.dir/main.cpp.o" \
@@ -858,7 +1002,13 @@ LintCode_OBJECTS = \
 "CMakeFiles/LintCode.dir/Math&BitManipulation/P180.cpp.o" \
 "CMakeFiles/LintCode.dir/Math&BitManipulation/P140.cpp.o" \
 "CMakeFiles/LintCode.dir/Math&BitManipulation/P163.cpp.o" \
-"CMakeFiles/LintCode.dir/Greedy/P82.cpp.o"
+"CMakeFiles/LintCode.dir/Greedy/P82.cpp.o" \
+"CMakeFiles/LintCode.dir/Greedy/P46.cpp.o" \
+"CMakeFiles/LintCode.dir/Greedy/P187.cpp.o" \
+"CMakeFiles/LintCode.dir/Greedy/P184.cpp.o" \
+"CMakeFiles/LintCode.dir/Greedy/P182.cpp.o" \
+"CMakeFiles/LintCode.dir/Greedy/P116.cpp.o" \
+"CMakeFiles/LintCode.dir/Greedy/P52.cpp.o"
 
 # External object files for target LintCode
 LintCode_EXTERNAL_OBJECTS =
@@ -895,9 +1045,15 @@ LintCode: CMakeFiles/LintCode.dir/Math&BitManipulation/P180.cpp.o
 LintCode: CMakeFiles/LintCode.dir/Math&BitManipulation/P140.cpp.o
 LintCode: CMakeFiles/LintCode.dir/Math&BitManipulation/P163.cpp.o
 LintCode: CMakeFiles/LintCode.dir/Greedy/P82.cpp.o
+LintCode: CMakeFiles/LintCode.dir/Greedy/P46.cpp.o
+LintCode: CMakeFiles/LintCode.dir/Greedy/P187.cpp.o
+LintCode: CMakeFiles/LintCode.dir/Greedy/P184.cpp.o
+LintCode: CMakeFiles/LintCode.dir/Greedy/P182.cpp.o
+LintCode: CMakeFiles/LintCode.dir/Greedy/P116.cpp.o
+LintCode: CMakeFiles/LintCode.dir/Greedy/P52.cpp.o
 LintCode: CMakeFiles/LintCode.dir/build.make
 LintCode: CMakeFiles/LintCode.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/enheng/CLionProjects/LintCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_33) "Linking CXX executable LintCode"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/enheng/CLionProjects/LintCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_39) "Linking CXX executable LintCode"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/LintCode.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -937,6 +1093,12 @@ CMakeFiles/LintCode.dir/requires: CMakeFiles/LintCode.dir/Math&BitManipulation/P
 CMakeFiles/LintCode.dir/requires: CMakeFiles/LintCode.dir/Math&BitManipulation/P140.cpp.o.requires
 CMakeFiles/LintCode.dir/requires: CMakeFiles/LintCode.dir/Math&BitManipulation/P163.cpp.o.requires
 CMakeFiles/LintCode.dir/requires: CMakeFiles/LintCode.dir/Greedy/P82.cpp.o.requires
+CMakeFiles/LintCode.dir/requires: CMakeFiles/LintCode.dir/Greedy/P46.cpp.o.requires
+CMakeFiles/LintCode.dir/requires: CMakeFiles/LintCode.dir/Greedy/P187.cpp.o.requires
+CMakeFiles/LintCode.dir/requires: CMakeFiles/LintCode.dir/Greedy/P184.cpp.o.requires
+CMakeFiles/LintCode.dir/requires: CMakeFiles/LintCode.dir/Greedy/P182.cpp.o.requires
+CMakeFiles/LintCode.dir/requires: CMakeFiles/LintCode.dir/Greedy/P116.cpp.o.requires
+CMakeFiles/LintCode.dir/requires: CMakeFiles/LintCode.dir/Greedy/P52.cpp.o.requires
 
 .PHONY : CMakeFiles/LintCode.dir/requires
 
