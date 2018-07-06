@@ -37,6 +37,11 @@ file(REMOVE_RECURSE
   "CMakeFiles/LintCode.dir/Greedy/P182.cpp.o"
   "CMakeFiles/LintCode.dir/Greedy/P116.cpp.o"
   "CMakeFiles/LintCode.dir/Greedy/P52.cpp.o"
+  "CMakeFiles/LintCode.dir/linkedList/P174.cpp.o"
+  "CMakeFiles/LintCode.dir/linkedList/165.cpp.o"
+  "CMakeFiles/LintCode.dir/linkedList/P112.cpp.o"
+  "CMakeFiles/LintCode.dir/linkedList/P96.cpp.o"
+  "CMakeFiles/LintCode.dir/linkedList/P170.cpp.o"
   "LintCode.pdb"
   "LintCode"
 )

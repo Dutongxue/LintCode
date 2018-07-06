@@ -300,6 +300,36 @@
 		<Unit filename="/home/enheng/CLionProjects/LintCode/binSearch/P75.h">
 			<Option target="LintCode"/>
 		</Unit>
+		<Unit filename="/home/enheng/CLionProjects/LintCode/linkedList/165.cpp">
+			<Option target="LintCode"/>
+		</Unit>
+		<Unit filename="/home/enheng/CLionProjects/LintCode/linkedList/165.h">
+			<Option target="LintCode"/>
+		</Unit>
+		<Unit filename="/home/enheng/CLionProjects/LintCode/linkedList/P112.cpp">
+			<Option target="LintCode"/>
+		</Unit>
+		<Unit filename="/home/enheng/CLionProjects/LintCode/linkedList/P112.h">
+			<Option target="LintCode"/>
+		</Unit>
+		<Unit filename="/home/enheng/CLionProjects/LintCode/linkedList/P170.cpp">
+			<Option target="LintCode"/>
+		</Unit>
+		<Unit filename="/home/enheng/CLionProjects/LintCode/linkedList/P170.h">
+			<Option target="LintCode"/>
+		</Unit>
+		<Unit filename="/home/enheng/CLionProjects/LintCode/linkedList/P174.cpp">
+			<Option target="LintCode"/>
+		</Unit>
+		<Unit filename="/home/enheng/CLionProjects/LintCode/linkedList/P174.h">
+			<Option target="LintCode"/>
+		</Unit>
+		<Unit filename="/home/enheng/CLionProjects/LintCode/linkedList/P96.cpp">
+			<Option target="LintCode"/>
+		</Unit>
+		<Unit filename="/home/enheng/CLionProjects/LintCode/linkedList/P96.h">
+			<Option target="LintCode"/>
+		</Unit>
 		<Unit filename="/home/enheng/CLionProjects/LintCode/main.cpp">
 			<Option target="LintCode"/>
 		</Unit>

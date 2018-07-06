@@ -117,12 +117,26 @@ CMakeFiles/LintCode.dir/binSearch/P74.cpp.o: ../binSearch/P74.h
 CMakeFiles/LintCode.dir/binSearch/P75.cpp.o: ../binSearch/P75.cpp
 CMakeFiles/LintCode.dir/binSearch/P75.cpp.o: ../binSearch/P75.h
 
+CMakeFiles/LintCode.dir/linkedList/165.cpp.o: ../linkedList/165.cpp
+CMakeFiles/LintCode.dir/linkedList/165.cpp.o: ../linkedList/165.h
+
+CMakeFiles/LintCode.dir/linkedList/P112.cpp.o: ../linkedList/P112.cpp
+CMakeFiles/LintCode.dir/linkedList/P112.cpp.o: ../linkedList/P112.h
+
+CMakeFiles/LintCode.dir/linkedList/P174.cpp.o: ../linkedList/P174.cpp
+CMakeFiles/LintCode.dir/linkedList/P174.cpp.o: ../linkedList/P174.h
+
+CMakeFiles/LintCode.dir/linkedList/P96.cpp.o: ../linkedList/P96.cpp
+CMakeFiles/LintCode.dir/linkedList/P96.cpp.o: ../linkedList/P96.h
+CMakeFiles/LintCode.dir/linkedList/P96.cpp.o: ../main.h
+
 CMakeFiles/LintCode.dir/main.cpp.o: ../Array/P57.h
 CMakeFiles/LintCode.dir/main.cpp.o: ../Greedy/P52.h
 CMakeFiles/LintCode.dir/main.cpp.o: ../Math&BitManipulation/P163.h
 CMakeFiles/LintCode.dir/main.cpp.o: ../String/P13.h
 CMakeFiles/LintCode.dir/main.cpp.o: ../String/P55.h
 CMakeFiles/LintCode.dir/main.cpp.o: ../binSearch/P183.h
+CMakeFiles/LintCode.dir/main.cpp.o: ../linkedList/P96.h
 CMakeFiles/LintCode.dir/main.cpp.o: ../main.cpp
 CMakeFiles/LintCode.dir/main.cpp.o: ../main.h
 

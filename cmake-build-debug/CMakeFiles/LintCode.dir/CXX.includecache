@@ -430,6 +430,42 @@ vector
 
 /home/enheng/CLionProjects/LintCode/binSearch/P75.h
 
+/home/enheng/CLionProjects/LintCode/linkedList/165.cpp
+165.h
+/home/enheng/CLionProjects/LintCode/linkedList/165.h
+iostream
+-
+
+/home/enheng/CLionProjects/LintCode/linkedList/165.h
+
+/home/enheng/CLionProjects/LintCode/linkedList/P112.cpp
+P112.h
+/home/enheng/CLionProjects/LintCode/linkedList/P112.h
+iostream
+-
+
+/home/enheng/CLionProjects/LintCode/linkedList/P112.h
+
+/home/enheng/CLionProjects/LintCode/linkedList/P174.cpp
+P174.h
+/home/enheng/CLionProjects/LintCode/linkedList/P174.h
+iostream
+-
+vector
+-
+
+/home/enheng/CLionProjects/LintCode/linkedList/P174.h
+
+/home/enheng/CLionProjects/LintCode/linkedList/P96.cpp
+P96.h
+/home/enheng/CLionProjects/LintCode/linkedList/P96.h
+../main.h
+/home/enheng/CLionProjects/LintCode/main.h
+iostream
+-
+
+/home/enheng/CLionProjects/LintCode/linkedList/P96.h
+
 /home/enheng/CLionProjects/LintCode/main.cpp
 main.h
 /home/enheng/CLionProjects/LintCode/main.h
@@ -445,11 +481,17 @@ Math&BitManipulation/P163.h
 /home/enheng/CLionProjects/LintCode/Math&BitManipulation/P163.h
 Greedy/P52.h
 /home/enheng/CLionProjects/LintCode/Greedy/P52.h
+linkedList/P96.h
+/home/enheng/CLionProjects/LintCode/linkedList/P96.h
 
 /home/enheng/CLionProjects/LintCode/main.h
 iostream
 -
 vector
+-
+cstring
+-
+string
 -
 
 /home/enheng/CLionProjects/LintCode/other/P28.cpp

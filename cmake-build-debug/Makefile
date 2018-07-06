@@ -1095,6 +1095,141 @@ binSearch/P75.cpp.s:
 	$(MAKE) -f CMakeFiles/LintCode.dir/build.make CMakeFiles/LintCode.dir/binSearch/P75.cpp.s
 .PHONY : binSearch/P75.cpp.s
 
+linkedList/165.o: linkedList/165.cpp.o
+
+.PHONY : linkedList/165.o
+
+# target to build an object file
+linkedList/165.cpp.o:
+	$(MAKE) -f CMakeFiles/LintCode.dir/build.make CMakeFiles/LintCode.dir/linkedList/165.cpp.o
+.PHONY : linkedList/165.cpp.o
+
+linkedList/165.i: linkedList/165.cpp.i
+
+.PHONY : linkedList/165.i
+
+# target to preprocess a source file
+linkedList/165.cpp.i:
+	$(MAKE) -f CMakeFiles/LintCode.dir/build.make CMakeFiles/LintCode.dir/linkedList/165.cpp.i
+.PHONY : linkedList/165.cpp.i
+
+linkedList/165.s: linkedList/165.cpp.s
+
+.PHONY : linkedList/165.s
+
+# target to generate assembly for a file
+linkedList/165.cpp.s:
+	$(MAKE) -f CMakeFiles/LintCode.dir/build.make CMakeFiles/LintCode.dir/linkedList/165.cpp.s
+.PHONY : linkedList/165.cpp.s
+
+linkedList/P112.o: linkedList/P112.cpp.o
+
+.PHONY : linkedList/P112.o
+
+# target to build an object file
+linkedList/P112.cpp.o:
+	$(MAKE) -f CMakeFiles/LintCode.dir/build.make CMakeFiles/LintCode.dir/linkedList/P112.cpp.o
+.PHONY : linkedList/P112.cpp.o
+
+linkedList/P112.i: linkedList/P112.cpp.i
+
+.PHONY : linkedList/P112.i
+
+# target to preprocess a source file
+linkedList/P112.cpp.i:
+	$(MAKE) -f CMakeFiles/LintCode.dir/build.make CMakeFiles/LintCode.dir/linkedList/P112.cpp.i
+.PHONY : linkedList/P112.cpp.i
+
+linkedList/P112.s: linkedList/P112.cpp.s
+
+.PHONY : linkedList/P112.s
+
+# target to generate assembly for a file
+linkedList/P112.cpp.s:
+	$(MAKE) -f CMakeFiles/LintCode.dir/build.make CMakeFiles/LintCode.dir/linkedList/P112.cpp.s
+.PHONY : linkedList/P112.cpp.s
+
+linkedList/P170.o: linkedList/P170.cpp.o
+
+.PHONY : linkedList/P170.o
+
+# target to build an object file
+linkedList/P170.cpp.o:
+	$(MAKE) -f CMakeFiles/LintCode.dir/build.make CMakeFiles/LintCode.dir/linkedList/P170.cpp.o
+.PHONY : linkedList/P170.cpp.o
+
+linkedList/P170.i: linkedList/P170.cpp.i
+
+.PHONY : linkedList/P170.i
+
+# target to preprocess a source file
+linkedList/P170.cpp.i:
+	$(MAKE) -f CMakeFiles/LintCode.dir/build.make CMakeFiles/LintCode.dir/linkedList/P170.cpp.i
+.PHONY : linkedList/P170.cpp.i
+
+linkedList/P170.s: linkedList/P170.cpp.s
+
+.PHONY : linkedList/P170.s
+
+# target to generate assembly for a file
+linkedList/P170.cpp.s:
+	$(MAKE) -f CMakeFiles/LintCode.dir/build.make CMakeFiles/LintCode.dir/linkedList/P170.cpp.s
+.PHONY : linkedList/P170.cpp.s
+
+linkedList/P174.o: linkedList/P174.cpp.o
+
+.PHONY : linkedList/P174.o
+
+# target to build an object file
+linkedList/P174.cpp.o:
+	$(MAKE) -f CMakeFiles/LintCode.dir/build.make CMakeFiles/LintCode.dir/linkedList/P174.cpp.o
+.PHONY : linkedList/P174.cpp.o
+
+linkedList/P174.i: linkedList/P174.cpp.i
+
+.PHONY : linkedList/P174.i
+
+# target to preprocess a source file
+linkedList/P174.cpp.i:
+	$(MAKE) -f CMakeFiles/LintCode.dir/build.make CMakeFiles/LintCode.dir/linkedList/P174.cpp.i
+.PHONY : linkedList/P174.cpp.i
+
+linkedList/P174.s: linkedList/P174.cpp.s
+
+.PHONY : linkedList/P174.s
+
+# target to generate assembly for a file
+linkedList/P174.cpp.s:
+	$(MAKE) -f CMakeFiles/LintCode.dir/build.make CMakeFiles/LintCode.dir/linkedList/P174.cpp.s
+.PHONY : linkedList/P174.cpp.s
+
+linkedList/P96.o: linkedList/P96.cpp.o
+
+.PHONY : linkedList/P96.o
+
+# target to build an object file
+linkedList/P96.cpp.o:
+	$(MAKE) -f CMakeFiles/LintCode.dir/build.make CMakeFiles/LintCode.dir/linkedList/P96.cpp.o
+.PHONY : linkedList/P96.cpp.o
+
+linkedList/P96.i: linkedList/P96.cpp.i
+
+.PHONY : linkedList/P96.i
+
+# target to preprocess a source file
+linkedList/P96.cpp.i:
+	$(MAKE) -f CMakeFiles/LintCode.dir/build.make CMakeFiles/LintCode.dir/linkedList/P96.cpp.i
+.PHONY : linkedList/P96.cpp.i
+
+linkedList/P96.s: linkedList/P96.cpp.s
+
+.PHONY : linkedList/P96.s
+
+# target to generate assembly for a file
+linkedList/P96.cpp.s:
+	$(MAKE) -f CMakeFiles/LintCode.dir/build.make CMakeFiles/LintCode.dir/linkedList/P96.cpp.s
+.PHONY : linkedList/P96.cpp.s
+
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -1266,6 +1401,21 @@ help:
 	@echo "... binSearch/P75.o"
 	@echo "... binSearch/P75.i"
 	@echo "... binSearch/P75.s"
+	@echo "... linkedList/165.o"
+	@echo "... linkedList/165.i"
+	@echo "... linkedList/165.s"
+	@echo "... linkedList/P112.o"
+	@echo "... linkedList/P112.i"
+	@echo "... linkedList/P112.s"
+	@echo "... linkedList/P170.o"
+	@echo "... linkedList/P170.i"
+	@echo "... linkedList/P170.s"
+	@echo "... linkedList/P174.o"
+	@echo "... linkedList/P174.i"
+	@echo "... linkedList/P174.s"
+	@echo "... linkedList/P96.o"
+	@echo "... linkedList/P96.i"
+	@echo "... linkedList/P96.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
