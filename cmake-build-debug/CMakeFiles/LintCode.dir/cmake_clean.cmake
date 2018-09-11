@@ -42,8 +42,11 @@ file(REMOVE_RECURSE
   "CMakeFiles/LintCode.dir/linkedList/P112.cpp.o"
   "CMakeFiles/LintCode.dir/linkedList/P96.cpp.o"
   "CMakeFiles/LintCode.dir/linkedList/P170.cpp.o"
+  "CMakeFiles/LintCode.dir/sort/selectionSort.cpp.o"
+  "CMakeFiles/LintCode.dir/sort/sort_test.cpp.o"
   "LintCode.pdb"
-  "LintCode"
+  "LintCode.exe"
+  "libLintCode.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.

@@ -6,21 +6,21 @@
 
 #IncludeRegexTransform: 
 
-/home/enheng/CLionProjects/LintCode/Array/P100.cpp
+/cygdrive/i/LintCode/Array/P100.cpp
 P100.h
-/home/enheng/CLionProjects/LintCode/Array/P100.h
+/cygdrive/i/LintCode/Array/P100.h
 iostream
 -
 vector
 -
 
-/home/enheng/CLionProjects/LintCode/Array/P100.h
+/cygdrive/i/LintCode/Array/P100.h
 
-/home/enheng/CLionProjects/LintCode/Array/P138.cpp
+/cygdrive/i/LintCode/Array/P138.cpp
 P138.h
-/home/enheng/CLionProjects/LintCode/Array/P138.h
+/cygdrive/i/LintCode/Array/P138.h
 ../main.h
-/home/enheng/CLionProjects/LintCode/main.h
+/cygdrive/i/LintCode/main.h
 iostream
 -
 vector
@@ -30,21 +30,21 @@ map
 unordered_map
 -
 
-/home/enheng/CLionProjects/LintCode/Array/P138.h
+/cygdrive/i/LintCode/Array/P138.h
 
-/home/enheng/CLionProjects/LintCode/Array/P172.cpp
+/cygdrive/i/LintCode/Array/P172.cpp
 P172.h
-/home/enheng/CLionProjects/LintCode/Array/P172.h
+/cygdrive/i/LintCode/Array/P172.h
 iostream
 -
 vector
 -
 
-/home/enheng/CLionProjects/LintCode/Array/P172.h
+/cygdrive/i/LintCode/Array/P172.h
 
-/home/enheng/CLionProjects/LintCode/Array/P189.cpp
+/cygdrive/i/LintCode/Array/P189.cpp
 P189.h
-/home/enheng/CLionProjects/LintCode/Array/P189.h
+/cygdrive/i/LintCode/Array/P189.h
 iostream
 -
 vector
@@ -52,11 +52,11 @@ vector
 algorithm
 -
 
-/home/enheng/CLionProjects/LintCode/Array/P189.h
+/cygdrive/i/LintCode/Array/P189.h
 
-/home/enheng/CLionProjects/LintCode/Array/P31.cpp
+/cygdrive/i/LintCode/Array/P31.cpp
 P31.h
-/home/enheng/CLionProjects/LintCode/Array/P31.h
+/cygdrive/i/LintCode/Array/P31.h
 iostream
 -
 vector
@@ -64,25 +64,25 @@ vector
 cassert
 -
 
-/home/enheng/CLionProjects/LintCode/Array/P31.h
+/cygdrive/i/LintCode/Array/P31.h
 
-/home/enheng/CLionProjects/LintCode/Array/P50.cpp
+/cygdrive/i/LintCode/Array/P50.cpp
 P50.h
-/home/enheng/CLionProjects/LintCode/Array/P50.h
+/cygdrive/i/LintCode/Array/P50.h
 ../main.h
-/home/enheng/CLionProjects/LintCode/main.h
+/cygdrive/i/LintCode/main.h
 iostream
 -
 vector
 -
 
-/home/enheng/CLionProjects/LintCode/Array/P50.h
+/cygdrive/i/LintCode/Array/P50.h
 
-/home/enheng/CLionProjects/LintCode/Array/P56.cpp
+/cygdrive/i/LintCode/Array/P56.cpp
 P56.h
-/home/enheng/CLionProjects/LintCode/Array/P56.h
+/cygdrive/i/LintCode/Array/P56.h
 ../main.h
-/home/enheng/CLionProjects/LintCode/main.h
+/cygdrive/i/LintCode/main.h
 iostream
 -
 vector
@@ -90,13 +90,13 @@ vector
 unordered_map
 -
 
-/home/enheng/CLionProjects/LintCode/Array/P56.h
+/cygdrive/i/LintCode/Array/P56.h
 
-/home/enheng/CLionProjects/LintCode/Array/P57.cpp
+/cygdrive/i/LintCode/Array/P57.cpp
 P57.h
-/home/enheng/CLionProjects/LintCode/Array/P57.h
+/cygdrive/i/LintCode/Array/P57.h
 ../main.h
-/home/enheng/CLionProjects/LintCode/main.h
+/cygdrive/i/LintCode/main.h
 iostream
 -
 vector
@@ -106,11 +106,11 @@ algorithm
 unordered_set
 -
 
-/home/enheng/CLionProjects/LintCode/Array/P57.h
+/cygdrive/i/LintCode/Array/P57.h
 
-/home/enheng/CLionProjects/LintCode/Array/P59.cpp
+/cygdrive/i/LintCode/Array/P59.cpp
 P59.h
-/home/enheng/CLionProjects/LintCode/Array/P59.h
+/cygdrive/i/LintCode/Array/P59.h
 iostream
 -
 vector
@@ -120,31 +120,31 @@ algorithm
 numeric
 -
 
-/home/enheng/CLionProjects/LintCode/Array/P59.h
+/cygdrive/i/LintCode/Array/P59.h
 
-/home/enheng/CLionProjects/LintCode/Array/P64.cpp
+/cygdrive/i/LintCode/Array/P64.cpp
 P64.h
-/home/enheng/CLionProjects/LintCode/Array/P64.h
+/cygdrive/i/LintCode/Array/P64.h
 iostream
 -
 
-/home/enheng/CLionProjects/LintCode/Array/P64.h
+/cygdrive/i/LintCode/Array/P64.h
 
-/home/enheng/CLionProjects/LintCode/Greedy/P116.cpp
+/cygdrive/i/LintCode/Greedy/P116.cpp
 P116.h
-/home/enheng/CLionProjects/LintCode/Greedy/P116.h
+/cygdrive/i/LintCode/Greedy/P116.h
 iostream
 -
 vector
 -
 
-/home/enheng/CLionProjects/LintCode/Greedy/P116.h
+/cygdrive/i/LintCode/Greedy/P116.h
 
-/home/enheng/CLionProjects/LintCode/Greedy/P182.cpp
+/cygdrive/i/LintCode/Greedy/P182.cpp
 P182.h
-/home/enheng/CLionProjects/LintCode/Greedy/P182.h
+/cygdrive/i/LintCode/Greedy/P182.h
 ../main.h
-/home/enheng/CLionProjects/LintCode/main.h
+/cygdrive/i/LintCode/main.h
 iostream
 -
 string
@@ -154,13 +154,13 @@ algorithm
 sstream
 -
 
-/home/enheng/CLionProjects/LintCode/Greedy/P182.h
+/cygdrive/i/LintCode/Greedy/P182.h
 
-/home/enheng/CLionProjects/LintCode/Greedy/P184.cpp
+/cygdrive/i/LintCode/Greedy/P184.cpp
 P184.h
-/home/enheng/CLionProjects/LintCode/Greedy/P184.h
+/cygdrive/i/LintCode/Greedy/P184.h
 ../main.h
-/home/enheng/CLionProjects/LintCode/main.h
+/cygdrive/i/LintCode/main.h
 iostream
 -
 vector
@@ -172,33 +172,33 @@ algorithm
 sstream
 -
 
-/home/enheng/CLionProjects/LintCode/Greedy/P184.h
+/cygdrive/i/LintCode/Greedy/P184.h
 
-/home/enheng/CLionProjects/LintCode/Greedy/P187.cpp
+/cygdrive/i/LintCode/Greedy/P187.cpp
 P187.h
-/home/enheng/CLionProjects/LintCode/Greedy/P187.h
+/cygdrive/i/LintCode/Greedy/P187.h
 iostream
 -
 vector
 -
 
-/home/enheng/CLionProjects/LintCode/Greedy/P187.h
+/cygdrive/i/LintCode/Greedy/P187.h
 
-/home/enheng/CLionProjects/LintCode/Greedy/P46.cpp
+/cygdrive/i/LintCode/Greedy/P46.cpp
 P46.h
-/home/enheng/CLionProjects/LintCode/Greedy/P46.h
+/cygdrive/i/LintCode/Greedy/P46.h
 iostream
 -
 vector
 -
 
-/home/enheng/CLionProjects/LintCode/Greedy/P46.h
+/cygdrive/i/LintCode/Greedy/P46.h
 
-/home/enheng/CLionProjects/LintCode/Greedy/P52.cpp
+/cygdrive/i/LintCode/Greedy/P52.cpp
 P52.h
-/home/enheng/CLionProjects/LintCode/Greedy/P52.h
+/cygdrive/i/LintCode/Greedy/P52.h
 ../main.h
-/home/enheng/CLionProjects/LintCode/main.h
+/cygdrive/i/LintCode/main.h
 iostream
 -
 vector
@@ -206,47 +206,47 @@ vector
 algorithm
 -
 
-/home/enheng/CLionProjects/LintCode/Greedy/P52.h
+/cygdrive/i/LintCode/Greedy/P52.h
 
-/home/enheng/CLionProjects/LintCode/Greedy/P82.cpp
+/cygdrive/i/LintCode/Greedy/P82.cpp
 P82.h
-/home/enheng/CLionProjects/LintCode/Greedy/P82.h
+/cygdrive/i/LintCode/Greedy/P82.h
 iostream
 -
 vector
 -
 
-/home/enheng/CLionProjects/LintCode/Greedy/P82.h
+/cygdrive/i/LintCode/Greedy/P82.h
 
-/home/enheng/CLionProjects/LintCode/Math&BitManipulation/P140.cpp
+/cygdrive/i/LintCode/Math&BitManipulation/P140.cpp
 P140.h
-/home/enheng/CLionProjects/LintCode/Math&BitManipulation/P140.h
+/cygdrive/i/LintCode/Math&BitManipulation/P140.h
 iostream
 -
 algorithm
 -
 
-/home/enheng/CLionProjects/LintCode/Math&BitManipulation/P140.h
+/cygdrive/i/LintCode/Math&BitManipulation/P140.h
 
-/home/enheng/CLionProjects/LintCode/Math&BitManipulation/P142.cpp
+/cygdrive/i/LintCode/Math&BitManipulation/P142.cpp
 P142.h
-/home/enheng/CLionProjects/LintCode/Math&BitManipulation/P142.h
+/cygdrive/i/LintCode/Math&BitManipulation/P142.h
 iostream
 -
 
-/home/enheng/CLionProjects/LintCode/Math&BitManipulation/P142.h
+/cygdrive/i/LintCode/Math&BitManipulation/P142.h
 
-/home/enheng/CLionProjects/LintCode/Math&BitManipulation/P163.cpp
+/cygdrive/i/LintCode/Math&BitManipulation/P163.cpp
 P163.h
-/home/enheng/CLionProjects/LintCode/Math&BitManipulation/P163.h
+/cygdrive/i/LintCode/Math&BitManipulation/P163.h
 iostream
 -
 
-/home/enheng/CLionProjects/LintCode/Math&BitManipulation/P163.h
+/cygdrive/i/LintCode/Math&BitManipulation/P163.h
 
-/home/enheng/CLionProjects/LintCode/Math&BitManipulation/P179.cpp
+/cygdrive/i/LintCode/Math&BitManipulation/P179.cpp
 P179.h
-/home/enheng/CLionProjects/LintCode/Math&BitManipulation/P179.h
+/cygdrive/i/LintCode/Math&BitManipulation/P179.h
 iostream
 -
 bitset
@@ -254,11 +254,11 @@ bitset
 iomanip
 -
 
-/home/enheng/CLionProjects/LintCode/Math&BitManipulation/P179.h
+/cygdrive/i/LintCode/Math&BitManipulation/P179.h
 
-/home/enheng/CLionProjects/LintCode/Math&BitManipulation/P180.cpp
+/cygdrive/i/LintCode/Math&BitManipulation/P180.cpp
 P180.h
-/home/enheng/CLionProjects/LintCode/Math&BitManipulation/P180.h
+/cygdrive/i/LintCode/Math&BitManipulation/P180.h
 iostream
 -
 string
@@ -270,19 +270,19 @@ cmath
 bitset
 -
 
-/home/enheng/CLionProjects/LintCode/Math&BitManipulation/P180.h
+/cygdrive/i/LintCode/Math&BitManipulation/P180.h
 
-/home/enheng/CLionProjects/LintCode/Math&BitManipulation/P181.cpp
+/cygdrive/i/LintCode/Math&BitManipulation/P181.cpp
 P181.h
-/home/enheng/CLionProjects/LintCode/Math&BitManipulation/P181.h
+/cygdrive/i/LintCode/Math&BitManipulation/P181.h
 iostream
 -
 
-/home/enheng/CLionProjects/LintCode/Math&BitManipulation/P181.h
+/cygdrive/i/LintCode/Math&BitManipulation/P181.h
 
-/home/enheng/CLionProjects/LintCode/String/P13.cpp
+/cygdrive/i/LintCode/String/P13.cpp
 P13.h
-/home/enheng/CLionProjects/LintCode/String/P13.h
+/cygdrive/i/LintCode/String/P13.h
 iostream
 -
 string
@@ -290,11 +290,11 @@ string
 algorithm
 -
 
-/home/enheng/CLionProjects/LintCode/String/P13.h
+/cygdrive/i/LintCode/String/P13.h
 
-/home/enheng/CLionProjects/LintCode/String/P171.cpp
+/cygdrive/i/LintCode/String/P171.cpp
 P171.h
-/home/enheng/CLionProjects/LintCode/String/P171.h
+/cygdrive/i/LintCode/String/P171.h
 iostream
 -
 algorithm
@@ -306,11 +306,11 @@ vector
 map
 -
 
-/home/enheng/CLionProjects/LintCode/String/P171.h
+/cygdrive/i/LintCode/String/P171.h
 
-/home/enheng/CLionProjects/LintCode/String/P55.cpp
+/cygdrive/i/LintCode/String/P55.cpp
 P55.h
-/home/enheng/CLionProjects/LintCode/String/P55.h
+/cygdrive/i/LintCode/String/P55.h
 iostream
 -
 string
@@ -322,11 +322,11 @@ algorithm
 iterator
 -
 
-/home/enheng/CLionProjects/LintCode/String/P55.h
+/cygdrive/i/LintCode/String/P55.h
 
-/home/enheng/CLionProjects/LintCode/String/P78.cpp
+/cygdrive/i/LintCode/String/P78.cpp
 P78.h
-/home/enheng/CLionProjects/LintCode/String/P78.h
+/cygdrive/i/LintCode/String/P78.h
 iostream
 -
 vector
@@ -334,11 +334,11 @@ vector
 string
 -
 
-/home/enheng/CLionProjects/LintCode/String/P78.h
+/cygdrive/i/LintCode/String/P78.h
 
-/home/enheng/CLionProjects/LintCode/String/P79.cpp
+/cygdrive/i/LintCode/String/P79.cpp
 P79.h
-/home/enheng/CLionProjects/LintCode/String/P79.h
+/cygdrive/i/LintCode/String/P79.h
 iostream
 -
 string
@@ -346,29 +346,29 @@ string
 vector
 -
 
-/home/enheng/CLionProjects/LintCode/String/P79.h
+/cygdrive/i/LintCode/String/P79.h
 
-/home/enheng/CLionProjects/LintCode/binSearch/P141.cpp
+/cygdrive/i/LintCode/binSearch/P141.cpp
 P141.h
-/home/enheng/CLionProjects/LintCode/binSearch/P141.h
+/cygdrive/i/LintCode/binSearch/P141.h
 iostream
 -
 
-/home/enheng/CLionProjects/LintCode/binSearch/P141.h
+/cygdrive/i/LintCode/binSearch/P141.h
 
-/home/enheng/CLionProjects/LintCode/binSearch/P159.cpp
+/cygdrive/i/LintCode/binSearch/P159.cpp
 P159.h
-/home/enheng/CLionProjects/LintCode/binSearch/P159.h
+/cygdrive/i/LintCode/binSearch/P159.h
 iostream
 -
 vector
 -
 
-/home/enheng/CLionProjects/LintCode/binSearch/P159.h
+/cygdrive/i/LintCode/binSearch/P159.h
 
-/home/enheng/CLionProjects/LintCode/binSearch/P183.cpp
+/cygdrive/i/LintCode/binSearch/P183.cpp
 P183.h
-/home/enheng/CLionProjects/LintCode/binSearch/P183.h
+/cygdrive/i/LintCode/binSearch/P183.h
 iostream
 -
 vector
@@ -378,113 +378,123 @@ algorithm
 initializer_list
 -
 
-/home/enheng/CLionProjects/LintCode/binSearch/P183.h
+/cygdrive/i/LintCode/binSearch/P183.h
 
-/home/enheng/CLionProjects/LintCode/binSearch/P60.cpp
+/cygdrive/i/LintCode/binSearch/P60.cpp
 P60.h
-/home/enheng/CLionProjects/LintCode/binSearch/P60.h
+/cygdrive/i/LintCode/binSearch/P60.h
 iostream
 -
 vector
 -
 
-/home/enheng/CLionProjects/LintCode/binSearch/P60.h
+/cygdrive/i/LintCode/binSearch/P60.h
 
-/home/enheng/CLionProjects/LintCode/binSearch/P61.cpp
+/cygdrive/i/LintCode/binSearch/P61.cpp
 P61.h
-/home/enheng/CLionProjects/LintCode/binSearch/P61.h
+/cygdrive/i/LintCode/binSearch/P61.h
 ../main.h
-/home/enheng/CLionProjects/LintCode/main.h
+/cygdrive/i/LintCode/main.h
 iostream
 -
 vector
 -
 
-/home/enheng/CLionProjects/LintCode/binSearch/P61.h
+/cygdrive/i/LintCode/binSearch/P61.h
 
-/home/enheng/CLionProjects/LintCode/binSearch/P62.cpp
+/cygdrive/i/LintCode/binSearch/P62.cpp
 P62.h
-/home/enheng/CLionProjects/LintCode/binSearch/P62.h
+/cygdrive/i/LintCode/binSearch/P62.h
 iostream
 -
 vector
 -
 
-/home/enheng/CLionProjects/LintCode/binSearch/P62.h
+/cygdrive/i/LintCode/binSearch/P62.h
 
-/home/enheng/CLionProjects/LintCode/binSearch/P74.cpp
+/cygdrive/i/LintCode/binSearch/P74.cpp
 P74.h
-/home/enheng/CLionProjects/LintCode/binSearch/P74.h
+/cygdrive/i/LintCode/binSearch/P74.h
 iostream
 -
 
-/home/enheng/CLionProjects/LintCode/binSearch/P74.h
+/cygdrive/i/LintCode/binSearch/P74.h
 
-/home/enheng/CLionProjects/LintCode/binSearch/P75.cpp
+/cygdrive/i/LintCode/binSearch/P75.cpp
 P75.h
-/home/enheng/CLionProjects/LintCode/binSearch/P75.h
+/cygdrive/i/LintCode/binSearch/P75.h
 iostream
 -
 vector
 -
 
-/home/enheng/CLionProjects/LintCode/binSearch/P75.h
+/cygdrive/i/LintCode/binSearch/P75.h
 
-/home/enheng/CLionProjects/LintCode/linkedList/165.cpp
+/cygdrive/i/LintCode/linkedList/165.cpp
 165.h
-/home/enheng/CLionProjects/LintCode/linkedList/165.h
+/cygdrive/i/LintCode/linkedList/165.h
 iostream
 -
 
-/home/enheng/CLionProjects/LintCode/linkedList/165.h
+/cygdrive/i/LintCode/linkedList/165.h
 
-/home/enheng/CLionProjects/LintCode/linkedList/P112.cpp
+/cygdrive/i/LintCode/linkedList/P112.cpp
 P112.h
-/home/enheng/CLionProjects/LintCode/linkedList/P112.h
+/cygdrive/i/LintCode/linkedList/P112.h
 iostream
 -
 
-/home/enheng/CLionProjects/LintCode/linkedList/P112.h
+/cygdrive/i/LintCode/linkedList/P112.h
 
-/home/enheng/CLionProjects/LintCode/linkedList/P174.cpp
+/cygdrive/i/LintCode/linkedList/P170.cpp
+P170.h
+/cygdrive/i/LintCode/linkedList/P170.h
+../main.h
+/cygdrive/i/LintCode/main.h
+
+/cygdrive/i/LintCode/linkedList/P170.h
+
+/cygdrive/i/LintCode/linkedList/P174.cpp
 P174.h
-/home/enheng/CLionProjects/LintCode/linkedList/P174.h
+/cygdrive/i/LintCode/linkedList/P174.h
 iostream
 -
 vector
 -
 
-/home/enheng/CLionProjects/LintCode/linkedList/P174.h
+/cygdrive/i/LintCode/linkedList/P174.h
 
-/home/enheng/CLionProjects/LintCode/linkedList/P96.cpp
+/cygdrive/i/LintCode/linkedList/P96.cpp
 P96.h
-/home/enheng/CLionProjects/LintCode/linkedList/P96.h
+/cygdrive/i/LintCode/linkedList/P96.h
 ../main.h
-/home/enheng/CLionProjects/LintCode/main.h
+/cygdrive/i/LintCode/main.h
 iostream
 -
 
-/home/enheng/CLionProjects/LintCode/linkedList/P96.h
+/cygdrive/i/LintCode/linkedList/P96.h
 
-/home/enheng/CLionProjects/LintCode/main.cpp
+/cygdrive/i/LintCode/main.cpp
 main.h
-/home/enheng/CLionProjects/LintCode/main.h
+/cygdrive/i/LintCode/main.h
 String/P55.h
-/home/enheng/CLionProjects/LintCode/String/P55.h
+/cygdrive/i/LintCode/String/P55.h
 String/P13.h
-/home/enheng/CLionProjects/LintCode/String/P13.h
+/cygdrive/i/LintCode/String/P13.h
 Array/P57.h
-/home/enheng/CLionProjects/LintCode/Array/P57.h
+/cygdrive/i/LintCode/Array/P57.h
 binSearch/P183.h
-/home/enheng/CLionProjects/LintCode/binSearch/P183.h
+/cygdrive/i/LintCode/binSearch/P183.h
 Math&BitManipulation/P163.h
-/home/enheng/CLionProjects/LintCode/Math&BitManipulation/P163.h
+/cygdrive/i/LintCode/Math&BitManipulation/P163.h
 Greedy/P52.h
-/home/enheng/CLionProjects/LintCode/Greedy/P52.h
+/cygdrive/i/LintCode/Greedy/P52.h
 linkedList/P96.h
-/home/enheng/CLionProjects/LintCode/linkedList/P96.h
+/cygdrive/i/LintCode/linkedList/P96.h
+sort/sort_test.h
+/cygdrive/i/LintCode/sort/sort_test.h
 
-/home/enheng/CLionProjects/LintCode/main.h
+/cygdrive/i/LintCode/main.h
 iostream
 -
 vector
@@ -494,9 +504,9 @@ cstring
 string
 -
 
-/home/enheng/CLionProjects/LintCode/other/P28.cpp
+/cygdrive/i/LintCode/other/P28.cpp
 P28.h
-/home/enheng/CLionProjects/LintCode/other/P28.h
+/cygdrive/i/LintCode/other/P28.h
 iostream
 -
 vector
@@ -504,5 +514,17 @@ vector
 algorithm
 -
 
-/home/enheng/CLionProjects/LintCode/other/P28.h
+/cygdrive/i/LintCode/other/P28.h
+
+/cygdrive/i/LintCode/sort/selectionSort.cpp
+
+/cygdrive/i/LintCode/sort/selectionSort.h
+
+/cygdrive/i/LintCode/sort/sort_test.cpp
+iostream
+-
+selectionSort.h
+/cygdrive/i/LintCode/sort/selectionSort.h
+
+/cygdrive/i/LintCode/sort/sort_test.h
 

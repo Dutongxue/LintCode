@@ -123,6 +123,10 @@ CMakeFiles/LintCode.dir/linkedList/165.cpp.o: ../linkedList/165.h
 CMakeFiles/LintCode.dir/linkedList/P112.cpp.o: ../linkedList/P112.cpp
 CMakeFiles/LintCode.dir/linkedList/P112.cpp.o: ../linkedList/P112.h
 
+CMakeFiles/LintCode.dir/linkedList/P170.cpp.o: ../linkedList/P170.cpp
+CMakeFiles/LintCode.dir/linkedList/P170.cpp.o: ../linkedList/P170.h
+CMakeFiles/LintCode.dir/linkedList/P170.cpp.o: ../main.h
+
 CMakeFiles/LintCode.dir/linkedList/P174.cpp.o: ../linkedList/P174.cpp
 CMakeFiles/LintCode.dir/linkedList/P174.cpp.o: ../linkedList/P174.h
 
@@ -139,7 +143,13 @@ CMakeFiles/LintCode.dir/main.cpp.o: ../binSearch/P183.h
 CMakeFiles/LintCode.dir/main.cpp.o: ../linkedList/P96.h
 CMakeFiles/LintCode.dir/main.cpp.o: ../main.cpp
 CMakeFiles/LintCode.dir/main.cpp.o: ../main.h
+CMakeFiles/LintCode.dir/main.cpp.o: ../sort/sort_test.h
 
 CMakeFiles/LintCode.dir/other/P28.cpp.o: ../other/P28.cpp
 CMakeFiles/LintCode.dir/other/P28.cpp.o: ../other/P28.h
+
+CMakeFiles/LintCode.dir/sort/selectionSort.cpp.o: ../sort/selectionSort.cpp
+
+CMakeFiles/LintCode.dir/sort/sort_test.cpp.o: ../sort/selectionSort.h
+CMakeFiles/LintCode.dir/sort/sort_test.cpp.o: ../sort/sort_test.cpp
 

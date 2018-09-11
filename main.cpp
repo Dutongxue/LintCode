@@ -6,6 +6,7 @@
 #include "Math&BitManipulation/P163.h"
 #include "Greedy/P52.h"
 #include "linkedList/P96.h"
+#include "sort/sort_test.h"
 
 
 void printList(ListNode *head){
@@ -41,7 +42,8 @@ ListNode *createList(string str){
 }
 
 int main() {
-    P96();
+    // P96();
+    sort_test();
 
     return 0;
 }

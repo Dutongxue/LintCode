@@ -34,19 +34,19 @@ cmake_force:
 SHELL = /bin/sh
 
 # The CMake executable.
-CMAKE_COMMAND = /home/enheng/clion-2018.1.1/bin/cmake/bin/cmake
+CMAKE_COMMAND = /cygdrive/c/Users/91241/.CLion2018.1/system/cygwin_cmake/bin/cmake.exe
 
 # The command to remove a file.
-RM = /home/enheng/clion-2018.1.1/bin/cmake/bin/cmake -E remove -f
+RM = /cygdrive/c/Users/91241/.CLion2018.1/system/cygwin_cmake/bin/cmake.exe -E remove -f
 
 # Escaping for special characters.
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/enheng/CLionProjects/LintCode
+CMAKE_SOURCE_DIR = /cygdrive/i/LintCode
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/enheng/CLionProjects/LintCode/cmake-build-debug
+CMAKE_BINARY_DIR = /cygdrive/i/LintCode/cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/LintCode.dir/depend.make
@@ -59,16 +59,16 @@ include CMakeFiles/LintCode.dir/flags.make
 
 CMakeFiles/LintCode.dir/main.cpp.o: CMakeFiles/LintCode.dir/flags.make
 CMakeFiles/LintCode.dir/main.cpp.o: ../main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/enheng/CLionProjects/LintCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/LintCode.dir/main.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LintCode.dir/main.cpp.o -c /home/enheng/CLionProjects/LintCode/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/i/LintCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/LintCode.dir/main.cpp.o"
+	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LintCode.dir/main.cpp.o -c /cygdrive/i/LintCode/main.cpp
 
 CMakeFiles/LintCode.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LintCode.dir/main.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/enheng/CLionProjects/LintCode/main.cpp > CMakeFiles/LintCode.dir/main.cpp.i
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/i/LintCode/main.cpp > CMakeFiles/LintCode.dir/main.cpp.i
 
 CMakeFiles/LintCode.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LintCode.dir/main.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/enheng/CLionProjects/LintCode/main.cpp -o CMakeFiles/LintCode.dir/main.cpp.s
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/i/LintCode/main.cpp -o CMakeFiles/LintCode.dir/main.cpp.s
 
 CMakeFiles/LintCode.dir/main.cpp.o.requires:
 
@@ -83,16 +83,16 @@ CMakeFiles/LintCode.dir/main.cpp.o.provides.build: CMakeFiles/LintCode.dir/main.
 
 CMakeFiles/LintCode.dir/String/P55.cpp.o: CMakeFiles/LintCode.dir/flags.make
 CMakeFiles/LintCode.dir/String/P55.cpp.o: ../String/P55.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/enheng/CLionProjects/LintCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/LintCode.dir/String/P55.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LintCode.dir/String/P55.cpp.o -c /home/enheng/CLionProjects/LintCode/String/P55.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/i/LintCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/LintCode.dir/String/P55.cpp.o"
+	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LintCode.dir/String/P55.cpp.o -c /cygdrive/i/LintCode/String/P55.cpp
 
 CMakeFiles/LintCode.dir/String/P55.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LintCode.dir/String/P55.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/enheng/CLionProjects/LintCode/String/P55.cpp > CMakeFiles/LintCode.dir/String/P55.cpp.i
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/i/LintCode/String/P55.cpp > CMakeFiles/LintCode.dir/String/P55.cpp.i
 
 CMakeFiles/LintCode.dir/String/P55.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LintCode.dir/String/P55.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/enheng/CLionProjects/LintCode/String/P55.cpp -o CMakeFiles/LintCode.dir/String/P55.cpp.s
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/i/LintCode/String/P55.cpp -o CMakeFiles/LintCode.dir/String/P55.cpp.s
 
 CMakeFiles/LintCode.dir/String/P55.cpp.o.requires:
 
@@ -107,16 +107,16 @@ CMakeFiles/LintCode.dir/String/P55.cpp.o.provides.build: CMakeFiles/LintCode.dir
 
 CMakeFiles/LintCode.dir/String/P13.cpp.o: CMakeFiles/LintCode.dir/flags.make
 CMakeFiles/LintCode.dir/String/P13.cpp.o: ../String/P13.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/enheng/CLionProjects/LintCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/LintCode.dir/String/P13.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LintCode.dir/String/P13.cpp.o -c /home/enheng/CLionProjects/LintCode/String/P13.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/i/LintCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/LintCode.dir/String/P13.cpp.o"
+	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LintCode.dir/String/P13.cpp.o -c /cygdrive/i/LintCode/String/P13.cpp
 
 CMakeFiles/LintCode.dir/String/P13.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LintCode.dir/String/P13.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/enheng/CLionProjects/LintCode/String/P13.cpp > CMakeFiles/LintCode.dir/String/P13.cpp.i
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/i/LintCode/String/P13.cpp > CMakeFiles/LintCode.dir/String/P13.cpp.i
 
 CMakeFiles/LintCode.dir/String/P13.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LintCode.dir/String/P13.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/enheng/CLionProjects/LintCode/String/P13.cpp -o CMakeFiles/LintCode.dir/String/P13.cpp.s
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/i/LintCode/String/P13.cpp -o CMakeFiles/LintCode.dir/String/P13.cpp.s
 
 CMakeFiles/LintCode.dir/String/P13.cpp.o.requires:
 
@@ -131,16 +131,16 @@ CMakeFiles/LintCode.dir/String/P13.cpp.o.provides.build: CMakeFiles/LintCode.dir
 
 CMakeFiles/LintCode.dir/String/P171.cpp.o: CMakeFiles/LintCode.dir/flags.make
 CMakeFiles/LintCode.dir/String/P171.cpp.o: ../String/P171.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/enheng/CLionProjects/LintCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/LintCode.dir/String/P171.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LintCode.dir/String/P171.cpp.o -c /home/enheng/CLionProjects/LintCode/String/P171.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/i/LintCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/LintCode.dir/String/P171.cpp.o"
+	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LintCode.dir/String/P171.cpp.o -c /cygdrive/i/LintCode/String/P171.cpp
 
 CMakeFiles/LintCode.dir/String/P171.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LintCode.dir/String/P171.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/enheng/CLionProjects/LintCode/String/P171.cpp > CMakeFiles/LintCode.dir/String/P171.cpp.i
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/i/LintCode/String/P171.cpp > CMakeFiles/LintCode.dir/String/P171.cpp.i
 
 CMakeFiles/LintCode.dir/String/P171.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LintCode.dir/String/P171.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/enheng/CLionProjects/LintCode/String/P171.cpp -o CMakeFiles/LintCode.dir/String/P171.cpp.s
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/i/LintCode/String/P171.cpp -o CMakeFiles/LintCode.dir/String/P171.cpp.s
 
 CMakeFiles/LintCode.dir/String/P171.cpp.o.requires:
 
@@ -155,16 +155,16 @@ CMakeFiles/LintCode.dir/String/P171.cpp.o.provides.build: CMakeFiles/LintCode.di
 
 CMakeFiles/LintCode.dir/other/P28.cpp.o: CMakeFiles/LintCode.dir/flags.make
 CMakeFiles/LintCode.dir/other/P28.cpp.o: ../other/P28.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/enheng/CLionProjects/LintCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/LintCode.dir/other/P28.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LintCode.dir/other/P28.cpp.o -c /home/enheng/CLionProjects/LintCode/other/P28.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/i/LintCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/LintCode.dir/other/P28.cpp.o"
+	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LintCode.dir/other/P28.cpp.o -c /cygdrive/i/LintCode/other/P28.cpp
 
 CMakeFiles/LintCode.dir/other/P28.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LintCode.dir/other/P28.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/enheng/CLionProjects/LintCode/other/P28.cpp > CMakeFiles/LintCode.dir/other/P28.cpp.i
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/i/LintCode/other/P28.cpp > CMakeFiles/LintCode.dir/other/P28.cpp.i
 
 CMakeFiles/LintCode.dir/other/P28.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LintCode.dir/other/P28.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/enheng/CLionProjects/LintCode/other/P28.cpp -o CMakeFiles/LintCode.dir/other/P28.cpp.s
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/i/LintCode/other/P28.cpp -o CMakeFiles/LintCode.dir/other/P28.cpp.s
 
 CMakeFiles/LintCode.dir/other/P28.cpp.o.requires:
 
@@ -179,16 +179,16 @@ CMakeFiles/LintCode.dir/other/P28.cpp.o.provides.build: CMakeFiles/LintCode.dir/
 
 CMakeFiles/LintCode.dir/String/P79.cpp.o: CMakeFiles/LintCode.dir/flags.make
 CMakeFiles/LintCode.dir/String/P79.cpp.o: ../String/P79.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/enheng/CLionProjects/LintCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/LintCode.dir/String/P79.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LintCode.dir/String/P79.cpp.o -c /home/enheng/CLionProjects/LintCode/String/P79.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/i/LintCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/LintCode.dir/String/P79.cpp.o"
+	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LintCode.dir/String/P79.cpp.o -c /cygdrive/i/LintCode/String/P79.cpp
 
 CMakeFiles/LintCode.dir/String/P79.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LintCode.dir/String/P79.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/enheng/CLionProjects/LintCode/String/P79.cpp > CMakeFiles/LintCode.dir/String/P79.cpp.i
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/i/LintCode/String/P79.cpp > CMakeFiles/LintCode.dir/String/P79.cpp.i
 
 CMakeFiles/LintCode.dir/String/P79.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LintCode.dir/String/P79.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/enheng/CLionProjects/LintCode/String/P79.cpp -o CMakeFiles/LintCode.dir/String/P79.cpp.s
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/i/LintCode/String/P79.cpp -o CMakeFiles/LintCode.dir/String/P79.cpp.s
 
 CMakeFiles/LintCode.dir/String/P79.cpp.o.requires:
 
@@ -203,16 +203,16 @@ CMakeFiles/LintCode.dir/String/P79.cpp.o.provides.build: CMakeFiles/LintCode.dir
 
 CMakeFiles/LintCode.dir/String/P78.cpp.o: CMakeFiles/LintCode.dir/flags.make
 CMakeFiles/LintCode.dir/String/P78.cpp.o: ../String/P78.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/enheng/CLionProjects/LintCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/LintCode.dir/String/P78.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LintCode.dir/String/P78.cpp.o -c /home/enheng/CLionProjects/LintCode/String/P78.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/i/LintCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/LintCode.dir/String/P78.cpp.o"
+	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LintCode.dir/String/P78.cpp.o -c /cygdrive/i/LintCode/String/P78.cpp
 
 CMakeFiles/LintCode.dir/String/P78.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LintCode.dir/String/P78.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/enheng/CLionProjects/LintCode/String/P78.cpp > CMakeFiles/LintCode.dir/String/P78.cpp.i
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/i/LintCode/String/P78.cpp > CMakeFiles/LintCode.dir/String/P78.cpp.i
 
 CMakeFiles/LintCode.dir/String/P78.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LintCode.dir/String/P78.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/enheng/CLionProjects/LintCode/String/P78.cpp -o CMakeFiles/LintCode.dir/String/P78.cpp.s
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/i/LintCode/String/P78.cpp -o CMakeFiles/LintCode.dir/String/P78.cpp.s
 
 CMakeFiles/LintCode.dir/String/P78.cpp.o.requires:
 
@@ -227,16 +227,16 @@ CMakeFiles/LintCode.dir/String/P78.cpp.o.provides.build: CMakeFiles/LintCode.dir
 
 CMakeFiles/LintCode.dir/Array/P172.cpp.o: CMakeFiles/LintCode.dir/flags.make
 CMakeFiles/LintCode.dir/Array/P172.cpp.o: ../Array/P172.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/enheng/CLionProjects/LintCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/LintCode.dir/Array/P172.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LintCode.dir/Array/P172.cpp.o -c /home/enheng/CLionProjects/LintCode/Array/P172.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/i/LintCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/LintCode.dir/Array/P172.cpp.o"
+	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LintCode.dir/Array/P172.cpp.o -c /cygdrive/i/LintCode/Array/P172.cpp
 
 CMakeFiles/LintCode.dir/Array/P172.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LintCode.dir/Array/P172.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/enheng/CLionProjects/LintCode/Array/P172.cpp > CMakeFiles/LintCode.dir/Array/P172.cpp.i
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/i/LintCode/Array/P172.cpp > CMakeFiles/LintCode.dir/Array/P172.cpp.i
 
 CMakeFiles/LintCode.dir/Array/P172.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LintCode.dir/Array/P172.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/enheng/CLionProjects/LintCode/Array/P172.cpp -o CMakeFiles/LintCode.dir/Array/P172.cpp.s
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/i/LintCode/Array/P172.cpp -o CMakeFiles/LintCode.dir/Array/P172.cpp.s
 
 CMakeFiles/LintCode.dir/Array/P172.cpp.o.requires:
 
@@ -251,16 +251,16 @@ CMakeFiles/LintCode.dir/Array/P172.cpp.o.provides.build: CMakeFiles/LintCode.dir
 
 CMakeFiles/LintCode.dir/Array/P138.cpp.o: CMakeFiles/LintCode.dir/flags.make
 CMakeFiles/LintCode.dir/Array/P138.cpp.o: ../Array/P138.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/enheng/CLionProjects/LintCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/LintCode.dir/Array/P138.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LintCode.dir/Array/P138.cpp.o -c /home/enheng/CLionProjects/LintCode/Array/P138.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/i/LintCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/LintCode.dir/Array/P138.cpp.o"
+	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LintCode.dir/Array/P138.cpp.o -c /cygdrive/i/LintCode/Array/P138.cpp
 
 CMakeFiles/LintCode.dir/Array/P138.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LintCode.dir/Array/P138.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/enheng/CLionProjects/LintCode/Array/P138.cpp > CMakeFiles/LintCode.dir/Array/P138.cpp.i
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/i/LintCode/Array/P138.cpp > CMakeFiles/LintCode.dir/Array/P138.cpp.i
 
 CMakeFiles/LintCode.dir/Array/P138.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LintCode.dir/Array/P138.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/enheng/CLionProjects/LintCode/Array/P138.cpp -o CMakeFiles/LintCode.dir/Array/P138.cpp.s
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/i/LintCode/Array/P138.cpp -o CMakeFiles/LintCode.dir/Array/P138.cpp.s
 
 CMakeFiles/LintCode.dir/Array/P138.cpp.o.requires:
 
@@ -275,16 +275,16 @@ CMakeFiles/LintCode.dir/Array/P138.cpp.o.provides.build: CMakeFiles/LintCode.dir
 
 CMakeFiles/LintCode.dir/Array/P100.cpp.o: CMakeFiles/LintCode.dir/flags.make
 CMakeFiles/LintCode.dir/Array/P100.cpp.o: ../Array/P100.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/enheng/CLionProjects/LintCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/LintCode.dir/Array/P100.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LintCode.dir/Array/P100.cpp.o -c /home/enheng/CLionProjects/LintCode/Array/P100.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/i/LintCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/LintCode.dir/Array/P100.cpp.o"
+	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LintCode.dir/Array/P100.cpp.o -c /cygdrive/i/LintCode/Array/P100.cpp
 
 CMakeFiles/LintCode.dir/Array/P100.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LintCode.dir/Array/P100.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/enheng/CLionProjects/LintCode/Array/P100.cpp > CMakeFiles/LintCode.dir/Array/P100.cpp.i
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/i/LintCode/Array/P100.cpp > CMakeFiles/LintCode.dir/Array/P100.cpp.i
 
 CMakeFiles/LintCode.dir/Array/P100.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LintCode.dir/Array/P100.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/enheng/CLionProjects/LintCode/Array/P100.cpp -o CMakeFiles/LintCode.dir/Array/P100.cpp.s
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/i/LintCode/Array/P100.cpp -o CMakeFiles/LintCode.dir/Array/P100.cpp.s
 
 CMakeFiles/LintCode.dir/Array/P100.cpp.o.requires:
 
@@ -299,16 +299,16 @@ CMakeFiles/LintCode.dir/Array/P100.cpp.o.provides.build: CMakeFiles/LintCode.dir
 
 CMakeFiles/LintCode.dir/Array/P64.cpp.o: CMakeFiles/LintCode.dir/flags.make
 CMakeFiles/LintCode.dir/Array/P64.cpp.o: ../Array/P64.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/enheng/CLionProjects/LintCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/LintCode.dir/Array/P64.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LintCode.dir/Array/P64.cpp.o -c /home/enheng/CLionProjects/LintCode/Array/P64.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/i/LintCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/LintCode.dir/Array/P64.cpp.o"
+	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LintCode.dir/Array/P64.cpp.o -c /cygdrive/i/LintCode/Array/P64.cpp
 
 CMakeFiles/LintCode.dir/Array/P64.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LintCode.dir/Array/P64.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/enheng/CLionProjects/LintCode/Array/P64.cpp > CMakeFiles/LintCode.dir/Array/P64.cpp.i
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/i/LintCode/Array/P64.cpp > CMakeFiles/LintCode.dir/Array/P64.cpp.i
 
 CMakeFiles/LintCode.dir/Array/P64.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LintCode.dir/Array/P64.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/enheng/CLionProjects/LintCode/Array/P64.cpp -o CMakeFiles/LintCode.dir/Array/P64.cpp.s
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/i/LintCode/Array/P64.cpp -o CMakeFiles/LintCode.dir/Array/P64.cpp.s
 
 CMakeFiles/LintCode.dir/Array/P64.cpp.o.requires:
 
@@ -323,16 +323,16 @@ CMakeFiles/LintCode.dir/Array/P64.cpp.o.provides.build: CMakeFiles/LintCode.dir/
 
 CMakeFiles/LintCode.dir/Array/P56.cpp.o: CMakeFiles/LintCode.dir/flags.make
 CMakeFiles/LintCode.dir/Array/P56.cpp.o: ../Array/P56.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/enheng/CLionProjects/LintCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/LintCode.dir/Array/P56.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LintCode.dir/Array/P56.cpp.o -c /home/enheng/CLionProjects/LintCode/Array/P56.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/i/LintCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/LintCode.dir/Array/P56.cpp.o"
+	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LintCode.dir/Array/P56.cpp.o -c /cygdrive/i/LintCode/Array/P56.cpp
 
 CMakeFiles/LintCode.dir/Array/P56.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LintCode.dir/Array/P56.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/enheng/CLionProjects/LintCode/Array/P56.cpp > CMakeFiles/LintCode.dir/Array/P56.cpp.i
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/i/LintCode/Array/P56.cpp > CMakeFiles/LintCode.dir/Array/P56.cpp.i
 
 CMakeFiles/LintCode.dir/Array/P56.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LintCode.dir/Array/P56.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/enheng/CLionProjects/LintCode/Array/P56.cpp -o CMakeFiles/LintCode.dir/Array/P56.cpp.s
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/i/LintCode/Array/P56.cpp -o CMakeFiles/LintCode.dir/Array/P56.cpp.s
 
 CMakeFiles/LintCode.dir/Array/P56.cpp.o.requires:
 
@@ -347,16 +347,16 @@ CMakeFiles/LintCode.dir/Array/P56.cpp.o.provides.build: CMakeFiles/LintCode.dir/
 
 CMakeFiles/LintCode.dir/Array/P50.cpp.o: CMakeFiles/LintCode.dir/flags.make
 CMakeFiles/LintCode.dir/Array/P50.cpp.o: ../Array/P50.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/enheng/CLionProjects/LintCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/LintCode.dir/Array/P50.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LintCode.dir/Array/P50.cpp.o -c /home/enheng/CLionProjects/LintCode/Array/P50.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/i/LintCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/LintCode.dir/Array/P50.cpp.o"
+	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LintCode.dir/Array/P50.cpp.o -c /cygdrive/i/LintCode/Array/P50.cpp
 
 CMakeFiles/LintCode.dir/Array/P50.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LintCode.dir/Array/P50.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/enheng/CLionProjects/LintCode/Array/P50.cpp > CMakeFiles/LintCode.dir/Array/P50.cpp.i
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/i/LintCode/Array/P50.cpp > CMakeFiles/LintCode.dir/Array/P50.cpp.i
 
 CMakeFiles/LintCode.dir/Array/P50.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LintCode.dir/Array/P50.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/enheng/CLionProjects/LintCode/Array/P50.cpp -o CMakeFiles/LintCode.dir/Array/P50.cpp.s
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/i/LintCode/Array/P50.cpp -o CMakeFiles/LintCode.dir/Array/P50.cpp.s
 
 CMakeFiles/LintCode.dir/Array/P50.cpp.o.requires:
 
@@ -371,16 +371,16 @@ CMakeFiles/LintCode.dir/Array/P50.cpp.o.provides.build: CMakeFiles/LintCode.dir/
 
 CMakeFiles/LintCode.dir/Array/P189.cpp.o: CMakeFiles/LintCode.dir/flags.make
 CMakeFiles/LintCode.dir/Array/P189.cpp.o: ../Array/P189.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/enheng/CLionProjects/LintCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/LintCode.dir/Array/P189.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LintCode.dir/Array/P189.cpp.o -c /home/enheng/CLionProjects/LintCode/Array/P189.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/i/LintCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/LintCode.dir/Array/P189.cpp.o"
+	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LintCode.dir/Array/P189.cpp.o -c /cygdrive/i/LintCode/Array/P189.cpp
 
 CMakeFiles/LintCode.dir/Array/P189.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LintCode.dir/Array/P189.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/enheng/CLionProjects/LintCode/Array/P189.cpp > CMakeFiles/LintCode.dir/Array/P189.cpp.i
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/i/LintCode/Array/P189.cpp > CMakeFiles/LintCode.dir/Array/P189.cpp.i
 
 CMakeFiles/LintCode.dir/Array/P189.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LintCode.dir/Array/P189.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/enheng/CLionProjects/LintCode/Array/P189.cpp -o CMakeFiles/LintCode.dir/Array/P189.cpp.s
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/i/LintCode/Array/P189.cpp -o CMakeFiles/LintCode.dir/Array/P189.cpp.s
 
 CMakeFiles/LintCode.dir/Array/P189.cpp.o.requires:
 
@@ -395,16 +395,16 @@ CMakeFiles/LintCode.dir/Array/P189.cpp.o.provides.build: CMakeFiles/LintCode.dir
 
 CMakeFiles/LintCode.dir/Array/P59.cpp.o: CMakeFiles/LintCode.dir/flags.make
 CMakeFiles/LintCode.dir/Array/P59.cpp.o: ../Array/P59.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/enheng/CLionProjects/LintCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object CMakeFiles/LintCode.dir/Array/P59.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LintCode.dir/Array/P59.cpp.o -c /home/enheng/CLionProjects/LintCode/Array/P59.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/i/LintCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object CMakeFiles/LintCode.dir/Array/P59.cpp.o"
+	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LintCode.dir/Array/P59.cpp.o -c /cygdrive/i/LintCode/Array/P59.cpp
 
 CMakeFiles/LintCode.dir/Array/P59.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LintCode.dir/Array/P59.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/enheng/CLionProjects/LintCode/Array/P59.cpp > CMakeFiles/LintCode.dir/Array/P59.cpp.i
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/i/LintCode/Array/P59.cpp > CMakeFiles/LintCode.dir/Array/P59.cpp.i
 
 CMakeFiles/LintCode.dir/Array/P59.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LintCode.dir/Array/P59.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/enheng/CLionProjects/LintCode/Array/P59.cpp -o CMakeFiles/LintCode.dir/Array/P59.cpp.s
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/i/LintCode/Array/P59.cpp -o CMakeFiles/LintCode.dir/Array/P59.cpp.s
 
 CMakeFiles/LintCode.dir/Array/P59.cpp.o.requires:
 
@@ -419,16 +419,16 @@ CMakeFiles/LintCode.dir/Array/P59.cpp.o.provides.build: CMakeFiles/LintCode.dir/
 
 CMakeFiles/LintCode.dir/Array/P31.cpp.o: CMakeFiles/LintCode.dir/flags.make
 CMakeFiles/LintCode.dir/Array/P31.cpp.o: ../Array/P31.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/enheng/CLionProjects/LintCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object CMakeFiles/LintCode.dir/Array/P31.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LintCode.dir/Array/P31.cpp.o -c /home/enheng/CLionProjects/LintCode/Array/P31.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/i/LintCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object CMakeFiles/LintCode.dir/Array/P31.cpp.o"
+	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LintCode.dir/Array/P31.cpp.o -c /cygdrive/i/LintCode/Array/P31.cpp
 
 CMakeFiles/LintCode.dir/Array/P31.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LintCode.dir/Array/P31.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/enheng/CLionProjects/LintCode/Array/P31.cpp > CMakeFiles/LintCode.dir/Array/P31.cpp.i
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/i/LintCode/Array/P31.cpp > CMakeFiles/LintCode.dir/Array/P31.cpp.i
 
 CMakeFiles/LintCode.dir/Array/P31.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LintCode.dir/Array/P31.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/enheng/CLionProjects/LintCode/Array/P31.cpp -o CMakeFiles/LintCode.dir/Array/P31.cpp.s
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/i/LintCode/Array/P31.cpp -o CMakeFiles/LintCode.dir/Array/P31.cpp.s
 
 CMakeFiles/LintCode.dir/Array/P31.cpp.o.requires:
 
@@ -443,16 +443,16 @@ CMakeFiles/LintCode.dir/Array/P31.cpp.o.provides.build: CMakeFiles/LintCode.dir/
 
 CMakeFiles/LintCode.dir/Array/P57.cpp.o: CMakeFiles/LintCode.dir/flags.make
 CMakeFiles/LintCode.dir/Array/P57.cpp.o: ../Array/P57.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/enheng/CLionProjects/LintCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building CXX object CMakeFiles/LintCode.dir/Array/P57.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LintCode.dir/Array/P57.cpp.o -c /home/enheng/CLionProjects/LintCode/Array/P57.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/i/LintCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building CXX object CMakeFiles/LintCode.dir/Array/P57.cpp.o"
+	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LintCode.dir/Array/P57.cpp.o -c /cygdrive/i/LintCode/Array/P57.cpp
 
 CMakeFiles/LintCode.dir/Array/P57.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LintCode.dir/Array/P57.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/enheng/CLionProjects/LintCode/Array/P57.cpp > CMakeFiles/LintCode.dir/Array/P57.cpp.i
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/i/LintCode/Array/P57.cpp > CMakeFiles/LintCode.dir/Array/P57.cpp.i
 
 CMakeFiles/LintCode.dir/Array/P57.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LintCode.dir/Array/P57.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/enheng/CLionProjects/LintCode/Array/P57.cpp -o CMakeFiles/LintCode.dir/Array/P57.cpp.s
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/i/LintCode/Array/P57.cpp -o CMakeFiles/LintCode.dir/Array/P57.cpp.s
 
 CMakeFiles/LintCode.dir/Array/P57.cpp.o.requires:
 
@@ -467,16 +467,16 @@ CMakeFiles/LintCode.dir/Array/P57.cpp.o.provides.build: CMakeFiles/LintCode.dir/
 
 CMakeFiles/LintCode.dir/binSearch/P141.cpp.o: CMakeFiles/LintCode.dir/flags.make
 CMakeFiles/LintCode.dir/binSearch/P141.cpp.o: ../binSearch/P141.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/enheng/CLionProjects/LintCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building CXX object CMakeFiles/LintCode.dir/binSearch/P141.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LintCode.dir/binSearch/P141.cpp.o -c /home/enheng/CLionProjects/LintCode/binSearch/P141.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/i/LintCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building CXX object CMakeFiles/LintCode.dir/binSearch/P141.cpp.o"
+	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LintCode.dir/binSearch/P141.cpp.o -c /cygdrive/i/LintCode/binSearch/P141.cpp
 
 CMakeFiles/LintCode.dir/binSearch/P141.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LintCode.dir/binSearch/P141.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/enheng/CLionProjects/LintCode/binSearch/P141.cpp > CMakeFiles/LintCode.dir/binSearch/P141.cpp.i
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/i/LintCode/binSearch/P141.cpp > CMakeFiles/LintCode.dir/binSearch/P141.cpp.i
 
 CMakeFiles/LintCode.dir/binSearch/P141.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LintCode.dir/binSearch/P141.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/enheng/CLionProjects/LintCode/binSearch/P141.cpp -o CMakeFiles/LintCode.dir/binSearch/P141.cpp.s
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/i/LintCode/binSearch/P141.cpp -o CMakeFiles/LintCode.dir/binSearch/P141.cpp.s
 
 CMakeFiles/LintCode.dir/binSearch/P141.cpp.o.requires:
 
@@ -491,16 +491,16 @@ CMakeFiles/LintCode.dir/binSearch/P141.cpp.o.provides.build: CMakeFiles/LintCode
 
 CMakeFiles/LintCode.dir/binSearch/P60.cpp.o: CMakeFiles/LintCode.dir/flags.make
 CMakeFiles/LintCode.dir/binSearch/P60.cpp.o: ../binSearch/P60.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/enheng/CLionProjects/LintCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building CXX object CMakeFiles/LintCode.dir/binSearch/P60.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LintCode.dir/binSearch/P60.cpp.o -c /home/enheng/CLionProjects/LintCode/binSearch/P60.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/i/LintCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building CXX object CMakeFiles/LintCode.dir/binSearch/P60.cpp.o"
+	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LintCode.dir/binSearch/P60.cpp.o -c /cygdrive/i/LintCode/binSearch/P60.cpp
 
 CMakeFiles/LintCode.dir/binSearch/P60.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LintCode.dir/binSearch/P60.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/enheng/CLionProjects/LintCode/binSearch/P60.cpp > CMakeFiles/LintCode.dir/binSearch/P60.cpp.i
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/i/LintCode/binSearch/P60.cpp > CMakeFiles/LintCode.dir/binSearch/P60.cpp.i
 
 CMakeFiles/LintCode.dir/binSearch/P60.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LintCode.dir/binSearch/P60.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/enheng/CLionProjects/LintCode/binSearch/P60.cpp -o CMakeFiles/LintCode.dir/binSearch/P60.cpp.s
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/i/LintCode/binSearch/P60.cpp -o CMakeFiles/LintCode.dir/binSearch/P60.cpp.s
 
 CMakeFiles/LintCode.dir/binSearch/P60.cpp.o.requires:
 
@@ -515,16 +515,16 @@ CMakeFiles/LintCode.dir/binSearch/P60.cpp.o.provides.build: CMakeFiles/LintCode.
 
 CMakeFiles/LintCode.dir/binSearch/P74.cpp.o: CMakeFiles/LintCode.dir/flags.make
 CMakeFiles/LintCode.dir/binSearch/P74.cpp.o: ../binSearch/P74.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/enheng/CLionProjects/LintCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building CXX object CMakeFiles/LintCode.dir/binSearch/P74.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LintCode.dir/binSearch/P74.cpp.o -c /home/enheng/CLionProjects/LintCode/binSearch/P74.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/i/LintCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building CXX object CMakeFiles/LintCode.dir/binSearch/P74.cpp.o"
+	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LintCode.dir/binSearch/P74.cpp.o -c /cygdrive/i/LintCode/binSearch/P74.cpp
 
 CMakeFiles/LintCode.dir/binSearch/P74.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LintCode.dir/binSearch/P74.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/enheng/CLionProjects/LintCode/binSearch/P74.cpp > CMakeFiles/LintCode.dir/binSearch/P74.cpp.i
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/i/LintCode/binSearch/P74.cpp > CMakeFiles/LintCode.dir/binSearch/P74.cpp.i
 
 CMakeFiles/LintCode.dir/binSearch/P74.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LintCode.dir/binSearch/P74.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/enheng/CLionProjects/LintCode/binSearch/P74.cpp -o CMakeFiles/LintCode.dir/binSearch/P74.cpp.s
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/i/LintCode/binSearch/P74.cpp -o CMakeFiles/LintCode.dir/binSearch/P74.cpp.s
 
 CMakeFiles/LintCode.dir/binSearch/P74.cpp.o.requires:
 
@@ -539,16 +539,16 @@ CMakeFiles/LintCode.dir/binSearch/P74.cpp.o.provides.build: CMakeFiles/LintCode.
 
 CMakeFiles/LintCode.dir/binSearch/P75.cpp.o: CMakeFiles/LintCode.dir/flags.make
 CMakeFiles/LintCode.dir/binSearch/P75.cpp.o: ../binSearch/P75.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/enheng/CLionProjects/LintCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building CXX object CMakeFiles/LintCode.dir/binSearch/P75.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LintCode.dir/binSearch/P75.cpp.o -c /home/enheng/CLionProjects/LintCode/binSearch/P75.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/i/LintCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building CXX object CMakeFiles/LintCode.dir/binSearch/P75.cpp.o"
+	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LintCode.dir/binSearch/P75.cpp.o -c /cygdrive/i/LintCode/binSearch/P75.cpp
 
 CMakeFiles/LintCode.dir/binSearch/P75.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LintCode.dir/binSearch/P75.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/enheng/CLionProjects/LintCode/binSearch/P75.cpp > CMakeFiles/LintCode.dir/binSearch/P75.cpp.i
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/i/LintCode/binSearch/P75.cpp > CMakeFiles/LintCode.dir/binSearch/P75.cpp.i
 
 CMakeFiles/LintCode.dir/binSearch/P75.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LintCode.dir/binSearch/P75.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/enheng/CLionProjects/LintCode/binSearch/P75.cpp -o CMakeFiles/LintCode.dir/binSearch/P75.cpp.s
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/i/LintCode/binSearch/P75.cpp -o CMakeFiles/LintCode.dir/binSearch/P75.cpp.s
 
 CMakeFiles/LintCode.dir/binSearch/P75.cpp.o.requires:
 
@@ -563,16 +563,16 @@ CMakeFiles/LintCode.dir/binSearch/P75.cpp.o.provides.build: CMakeFiles/LintCode.
 
 CMakeFiles/LintCode.dir/binSearch/P159.cpp.o: CMakeFiles/LintCode.dir/flags.make
 CMakeFiles/LintCode.dir/binSearch/P159.cpp.o: ../binSearch/P159.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/enheng/CLionProjects/LintCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building CXX object CMakeFiles/LintCode.dir/binSearch/P159.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LintCode.dir/binSearch/P159.cpp.o -c /home/enheng/CLionProjects/LintCode/binSearch/P159.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/i/LintCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building CXX object CMakeFiles/LintCode.dir/binSearch/P159.cpp.o"
+	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LintCode.dir/binSearch/P159.cpp.o -c /cygdrive/i/LintCode/binSearch/P159.cpp
 
 CMakeFiles/LintCode.dir/binSearch/P159.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LintCode.dir/binSearch/P159.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/enheng/CLionProjects/LintCode/binSearch/P159.cpp > CMakeFiles/LintCode.dir/binSearch/P159.cpp.i
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/i/LintCode/binSearch/P159.cpp > CMakeFiles/LintCode.dir/binSearch/P159.cpp.i
 
 CMakeFiles/LintCode.dir/binSearch/P159.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LintCode.dir/binSearch/P159.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/enheng/CLionProjects/LintCode/binSearch/P159.cpp -o CMakeFiles/LintCode.dir/binSearch/P159.cpp.s
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/i/LintCode/binSearch/P159.cpp -o CMakeFiles/LintCode.dir/binSearch/P159.cpp.s
 
 CMakeFiles/LintCode.dir/binSearch/P159.cpp.o.requires:
 
@@ -587,16 +587,16 @@ CMakeFiles/LintCode.dir/binSearch/P159.cpp.o.provides.build: CMakeFiles/LintCode
 
 CMakeFiles/LintCode.dir/binSearch/P62.cpp.o: CMakeFiles/LintCode.dir/flags.make
 CMakeFiles/LintCode.dir/binSearch/P62.cpp.o: ../binSearch/P62.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/enheng/CLionProjects/LintCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Building CXX object CMakeFiles/LintCode.dir/binSearch/P62.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LintCode.dir/binSearch/P62.cpp.o -c /home/enheng/CLionProjects/LintCode/binSearch/P62.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/i/LintCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Building CXX object CMakeFiles/LintCode.dir/binSearch/P62.cpp.o"
+	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LintCode.dir/binSearch/P62.cpp.o -c /cygdrive/i/LintCode/binSearch/P62.cpp
 
 CMakeFiles/LintCode.dir/binSearch/P62.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LintCode.dir/binSearch/P62.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/enheng/CLionProjects/LintCode/binSearch/P62.cpp > CMakeFiles/LintCode.dir/binSearch/P62.cpp.i
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/i/LintCode/binSearch/P62.cpp > CMakeFiles/LintCode.dir/binSearch/P62.cpp.i
 
 CMakeFiles/LintCode.dir/binSearch/P62.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LintCode.dir/binSearch/P62.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/enheng/CLionProjects/LintCode/binSearch/P62.cpp -o CMakeFiles/LintCode.dir/binSearch/P62.cpp.s
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/i/LintCode/binSearch/P62.cpp -o CMakeFiles/LintCode.dir/binSearch/P62.cpp.s
 
 CMakeFiles/LintCode.dir/binSearch/P62.cpp.o.requires:
 
@@ -611,16 +611,16 @@ CMakeFiles/LintCode.dir/binSearch/P62.cpp.o.provides.build: CMakeFiles/LintCode.
 
 CMakeFiles/LintCode.dir/binSearch/P61.cpp.o: CMakeFiles/LintCode.dir/flags.make
 CMakeFiles/LintCode.dir/binSearch/P61.cpp.o: ../binSearch/P61.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/enheng/CLionProjects/LintCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Building CXX object CMakeFiles/LintCode.dir/binSearch/P61.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LintCode.dir/binSearch/P61.cpp.o -c /home/enheng/CLionProjects/LintCode/binSearch/P61.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/i/LintCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Building CXX object CMakeFiles/LintCode.dir/binSearch/P61.cpp.o"
+	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LintCode.dir/binSearch/P61.cpp.o -c /cygdrive/i/LintCode/binSearch/P61.cpp
 
 CMakeFiles/LintCode.dir/binSearch/P61.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LintCode.dir/binSearch/P61.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/enheng/CLionProjects/LintCode/binSearch/P61.cpp > CMakeFiles/LintCode.dir/binSearch/P61.cpp.i
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/i/LintCode/binSearch/P61.cpp > CMakeFiles/LintCode.dir/binSearch/P61.cpp.i
 
 CMakeFiles/LintCode.dir/binSearch/P61.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LintCode.dir/binSearch/P61.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/enheng/CLionProjects/LintCode/binSearch/P61.cpp -o CMakeFiles/LintCode.dir/binSearch/P61.cpp.s
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/i/LintCode/binSearch/P61.cpp -o CMakeFiles/LintCode.dir/binSearch/P61.cpp.s
 
 CMakeFiles/LintCode.dir/binSearch/P61.cpp.o.requires:
 
@@ -635,16 +635,16 @@ CMakeFiles/LintCode.dir/binSearch/P61.cpp.o.provides.build: CMakeFiles/LintCode.
 
 CMakeFiles/LintCode.dir/binSearch/P183.cpp.o: CMakeFiles/LintCode.dir/flags.make
 CMakeFiles/LintCode.dir/binSearch/P183.cpp.o: ../binSearch/P183.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/enheng/CLionProjects/LintCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_25) "Building CXX object CMakeFiles/LintCode.dir/binSearch/P183.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LintCode.dir/binSearch/P183.cpp.o -c /home/enheng/CLionProjects/LintCode/binSearch/P183.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/i/LintCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_25) "Building CXX object CMakeFiles/LintCode.dir/binSearch/P183.cpp.o"
+	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LintCode.dir/binSearch/P183.cpp.o -c /cygdrive/i/LintCode/binSearch/P183.cpp
 
 CMakeFiles/LintCode.dir/binSearch/P183.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LintCode.dir/binSearch/P183.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/enheng/CLionProjects/LintCode/binSearch/P183.cpp > CMakeFiles/LintCode.dir/binSearch/P183.cpp.i
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/i/LintCode/binSearch/P183.cpp > CMakeFiles/LintCode.dir/binSearch/P183.cpp.i
 
 CMakeFiles/LintCode.dir/binSearch/P183.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LintCode.dir/binSearch/P183.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/enheng/CLionProjects/LintCode/binSearch/P183.cpp -o CMakeFiles/LintCode.dir/binSearch/P183.cpp.s
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/i/LintCode/binSearch/P183.cpp -o CMakeFiles/LintCode.dir/binSearch/P183.cpp.s
 
 CMakeFiles/LintCode.dir/binSearch/P183.cpp.o.requires:
 
@@ -659,16 +659,16 @@ CMakeFiles/LintCode.dir/binSearch/P183.cpp.o.provides.build: CMakeFiles/LintCode
 
 CMakeFiles/LintCode.dir/Math&BitManipulation/P181.cpp.o: CMakeFiles/LintCode.dir/flags.make
 CMakeFiles/LintCode.dir/Math&BitManipulation/P181.cpp.o: ../Math&BitManipulation/P181.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/enheng/CLionProjects/LintCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_26) "Building CXX object CMakeFiles/LintCode.dir/Math&BitManipulation/P181.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o "CMakeFiles/LintCode.dir/Math&BitManipulation/P181.cpp.o" -c "/home/enheng/CLionProjects/LintCode/Math&BitManipulation/P181.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/i/LintCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_26) "Building CXX object CMakeFiles/LintCode.dir/Math&BitManipulation/P181.cpp.o"
+	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o "CMakeFiles/LintCode.dir/Math&BitManipulation/P181.cpp.o" -c "/cygdrive/i/LintCode/Math&BitManipulation/P181.cpp"
 
 CMakeFiles/LintCode.dir/Math&BitManipulation/P181.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LintCode.dir/Math&BitManipulation/P181.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/enheng/CLionProjects/LintCode/Math&BitManipulation/P181.cpp" > "CMakeFiles/LintCode.dir/Math&BitManipulation/P181.cpp.i"
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/cygdrive/i/LintCode/Math&BitManipulation/P181.cpp" > "CMakeFiles/LintCode.dir/Math&BitManipulation/P181.cpp.i"
 
 CMakeFiles/LintCode.dir/Math&BitManipulation/P181.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LintCode.dir/Math&BitManipulation/P181.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/enheng/CLionProjects/LintCode/Math&BitManipulation/P181.cpp" -o "CMakeFiles/LintCode.dir/Math&BitManipulation/P181.cpp.s"
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/cygdrive/i/LintCode/Math&BitManipulation/P181.cpp" -o "CMakeFiles/LintCode.dir/Math&BitManipulation/P181.cpp.s"
 
 CMakeFiles/LintCode.dir/Math&BitManipulation/P181.cpp.o.requires:
 
@@ -683,16 +683,16 @@ CMakeFiles/LintCode.dir/Math&BitManipulation/P181.cpp.o.provides.build: CMakeFil
 
 CMakeFiles/LintCode.dir/Math&BitManipulation/P142.cpp.o: CMakeFiles/LintCode.dir/flags.make
 CMakeFiles/LintCode.dir/Math&BitManipulation/P142.cpp.o: ../Math&BitManipulation/P142.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/enheng/CLionProjects/LintCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_27) "Building CXX object CMakeFiles/LintCode.dir/Math&BitManipulation/P142.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o "CMakeFiles/LintCode.dir/Math&BitManipulation/P142.cpp.o" -c "/home/enheng/CLionProjects/LintCode/Math&BitManipulation/P142.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/i/LintCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_27) "Building CXX object CMakeFiles/LintCode.dir/Math&BitManipulation/P142.cpp.o"
+	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o "CMakeFiles/LintCode.dir/Math&BitManipulation/P142.cpp.o" -c "/cygdrive/i/LintCode/Math&BitManipulation/P142.cpp"
 
 CMakeFiles/LintCode.dir/Math&BitManipulation/P142.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LintCode.dir/Math&BitManipulation/P142.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/enheng/CLionProjects/LintCode/Math&BitManipulation/P142.cpp" > "CMakeFiles/LintCode.dir/Math&BitManipulation/P142.cpp.i"
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/cygdrive/i/LintCode/Math&BitManipulation/P142.cpp" > "CMakeFiles/LintCode.dir/Math&BitManipulation/P142.cpp.i"
 
 CMakeFiles/LintCode.dir/Math&BitManipulation/P142.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LintCode.dir/Math&BitManipulation/P142.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/enheng/CLionProjects/LintCode/Math&BitManipulation/P142.cpp" -o "CMakeFiles/LintCode.dir/Math&BitManipulation/P142.cpp.s"
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/cygdrive/i/LintCode/Math&BitManipulation/P142.cpp" -o "CMakeFiles/LintCode.dir/Math&BitManipulation/P142.cpp.s"
 
 CMakeFiles/LintCode.dir/Math&BitManipulation/P142.cpp.o.requires:
 
@@ -707,16 +707,16 @@ CMakeFiles/LintCode.dir/Math&BitManipulation/P142.cpp.o.provides.build: CMakeFil
 
 CMakeFiles/LintCode.dir/Math&BitManipulation/P179.cpp.o: CMakeFiles/LintCode.dir/flags.make
 CMakeFiles/LintCode.dir/Math&BitManipulation/P179.cpp.o: ../Math&BitManipulation/P179.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/enheng/CLionProjects/LintCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_28) "Building CXX object CMakeFiles/LintCode.dir/Math&BitManipulation/P179.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o "CMakeFiles/LintCode.dir/Math&BitManipulation/P179.cpp.o" -c "/home/enheng/CLionProjects/LintCode/Math&BitManipulation/P179.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/i/LintCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_28) "Building CXX object CMakeFiles/LintCode.dir/Math&BitManipulation/P179.cpp.o"
+	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o "CMakeFiles/LintCode.dir/Math&BitManipulation/P179.cpp.o" -c "/cygdrive/i/LintCode/Math&BitManipulation/P179.cpp"
 
 CMakeFiles/LintCode.dir/Math&BitManipulation/P179.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LintCode.dir/Math&BitManipulation/P179.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/enheng/CLionProjects/LintCode/Math&BitManipulation/P179.cpp" > "CMakeFiles/LintCode.dir/Math&BitManipulation/P179.cpp.i"
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/cygdrive/i/LintCode/Math&BitManipulation/P179.cpp" > "CMakeFiles/LintCode.dir/Math&BitManipulation/P179.cpp.i"
 
 CMakeFiles/LintCode.dir/Math&BitManipulation/P179.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LintCode.dir/Math&BitManipulation/P179.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/enheng/CLionProjects/LintCode/Math&BitManipulation/P179.cpp" -o "CMakeFiles/LintCode.dir/Math&BitManipulation/P179.cpp.s"
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/cygdrive/i/LintCode/Math&BitManipulation/P179.cpp" -o "CMakeFiles/LintCode.dir/Math&BitManipulation/P179.cpp.s"
 
 CMakeFiles/LintCode.dir/Math&BitManipulation/P179.cpp.o.requires:
 
@@ -731,16 +731,16 @@ CMakeFiles/LintCode.dir/Math&BitManipulation/P179.cpp.o.provides.build: CMakeFil
 
 CMakeFiles/LintCode.dir/Math&BitManipulation/P180.cpp.o: CMakeFiles/LintCode.dir/flags.make
 CMakeFiles/LintCode.dir/Math&BitManipulation/P180.cpp.o: ../Math&BitManipulation/P180.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/enheng/CLionProjects/LintCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_29) "Building CXX object CMakeFiles/LintCode.dir/Math&BitManipulation/P180.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o "CMakeFiles/LintCode.dir/Math&BitManipulation/P180.cpp.o" -c "/home/enheng/CLionProjects/LintCode/Math&BitManipulation/P180.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/i/LintCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_29) "Building CXX object CMakeFiles/LintCode.dir/Math&BitManipulation/P180.cpp.o"
+	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o "CMakeFiles/LintCode.dir/Math&BitManipulation/P180.cpp.o" -c "/cygdrive/i/LintCode/Math&BitManipulation/P180.cpp"
 
 CMakeFiles/LintCode.dir/Math&BitManipulation/P180.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LintCode.dir/Math&BitManipulation/P180.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/enheng/CLionProjects/LintCode/Math&BitManipulation/P180.cpp" > "CMakeFiles/LintCode.dir/Math&BitManipulation/P180.cpp.i"
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/cygdrive/i/LintCode/Math&BitManipulation/P180.cpp" > "CMakeFiles/LintCode.dir/Math&BitManipulation/P180.cpp.i"
 
 CMakeFiles/LintCode.dir/Math&BitManipulation/P180.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LintCode.dir/Math&BitManipulation/P180.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/enheng/CLionProjects/LintCode/Math&BitManipulation/P180.cpp" -o "CMakeFiles/LintCode.dir/Math&BitManipulation/P180.cpp.s"
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/cygdrive/i/LintCode/Math&BitManipulation/P180.cpp" -o "CMakeFiles/LintCode.dir/Math&BitManipulation/P180.cpp.s"
 
 CMakeFiles/LintCode.dir/Math&BitManipulation/P180.cpp.o.requires:
 
@@ -755,16 +755,16 @@ CMakeFiles/LintCode.dir/Math&BitManipulation/P180.cpp.o.provides.build: CMakeFil
 
 CMakeFiles/LintCode.dir/Math&BitManipulation/P140.cpp.o: CMakeFiles/LintCode.dir/flags.make
 CMakeFiles/LintCode.dir/Math&BitManipulation/P140.cpp.o: ../Math&BitManipulation/P140.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/enheng/CLionProjects/LintCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_30) "Building CXX object CMakeFiles/LintCode.dir/Math&BitManipulation/P140.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o "CMakeFiles/LintCode.dir/Math&BitManipulation/P140.cpp.o" -c "/home/enheng/CLionProjects/LintCode/Math&BitManipulation/P140.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/i/LintCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_30) "Building CXX object CMakeFiles/LintCode.dir/Math&BitManipulation/P140.cpp.o"
+	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o "CMakeFiles/LintCode.dir/Math&BitManipulation/P140.cpp.o" -c "/cygdrive/i/LintCode/Math&BitManipulation/P140.cpp"
 
 CMakeFiles/LintCode.dir/Math&BitManipulation/P140.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LintCode.dir/Math&BitManipulation/P140.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/enheng/CLionProjects/LintCode/Math&BitManipulation/P140.cpp" > "CMakeFiles/LintCode.dir/Math&BitManipulation/P140.cpp.i"
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/cygdrive/i/LintCode/Math&BitManipulation/P140.cpp" > "CMakeFiles/LintCode.dir/Math&BitManipulation/P140.cpp.i"
 
 CMakeFiles/LintCode.dir/Math&BitManipulation/P140.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LintCode.dir/Math&BitManipulation/P140.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/enheng/CLionProjects/LintCode/Math&BitManipulation/P140.cpp" -o "CMakeFiles/LintCode.dir/Math&BitManipulation/P140.cpp.s"
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/cygdrive/i/LintCode/Math&BitManipulation/P140.cpp" -o "CMakeFiles/LintCode.dir/Math&BitManipulation/P140.cpp.s"
 
 CMakeFiles/LintCode.dir/Math&BitManipulation/P140.cpp.o.requires:
 
@@ -779,16 +779,16 @@ CMakeFiles/LintCode.dir/Math&BitManipulation/P140.cpp.o.provides.build: CMakeFil
 
 CMakeFiles/LintCode.dir/Math&BitManipulation/P163.cpp.o: CMakeFiles/LintCode.dir/flags.make
 CMakeFiles/LintCode.dir/Math&BitManipulation/P163.cpp.o: ../Math&BitManipulation/P163.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/enheng/CLionProjects/LintCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_31) "Building CXX object CMakeFiles/LintCode.dir/Math&BitManipulation/P163.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o "CMakeFiles/LintCode.dir/Math&BitManipulation/P163.cpp.o" -c "/home/enheng/CLionProjects/LintCode/Math&BitManipulation/P163.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/i/LintCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_31) "Building CXX object CMakeFiles/LintCode.dir/Math&BitManipulation/P163.cpp.o"
+	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o "CMakeFiles/LintCode.dir/Math&BitManipulation/P163.cpp.o" -c "/cygdrive/i/LintCode/Math&BitManipulation/P163.cpp"
 
 CMakeFiles/LintCode.dir/Math&BitManipulation/P163.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LintCode.dir/Math&BitManipulation/P163.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/enheng/CLionProjects/LintCode/Math&BitManipulation/P163.cpp" > "CMakeFiles/LintCode.dir/Math&BitManipulation/P163.cpp.i"
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/cygdrive/i/LintCode/Math&BitManipulation/P163.cpp" > "CMakeFiles/LintCode.dir/Math&BitManipulation/P163.cpp.i"
 
 CMakeFiles/LintCode.dir/Math&BitManipulation/P163.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LintCode.dir/Math&BitManipulation/P163.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/enheng/CLionProjects/LintCode/Math&BitManipulation/P163.cpp" -o "CMakeFiles/LintCode.dir/Math&BitManipulation/P163.cpp.s"
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/cygdrive/i/LintCode/Math&BitManipulation/P163.cpp" -o "CMakeFiles/LintCode.dir/Math&BitManipulation/P163.cpp.s"
 
 CMakeFiles/LintCode.dir/Math&BitManipulation/P163.cpp.o.requires:
 
@@ -803,16 +803,16 @@ CMakeFiles/LintCode.dir/Math&BitManipulation/P163.cpp.o.provides.build: CMakeFil
 
 CMakeFiles/LintCode.dir/Greedy/P82.cpp.o: CMakeFiles/LintCode.dir/flags.make
 CMakeFiles/LintCode.dir/Greedy/P82.cpp.o: ../Greedy/P82.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/enheng/CLionProjects/LintCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_32) "Building CXX object CMakeFiles/LintCode.dir/Greedy/P82.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LintCode.dir/Greedy/P82.cpp.o -c /home/enheng/CLionProjects/LintCode/Greedy/P82.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/i/LintCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_32) "Building CXX object CMakeFiles/LintCode.dir/Greedy/P82.cpp.o"
+	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LintCode.dir/Greedy/P82.cpp.o -c /cygdrive/i/LintCode/Greedy/P82.cpp
 
 CMakeFiles/LintCode.dir/Greedy/P82.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LintCode.dir/Greedy/P82.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/enheng/CLionProjects/LintCode/Greedy/P82.cpp > CMakeFiles/LintCode.dir/Greedy/P82.cpp.i
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/i/LintCode/Greedy/P82.cpp > CMakeFiles/LintCode.dir/Greedy/P82.cpp.i
 
 CMakeFiles/LintCode.dir/Greedy/P82.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LintCode.dir/Greedy/P82.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/enheng/CLionProjects/LintCode/Greedy/P82.cpp -o CMakeFiles/LintCode.dir/Greedy/P82.cpp.s
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/i/LintCode/Greedy/P82.cpp -o CMakeFiles/LintCode.dir/Greedy/P82.cpp.s
 
 CMakeFiles/LintCode.dir/Greedy/P82.cpp.o.requires:
 
@@ -827,16 +827,16 @@ CMakeFiles/LintCode.dir/Greedy/P82.cpp.o.provides.build: CMakeFiles/LintCode.dir
 
 CMakeFiles/LintCode.dir/Greedy/P46.cpp.o: CMakeFiles/LintCode.dir/flags.make
 CMakeFiles/LintCode.dir/Greedy/P46.cpp.o: ../Greedy/P46.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/enheng/CLionProjects/LintCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_33) "Building CXX object CMakeFiles/LintCode.dir/Greedy/P46.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LintCode.dir/Greedy/P46.cpp.o -c /home/enheng/CLionProjects/LintCode/Greedy/P46.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/i/LintCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_33) "Building CXX object CMakeFiles/LintCode.dir/Greedy/P46.cpp.o"
+	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LintCode.dir/Greedy/P46.cpp.o -c /cygdrive/i/LintCode/Greedy/P46.cpp
 
 CMakeFiles/LintCode.dir/Greedy/P46.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LintCode.dir/Greedy/P46.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/enheng/CLionProjects/LintCode/Greedy/P46.cpp > CMakeFiles/LintCode.dir/Greedy/P46.cpp.i
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/i/LintCode/Greedy/P46.cpp > CMakeFiles/LintCode.dir/Greedy/P46.cpp.i
 
 CMakeFiles/LintCode.dir/Greedy/P46.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LintCode.dir/Greedy/P46.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/enheng/CLionProjects/LintCode/Greedy/P46.cpp -o CMakeFiles/LintCode.dir/Greedy/P46.cpp.s
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/i/LintCode/Greedy/P46.cpp -o CMakeFiles/LintCode.dir/Greedy/P46.cpp.s
 
 CMakeFiles/LintCode.dir/Greedy/P46.cpp.o.requires:
 
@@ -851,16 +851,16 @@ CMakeFiles/LintCode.dir/Greedy/P46.cpp.o.provides.build: CMakeFiles/LintCode.dir
 
 CMakeFiles/LintCode.dir/Greedy/P187.cpp.o: CMakeFiles/LintCode.dir/flags.make
 CMakeFiles/LintCode.dir/Greedy/P187.cpp.o: ../Greedy/P187.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/enheng/CLionProjects/LintCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_34) "Building CXX object CMakeFiles/LintCode.dir/Greedy/P187.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LintCode.dir/Greedy/P187.cpp.o -c /home/enheng/CLionProjects/LintCode/Greedy/P187.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/i/LintCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_34) "Building CXX object CMakeFiles/LintCode.dir/Greedy/P187.cpp.o"
+	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LintCode.dir/Greedy/P187.cpp.o -c /cygdrive/i/LintCode/Greedy/P187.cpp
 
 CMakeFiles/LintCode.dir/Greedy/P187.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LintCode.dir/Greedy/P187.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/enheng/CLionProjects/LintCode/Greedy/P187.cpp > CMakeFiles/LintCode.dir/Greedy/P187.cpp.i
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/i/LintCode/Greedy/P187.cpp > CMakeFiles/LintCode.dir/Greedy/P187.cpp.i
 
 CMakeFiles/LintCode.dir/Greedy/P187.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LintCode.dir/Greedy/P187.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/enheng/CLionProjects/LintCode/Greedy/P187.cpp -o CMakeFiles/LintCode.dir/Greedy/P187.cpp.s
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/i/LintCode/Greedy/P187.cpp -o CMakeFiles/LintCode.dir/Greedy/P187.cpp.s
 
 CMakeFiles/LintCode.dir/Greedy/P187.cpp.o.requires:
 
@@ -875,16 +875,16 @@ CMakeFiles/LintCode.dir/Greedy/P187.cpp.o.provides.build: CMakeFiles/LintCode.di
 
 CMakeFiles/LintCode.dir/Greedy/P184.cpp.o: CMakeFiles/LintCode.dir/flags.make
 CMakeFiles/LintCode.dir/Greedy/P184.cpp.o: ../Greedy/P184.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/enheng/CLionProjects/LintCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_35) "Building CXX object CMakeFiles/LintCode.dir/Greedy/P184.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LintCode.dir/Greedy/P184.cpp.o -c /home/enheng/CLionProjects/LintCode/Greedy/P184.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/i/LintCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_35) "Building CXX object CMakeFiles/LintCode.dir/Greedy/P184.cpp.o"
+	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LintCode.dir/Greedy/P184.cpp.o -c /cygdrive/i/LintCode/Greedy/P184.cpp
 
 CMakeFiles/LintCode.dir/Greedy/P184.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LintCode.dir/Greedy/P184.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/enheng/CLionProjects/LintCode/Greedy/P184.cpp > CMakeFiles/LintCode.dir/Greedy/P184.cpp.i
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/i/LintCode/Greedy/P184.cpp > CMakeFiles/LintCode.dir/Greedy/P184.cpp.i
 
 CMakeFiles/LintCode.dir/Greedy/P184.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LintCode.dir/Greedy/P184.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/enheng/CLionProjects/LintCode/Greedy/P184.cpp -o CMakeFiles/LintCode.dir/Greedy/P184.cpp.s
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/i/LintCode/Greedy/P184.cpp -o CMakeFiles/LintCode.dir/Greedy/P184.cpp.s
 
 CMakeFiles/LintCode.dir/Greedy/P184.cpp.o.requires:
 
@@ -899,16 +899,16 @@ CMakeFiles/LintCode.dir/Greedy/P184.cpp.o.provides.build: CMakeFiles/LintCode.di
 
 CMakeFiles/LintCode.dir/Greedy/P182.cpp.o: CMakeFiles/LintCode.dir/flags.make
 CMakeFiles/LintCode.dir/Greedy/P182.cpp.o: ../Greedy/P182.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/enheng/CLionProjects/LintCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_36) "Building CXX object CMakeFiles/LintCode.dir/Greedy/P182.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LintCode.dir/Greedy/P182.cpp.o -c /home/enheng/CLionProjects/LintCode/Greedy/P182.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/i/LintCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_36) "Building CXX object CMakeFiles/LintCode.dir/Greedy/P182.cpp.o"
+	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LintCode.dir/Greedy/P182.cpp.o -c /cygdrive/i/LintCode/Greedy/P182.cpp
 
 CMakeFiles/LintCode.dir/Greedy/P182.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LintCode.dir/Greedy/P182.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/enheng/CLionProjects/LintCode/Greedy/P182.cpp > CMakeFiles/LintCode.dir/Greedy/P182.cpp.i
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/i/LintCode/Greedy/P182.cpp > CMakeFiles/LintCode.dir/Greedy/P182.cpp.i
 
 CMakeFiles/LintCode.dir/Greedy/P182.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LintCode.dir/Greedy/P182.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/enheng/CLionProjects/LintCode/Greedy/P182.cpp -o CMakeFiles/LintCode.dir/Greedy/P182.cpp.s
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/i/LintCode/Greedy/P182.cpp -o CMakeFiles/LintCode.dir/Greedy/P182.cpp.s
 
 CMakeFiles/LintCode.dir/Greedy/P182.cpp.o.requires:
 
@@ -923,16 +923,16 @@ CMakeFiles/LintCode.dir/Greedy/P182.cpp.o.provides.build: CMakeFiles/LintCode.di
 
 CMakeFiles/LintCode.dir/Greedy/P116.cpp.o: CMakeFiles/LintCode.dir/flags.make
 CMakeFiles/LintCode.dir/Greedy/P116.cpp.o: ../Greedy/P116.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/enheng/CLionProjects/LintCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_37) "Building CXX object CMakeFiles/LintCode.dir/Greedy/P116.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LintCode.dir/Greedy/P116.cpp.o -c /home/enheng/CLionProjects/LintCode/Greedy/P116.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/i/LintCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_37) "Building CXX object CMakeFiles/LintCode.dir/Greedy/P116.cpp.o"
+	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LintCode.dir/Greedy/P116.cpp.o -c /cygdrive/i/LintCode/Greedy/P116.cpp
 
 CMakeFiles/LintCode.dir/Greedy/P116.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LintCode.dir/Greedy/P116.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/enheng/CLionProjects/LintCode/Greedy/P116.cpp > CMakeFiles/LintCode.dir/Greedy/P116.cpp.i
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/i/LintCode/Greedy/P116.cpp > CMakeFiles/LintCode.dir/Greedy/P116.cpp.i
 
 CMakeFiles/LintCode.dir/Greedy/P116.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LintCode.dir/Greedy/P116.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/enheng/CLionProjects/LintCode/Greedy/P116.cpp -o CMakeFiles/LintCode.dir/Greedy/P116.cpp.s
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/i/LintCode/Greedy/P116.cpp -o CMakeFiles/LintCode.dir/Greedy/P116.cpp.s
 
 CMakeFiles/LintCode.dir/Greedy/P116.cpp.o.requires:
 
@@ -947,16 +947,16 @@ CMakeFiles/LintCode.dir/Greedy/P116.cpp.o.provides.build: CMakeFiles/LintCode.di
 
 CMakeFiles/LintCode.dir/Greedy/P52.cpp.o: CMakeFiles/LintCode.dir/flags.make
 CMakeFiles/LintCode.dir/Greedy/P52.cpp.o: ../Greedy/P52.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/enheng/CLionProjects/LintCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_38) "Building CXX object CMakeFiles/LintCode.dir/Greedy/P52.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LintCode.dir/Greedy/P52.cpp.o -c /home/enheng/CLionProjects/LintCode/Greedy/P52.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/i/LintCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_38) "Building CXX object CMakeFiles/LintCode.dir/Greedy/P52.cpp.o"
+	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LintCode.dir/Greedy/P52.cpp.o -c /cygdrive/i/LintCode/Greedy/P52.cpp
 
 CMakeFiles/LintCode.dir/Greedy/P52.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LintCode.dir/Greedy/P52.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/enheng/CLionProjects/LintCode/Greedy/P52.cpp > CMakeFiles/LintCode.dir/Greedy/P52.cpp.i
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/i/LintCode/Greedy/P52.cpp > CMakeFiles/LintCode.dir/Greedy/P52.cpp.i
 
 CMakeFiles/LintCode.dir/Greedy/P52.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LintCode.dir/Greedy/P52.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/enheng/CLionProjects/LintCode/Greedy/P52.cpp -o CMakeFiles/LintCode.dir/Greedy/P52.cpp.s
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/i/LintCode/Greedy/P52.cpp -o CMakeFiles/LintCode.dir/Greedy/P52.cpp.s
 
 CMakeFiles/LintCode.dir/Greedy/P52.cpp.o.requires:
 
@@ -971,16 +971,16 @@ CMakeFiles/LintCode.dir/Greedy/P52.cpp.o.provides.build: CMakeFiles/LintCode.dir
 
 CMakeFiles/LintCode.dir/linkedList/P174.cpp.o: CMakeFiles/LintCode.dir/flags.make
 CMakeFiles/LintCode.dir/linkedList/P174.cpp.o: ../linkedList/P174.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/enheng/CLionProjects/LintCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_39) "Building CXX object CMakeFiles/LintCode.dir/linkedList/P174.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LintCode.dir/linkedList/P174.cpp.o -c /home/enheng/CLionProjects/LintCode/linkedList/P174.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/i/LintCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_39) "Building CXX object CMakeFiles/LintCode.dir/linkedList/P174.cpp.o"
+	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LintCode.dir/linkedList/P174.cpp.o -c /cygdrive/i/LintCode/linkedList/P174.cpp
 
 CMakeFiles/LintCode.dir/linkedList/P174.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LintCode.dir/linkedList/P174.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/enheng/CLionProjects/LintCode/linkedList/P174.cpp > CMakeFiles/LintCode.dir/linkedList/P174.cpp.i
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/i/LintCode/linkedList/P174.cpp > CMakeFiles/LintCode.dir/linkedList/P174.cpp.i
 
 CMakeFiles/LintCode.dir/linkedList/P174.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LintCode.dir/linkedList/P174.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/enheng/CLionProjects/LintCode/linkedList/P174.cpp -o CMakeFiles/LintCode.dir/linkedList/P174.cpp.s
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/i/LintCode/linkedList/P174.cpp -o CMakeFiles/LintCode.dir/linkedList/P174.cpp.s
 
 CMakeFiles/LintCode.dir/linkedList/P174.cpp.o.requires:
 
@@ -995,16 +995,16 @@ CMakeFiles/LintCode.dir/linkedList/P174.cpp.o.provides.build: CMakeFiles/LintCod
 
 CMakeFiles/LintCode.dir/linkedList/165.cpp.o: CMakeFiles/LintCode.dir/flags.make
 CMakeFiles/LintCode.dir/linkedList/165.cpp.o: ../linkedList/165.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/enheng/CLionProjects/LintCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_40) "Building CXX object CMakeFiles/LintCode.dir/linkedList/165.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LintCode.dir/linkedList/165.cpp.o -c /home/enheng/CLionProjects/LintCode/linkedList/165.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/i/LintCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_40) "Building CXX object CMakeFiles/LintCode.dir/linkedList/165.cpp.o"
+	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LintCode.dir/linkedList/165.cpp.o -c /cygdrive/i/LintCode/linkedList/165.cpp
 
 CMakeFiles/LintCode.dir/linkedList/165.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LintCode.dir/linkedList/165.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/enheng/CLionProjects/LintCode/linkedList/165.cpp > CMakeFiles/LintCode.dir/linkedList/165.cpp.i
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/i/LintCode/linkedList/165.cpp > CMakeFiles/LintCode.dir/linkedList/165.cpp.i
 
 CMakeFiles/LintCode.dir/linkedList/165.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LintCode.dir/linkedList/165.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/enheng/CLionProjects/LintCode/linkedList/165.cpp -o CMakeFiles/LintCode.dir/linkedList/165.cpp.s
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/i/LintCode/linkedList/165.cpp -o CMakeFiles/LintCode.dir/linkedList/165.cpp.s
 
 CMakeFiles/LintCode.dir/linkedList/165.cpp.o.requires:
 
@@ -1019,16 +1019,16 @@ CMakeFiles/LintCode.dir/linkedList/165.cpp.o.provides.build: CMakeFiles/LintCode
 
 CMakeFiles/LintCode.dir/linkedList/P112.cpp.o: CMakeFiles/LintCode.dir/flags.make
 CMakeFiles/LintCode.dir/linkedList/P112.cpp.o: ../linkedList/P112.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/enheng/CLionProjects/LintCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_41) "Building CXX object CMakeFiles/LintCode.dir/linkedList/P112.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LintCode.dir/linkedList/P112.cpp.o -c /home/enheng/CLionProjects/LintCode/linkedList/P112.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/i/LintCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_41) "Building CXX object CMakeFiles/LintCode.dir/linkedList/P112.cpp.o"
+	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LintCode.dir/linkedList/P112.cpp.o -c /cygdrive/i/LintCode/linkedList/P112.cpp
 
 CMakeFiles/LintCode.dir/linkedList/P112.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LintCode.dir/linkedList/P112.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/enheng/CLionProjects/LintCode/linkedList/P112.cpp > CMakeFiles/LintCode.dir/linkedList/P112.cpp.i
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/i/LintCode/linkedList/P112.cpp > CMakeFiles/LintCode.dir/linkedList/P112.cpp.i
 
 CMakeFiles/LintCode.dir/linkedList/P112.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LintCode.dir/linkedList/P112.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/enheng/CLionProjects/LintCode/linkedList/P112.cpp -o CMakeFiles/LintCode.dir/linkedList/P112.cpp.s
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/i/LintCode/linkedList/P112.cpp -o CMakeFiles/LintCode.dir/linkedList/P112.cpp.s
 
 CMakeFiles/LintCode.dir/linkedList/P112.cpp.o.requires:
 
@@ -1043,16 +1043,16 @@ CMakeFiles/LintCode.dir/linkedList/P112.cpp.o.provides.build: CMakeFiles/LintCod
 
 CMakeFiles/LintCode.dir/linkedList/P96.cpp.o: CMakeFiles/LintCode.dir/flags.make
 CMakeFiles/LintCode.dir/linkedList/P96.cpp.o: ../linkedList/P96.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/enheng/CLionProjects/LintCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_42) "Building CXX object CMakeFiles/LintCode.dir/linkedList/P96.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LintCode.dir/linkedList/P96.cpp.o -c /home/enheng/CLionProjects/LintCode/linkedList/P96.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/i/LintCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_42) "Building CXX object CMakeFiles/LintCode.dir/linkedList/P96.cpp.o"
+	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LintCode.dir/linkedList/P96.cpp.o -c /cygdrive/i/LintCode/linkedList/P96.cpp
 
 CMakeFiles/LintCode.dir/linkedList/P96.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LintCode.dir/linkedList/P96.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/enheng/CLionProjects/LintCode/linkedList/P96.cpp > CMakeFiles/LintCode.dir/linkedList/P96.cpp.i
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/i/LintCode/linkedList/P96.cpp > CMakeFiles/LintCode.dir/linkedList/P96.cpp.i
 
 CMakeFiles/LintCode.dir/linkedList/P96.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LintCode.dir/linkedList/P96.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/enheng/CLionProjects/LintCode/linkedList/P96.cpp -o CMakeFiles/LintCode.dir/linkedList/P96.cpp.s
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/i/LintCode/linkedList/P96.cpp -o CMakeFiles/LintCode.dir/linkedList/P96.cpp.s
 
 CMakeFiles/LintCode.dir/linkedList/P96.cpp.o.requires:
 
@@ -1067,16 +1067,16 @@ CMakeFiles/LintCode.dir/linkedList/P96.cpp.o.provides.build: CMakeFiles/LintCode
 
 CMakeFiles/LintCode.dir/linkedList/P170.cpp.o: CMakeFiles/LintCode.dir/flags.make
 CMakeFiles/LintCode.dir/linkedList/P170.cpp.o: ../linkedList/P170.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/enheng/CLionProjects/LintCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_43) "Building CXX object CMakeFiles/LintCode.dir/linkedList/P170.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LintCode.dir/linkedList/P170.cpp.o -c /home/enheng/CLionProjects/LintCode/linkedList/P170.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/i/LintCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_43) "Building CXX object CMakeFiles/LintCode.dir/linkedList/P170.cpp.o"
+	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LintCode.dir/linkedList/P170.cpp.o -c /cygdrive/i/LintCode/linkedList/P170.cpp
 
 CMakeFiles/LintCode.dir/linkedList/P170.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LintCode.dir/linkedList/P170.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/enheng/CLionProjects/LintCode/linkedList/P170.cpp > CMakeFiles/LintCode.dir/linkedList/P170.cpp.i
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/i/LintCode/linkedList/P170.cpp > CMakeFiles/LintCode.dir/linkedList/P170.cpp.i
 
 CMakeFiles/LintCode.dir/linkedList/P170.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LintCode.dir/linkedList/P170.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/enheng/CLionProjects/LintCode/linkedList/P170.cpp -o CMakeFiles/LintCode.dir/linkedList/P170.cpp.s
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/i/LintCode/linkedList/P170.cpp -o CMakeFiles/LintCode.dir/linkedList/P170.cpp.s
 
 CMakeFiles/LintCode.dir/linkedList/P170.cpp.o.requires:
 
@@ -1087,6 +1087,54 @@ CMakeFiles/LintCode.dir/linkedList/P170.cpp.o.provides: CMakeFiles/LintCode.dir/
 .PHONY : CMakeFiles/LintCode.dir/linkedList/P170.cpp.o.provides
 
 CMakeFiles/LintCode.dir/linkedList/P170.cpp.o.provides.build: CMakeFiles/LintCode.dir/linkedList/P170.cpp.o
+
+
+CMakeFiles/LintCode.dir/sort/selectionSort.cpp.o: CMakeFiles/LintCode.dir/flags.make
+CMakeFiles/LintCode.dir/sort/selectionSort.cpp.o: ../sort/selectionSort.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/i/LintCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_44) "Building CXX object CMakeFiles/LintCode.dir/sort/selectionSort.cpp.o"
+	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LintCode.dir/sort/selectionSort.cpp.o -c /cygdrive/i/LintCode/sort/selectionSort.cpp
+
+CMakeFiles/LintCode.dir/sort/selectionSort.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LintCode.dir/sort/selectionSort.cpp.i"
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/i/LintCode/sort/selectionSort.cpp > CMakeFiles/LintCode.dir/sort/selectionSort.cpp.i
+
+CMakeFiles/LintCode.dir/sort/selectionSort.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LintCode.dir/sort/selectionSort.cpp.s"
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/i/LintCode/sort/selectionSort.cpp -o CMakeFiles/LintCode.dir/sort/selectionSort.cpp.s
+
+CMakeFiles/LintCode.dir/sort/selectionSort.cpp.o.requires:
+
+.PHONY : CMakeFiles/LintCode.dir/sort/selectionSort.cpp.o.requires
+
+CMakeFiles/LintCode.dir/sort/selectionSort.cpp.o.provides: CMakeFiles/LintCode.dir/sort/selectionSort.cpp.o.requires
+	$(MAKE) -f CMakeFiles/LintCode.dir/build.make CMakeFiles/LintCode.dir/sort/selectionSort.cpp.o.provides.build
+.PHONY : CMakeFiles/LintCode.dir/sort/selectionSort.cpp.o.provides
+
+CMakeFiles/LintCode.dir/sort/selectionSort.cpp.o.provides.build: CMakeFiles/LintCode.dir/sort/selectionSort.cpp.o
+
+
+CMakeFiles/LintCode.dir/sort/sort_test.cpp.o: CMakeFiles/LintCode.dir/flags.make
+CMakeFiles/LintCode.dir/sort/sort_test.cpp.o: ../sort/sort_test.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/i/LintCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_45) "Building CXX object CMakeFiles/LintCode.dir/sort/sort_test.cpp.o"
+	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LintCode.dir/sort/sort_test.cpp.o -c /cygdrive/i/LintCode/sort/sort_test.cpp
+
+CMakeFiles/LintCode.dir/sort/sort_test.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LintCode.dir/sort/sort_test.cpp.i"
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/i/LintCode/sort/sort_test.cpp > CMakeFiles/LintCode.dir/sort/sort_test.cpp.i
+
+CMakeFiles/LintCode.dir/sort/sort_test.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LintCode.dir/sort/sort_test.cpp.s"
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/i/LintCode/sort/sort_test.cpp -o CMakeFiles/LintCode.dir/sort/sort_test.cpp.s
+
+CMakeFiles/LintCode.dir/sort/sort_test.cpp.o.requires:
+
+.PHONY : CMakeFiles/LintCode.dir/sort/sort_test.cpp.o.requires
+
+CMakeFiles/LintCode.dir/sort/sort_test.cpp.o.provides: CMakeFiles/LintCode.dir/sort/sort_test.cpp.o.requires
+	$(MAKE) -f CMakeFiles/LintCode.dir/build.make CMakeFiles/LintCode.dir/sort/sort_test.cpp.o.provides.build
+.PHONY : CMakeFiles/LintCode.dir/sort/sort_test.cpp.o.provides
+
+CMakeFiles/LintCode.dir/sort/sort_test.cpp.o.provides.build: CMakeFiles/LintCode.dir/sort/sort_test.cpp.o
 
 
 # Object files for target LintCode
@@ -1133,61 +1181,65 @@ LintCode_OBJECTS = \
 "CMakeFiles/LintCode.dir/linkedList/165.cpp.o" \
 "CMakeFiles/LintCode.dir/linkedList/P112.cpp.o" \
 "CMakeFiles/LintCode.dir/linkedList/P96.cpp.o" \
-"CMakeFiles/LintCode.dir/linkedList/P170.cpp.o"
+"CMakeFiles/LintCode.dir/linkedList/P170.cpp.o" \
+"CMakeFiles/LintCode.dir/sort/selectionSort.cpp.o" \
+"CMakeFiles/LintCode.dir/sort/sort_test.cpp.o"
 
 # External object files for target LintCode
 LintCode_EXTERNAL_OBJECTS =
 
-LintCode: CMakeFiles/LintCode.dir/main.cpp.o
-LintCode: CMakeFiles/LintCode.dir/String/P55.cpp.o
-LintCode: CMakeFiles/LintCode.dir/String/P13.cpp.o
-LintCode: CMakeFiles/LintCode.dir/String/P171.cpp.o
-LintCode: CMakeFiles/LintCode.dir/other/P28.cpp.o
-LintCode: CMakeFiles/LintCode.dir/String/P79.cpp.o
-LintCode: CMakeFiles/LintCode.dir/String/P78.cpp.o
-LintCode: CMakeFiles/LintCode.dir/Array/P172.cpp.o
-LintCode: CMakeFiles/LintCode.dir/Array/P138.cpp.o
-LintCode: CMakeFiles/LintCode.dir/Array/P100.cpp.o
-LintCode: CMakeFiles/LintCode.dir/Array/P64.cpp.o
-LintCode: CMakeFiles/LintCode.dir/Array/P56.cpp.o
-LintCode: CMakeFiles/LintCode.dir/Array/P50.cpp.o
-LintCode: CMakeFiles/LintCode.dir/Array/P189.cpp.o
-LintCode: CMakeFiles/LintCode.dir/Array/P59.cpp.o
-LintCode: CMakeFiles/LintCode.dir/Array/P31.cpp.o
-LintCode: CMakeFiles/LintCode.dir/Array/P57.cpp.o
-LintCode: CMakeFiles/LintCode.dir/binSearch/P141.cpp.o
-LintCode: CMakeFiles/LintCode.dir/binSearch/P60.cpp.o
-LintCode: CMakeFiles/LintCode.dir/binSearch/P74.cpp.o
-LintCode: CMakeFiles/LintCode.dir/binSearch/P75.cpp.o
-LintCode: CMakeFiles/LintCode.dir/binSearch/P159.cpp.o
-LintCode: CMakeFiles/LintCode.dir/binSearch/P62.cpp.o
-LintCode: CMakeFiles/LintCode.dir/binSearch/P61.cpp.o
-LintCode: CMakeFiles/LintCode.dir/binSearch/P183.cpp.o
-LintCode: CMakeFiles/LintCode.dir/Math&BitManipulation/P181.cpp.o
-LintCode: CMakeFiles/LintCode.dir/Math&BitManipulation/P142.cpp.o
-LintCode: CMakeFiles/LintCode.dir/Math&BitManipulation/P179.cpp.o
-LintCode: CMakeFiles/LintCode.dir/Math&BitManipulation/P180.cpp.o
-LintCode: CMakeFiles/LintCode.dir/Math&BitManipulation/P140.cpp.o
-LintCode: CMakeFiles/LintCode.dir/Math&BitManipulation/P163.cpp.o
-LintCode: CMakeFiles/LintCode.dir/Greedy/P82.cpp.o
-LintCode: CMakeFiles/LintCode.dir/Greedy/P46.cpp.o
-LintCode: CMakeFiles/LintCode.dir/Greedy/P187.cpp.o
-LintCode: CMakeFiles/LintCode.dir/Greedy/P184.cpp.o
-LintCode: CMakeFiles/LintCode.dir/Greedy/P182.cpp.o
-LintCode: CMakeFiles/LintCode.dir/Greedy/P116.cpp.o
-LintCode: CMakeFiles/LintCode.dir/Greedy/P52.cpp.o
-LintCode: CMakeFiles/LintCode.dir/linkedList/P174.cpp.o
-LintCode: CMakeFiles/LintCode.dir/linkedList/165.cpp.o
-LintCode: CMakeFiles/LintCode.dir/linkedList/P112.cpp.o
-LintCode: CMakeFiles/LintCode.dir/linkedList/P96.cpp.o
-LintCode: CMakeFiles/LintCode.dir/linkedList/P170.cpp.o
-LintCode: CMakeFiles/LintCode.dir/build.make
-LintCode: CMakeFiles/LintCode.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/enheng/CLionProjects/LintCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_44) "Linking CXX executable LintCode"
+LintCode.exe: CMakeFiles/LintCode.dir/main.cpp.o
+LintCode.exe: CMakeFiles/LintCode.dir/String/P55.cpp.o
+LintCode.exe: CMakeFiles/LintCode.dir/String/P13.cpp.o
+LintCode.exe: CMakeFiles/LintCode.dir/String/P171.cpp.o
+LintCode.exe: CMakeFiles/LintCode.dir/other/P28.cpp.o
+LintCode.exe: CMakeFiles/LintCode.dir/String/P79.cpp.o
+LintCode.exe: CMakeFiles/LintCode.dir/String/P78.cpp.o
+LintCode.exe: CMakeFiles/LintCode.dir/Array/P172.cpp.o
+LintCode.exe: CMakeFiles/LintCode.dir/Array/P138.cpp.o
+LintCode.exe: CMakeFiles/LintCode.dir/Array/P100.cpp.o
+LintCode.exe: CMakeFiles/LintCode.dir/Array/P64.cpp.o
+LintCode.exe: CMakeFiles/LintCode.dir/Array/P56.cpp.o
+LintCode.exe: CMakeFiles/LintCode.dir/Array/P50.cpp.o
+LintCode.exe: CMakeFiles/LintCode.dir/Array/P189.cpp.o
+LintCode.exe: CMakeFiles/LintCode.dir/Array/P59.cpp.o
+LintCode.exe: CMakeFiles/LintCode.dir/Array/P31.cpp.o
+LintCode.exe: CMakeFiles/LintCode.dir/Array/P57.cpp.o
+LintCode.exe: CMakeFiles/LintCode.dir/binSearch/P141.cpp.o
+LintCode.exe: CMakeFiles/LintCode.dir/binSearch/P60.cpp.o
+LintCode.exe: CMakeFiles/LintCode.dir/binSearch/P74.cpp.o
+LintCode.exe: CMakeFiles/LintCode.dir/binSearch/P75.cpp.o
+LintCode.exe: CMakeFiles/LintCode.dir/binSearch/P159.cpp.o
+LintCode.exe: CMakeFiles/LintCode.dir/binSearch/P62.cpp.o
+LintCode.exe: CMakeFiles/LintCode.dir/binSearch/P61.cpp.o
+LintCode.exe: CMakeFiles/LintCode.dir/binSearch/P183.cpp.o
+LintCode.exe: CMakeFiles/LintCode.dir/Math&BitManipulation/P181.cpp.o
+LintCode.exe: CMakeFiles/LintCode.dir/Math&BitManipulation/P142.cpp.o
+LintCode.exe: CMakeFiles/LintCode.dir/Math&BitManipulation/P179.cpp.o
+LintCode.exe: CMakeFiles/LintCode.dir/Math&BitManipulation/P180.cpp.o
+LintCode.exe: CMakeFiles/LintCode.dir/Math&BitManipulation/P140.cpp.o
+LintCode.exe: CMakeFiles/LintCode.dir/Math&BitManipulation/P163.cpp.o
+LintCode.exe: CMakeFiles/LintCode.dir/Greedy/P82.cpp.o
+LintCode.exe: CMakeFiles/LintCode.dir/Greedy/P46.cpp.o
+LintCode.exe: CMakeFiles/LintCode.dir/Greedy/P187.cpp.o
+LintCode.exe: CMakeFiles/LintCode.dir/Greedy/P184.cpp.o
+LintCode.exe: CMakeFiles/LintCode.dir/Greedy/P182.cpp.o
+LintCode.exe: CMakeFiles/LintCode.dir/Greedy/P116.cpp.o
+LintCode.exe: CMakeFiles/LintCode.dir/Greedy/P52.cpp.o
+LintCode.exe: CMakeFiles/LintCode.dir/linkedList/P174.cpp.o
+LintCode.exe: CMakeFiles/LintCode.dir/linkedList/165.cpp.o
+LintCode.exe: CMakeFiles/LintCode.dir/linkedList/P112.cpp.o
+LintCode.exe: CMakeFiles/LintCode.dir/linkedList/P96.cpp.o
+LintCode.exe: CMakeFiles/LintCode.dir/linkedList/P170.cpp.o
+LintCode.exe: CMakeFiles/LintCode.dir/sort/selectionSort.cpp.o
+LintCode.exe: CMakeFiles/LintCode.dir/sort/sort_test.cpp.o
+LintCode.exe: CMakeFiles/LintCode.dir/build.make
+LintCode.exe: CMakeFiles/LintCode.dir/link.txt
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/cygdrive/i/LintCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_46) "Linking CXX executable LintCode.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/LintCode.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
-CMakeFiles/LintCode.dir/build: LintCode
+CMakeFiles/LintCode.dir/build: LintCode.exe
 
 .PHONY : CMakeFiles/LintCode.dir/build
 
@@ -1234,6 +1286,8 @@ CMakeFiles/LintCode.dir/requires: CMakeFiles/LintCode.dir/linkedList/165.cpp.o.r
 CMakeFiles/LintCode.dir/requires: CMakeFiles/LintCode.dir/linkedList/P112.cpp.o.requires
 CMakeFiles/LintCode.dir/requires: CMakeFiles/LintCode.dir/linkedList/P96.cpp.o.requires
 CMakeFiles/LintCode.dir/requires: CMakeFiles/LintCode.dir/linkedList/P170.cpp.o.requires
+CMakeFiles/LintCode.dir/requires: CMakeFiles/LintCode.dir/sort/selectionSort.cpp.o.requires
+CMakeFiles/LintCode.dir/requires: CMakeFiles/LintCode.dir/sort/sort_test.cpp.o.requires
 
 .PHONY : CMakeFiles/LintCode.dir/requires
 
@@ -1242,6 +1296,6 @@ CMakeFiles/LintCode.dir/clean:
 .PHONY : CMakeFiles/LintCode.dir/clean
 
 CMakeFiles/LintCode.dir/depend:
-	cd /home/enheng/CLionProjects/LintCode/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/enheng/CLionProjects/LintCode /home/enheng/CLionProjects/LintCode /home/enheng/CLionProjects/LintCode/cmake-build-debug /home/enheng/CLionProjects/LintCode/cmake-build-debug /home/enheng/CLionProjects/LintCode/cmake-build-debug/CMakeFiles/LintCode.dir/DependInfo.cmake --color=$(COLOR)
+	cd /cygdrive/i/LintCode/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /cygdrive/i/LintCode /cygdrive/i/LintCode /cygdrive/i/LintCode/cmake-build-debug /cygdrive/i/LintCode/cmake-build-debug /cygdrive/i/LintCode/cmake-build-debug/CMakeFiles/LintCode.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/LintCode.dir/depend
 

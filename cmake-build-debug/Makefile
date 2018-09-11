@@ -39,19 +39,19 @@ cmake_force:
 SHELL = /bin/sh
 
 # The CMake executable.
-CMAKE_COMMAND = /home/enheng/clion-2018.1.1/bin/cmake/bin/cmake
+CMAKE_COMMAND = /cygdrive/c/Users/91241/.CLion2018.1/system/cygwin_cmake/bin/cmake.exe
 
 # The command to remove a file.
-RM = /home/enheng/clion-2018.1.1/bin/cmake/bin/cmake -E remove -f
+RM = /cygdrive/c/Users/91241/.CLion2018.1/system/cygwin_cmake/bin/cmake.exe -E remove -f
 
 # Escaping for special characters.
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/enheng/CLionProjects/LintCode
+CMAKE_SOURCE_DIR = /cygdrive/i/LintCode
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/enheng/CLionProjects/LintCode/cmake-build-debug
+CMAKE_BINARY_DIR = /cygdrive/i/LintCode/cmake-build-debug
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -59,7 +59,7 @@ CMAKE_BINARY_DIR = /home/enheng/CLionProjects/LintCode/cmake-build-debug
 # Special rule for the target edit_cache
 edit_cache:
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "No interactive CMake dialog available..."
-	/home/enheng/clion-2018.1.1/bin/cmake/bin/cmake -E echo No\ interactive\ CMake\ dialog\ available.
+	/cygdrive/c/Users/91241/.CLion2018.1/system/cygwin_cmake/bin/cmake.exe -E echo No\ interactive\ CMake\ dialog\ available.
 .PHONY : edit_cache
 
 # Special rule for the target edit_cache
@@ -70,7 +70,7 @@ edit_cache/fast: edit_cache
 # Special rule for the target rebuild_cache
 rebuild_cache:
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "Running CMake to regenerate build system..."
-	/home/enheng/clion-2018.1.1/bin/cmake/bin/cmake -H$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR)
+	/cygdrive/c/Users/91241/.CLion2018.1/system/cygwin_cmake/bin/cmake.exe -H$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR)
 .PHONY : rebuild_cache
 
 # Special rule for the target rebuild_cache
@@ -80,9 +80,9 @@ rebuild_cache/fast: rebuild_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/enheng/CLionProjects/LintCode/cmake-build-debug/CMakeFiles /home/enheng/CLionProjects/LintCode/cmake-build-debug/CMakeFiles/progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start /cygdrive/i/LintCode/cmake-build-debug/CMakeFiles /cygdrive/i/LintCode/cmake-build-debug/CMakeFiles/progress.marks
 	$(MAKE) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/enheng/CLionProjects/LintCode/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /cygdrive/i/LintCode/cmake-build-debug/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
@@ -1284,6 +1284,60 @@ other/P28.cpp.s:
 	$(MAKE) -f CMakeFiles/LintCode.dir/build.make CMakeFiles/LintCode.dir/other/P28.cpp.s
 .PHONY : other/P28.cpp.s
 
+sort/selectionSort.o: sort/selectionSort.cpp.o
+
+.PHONY : sort/selectionSort.o
+
+# target to build an object file
+sort/selectionSort.cpp.o:
+	$(MAKE) -f CMakeFiles/LintCode.dir/build.make CMakeFiles/LintCode.dir/sort/selectionSort.cpp.o
+.PHONY : sort/selectionSort.cpp.o
+
+sort/selectionSort.i: sort/selectionSort.cpp.i
+
+.PHONY : sort/selectionSort.i
+
+# target to preprocess a source file
+sort/selectionSort.cpp.i:
+	$(MAKE) -f CMakeFiles/LintCode.dir/build.make CMakeFiles/LintCode.dir/sort/selectionSort.cpp.i
+.PHONY : sort/selectionSort.cpp.i
+
+sort/selectionSort.s: sort/selectionSort.cpp.s
+
+.PHONY : sort/selectionSort.s
+
+# target to generate assembly for a file
+sort/selectionSort.cpp.s:
+	$(MAKE) -f CMakeFiles/LintCode.dir/build.make CMakeFiles/LintCode.dir/sort/selectionSort.cpp.s
+.PHONY : sort/selectionSort.cpp.s
+
+sort/sort_test.o: sort/sort_test.cpp.o
+
+.PHONY : sort/sort_test.o
+
+# target to build an object file
+sort/sort_test.cpp.o:
+	$(MAKE) -f CMakeFiles/LintCode.dir/build.make CMakeFiles/LintCode.dir/sort/sort_test.cpp.o
+.PHONY : sort/sort_test.cpp.o
+
+sort/sort_test.i: sort/sort_test.cpp.i
+
+.PHONY : sort/sort_test.i
+
+# target to preprocess a source file
+sort/sort_test.cpp.i:
+	$(MAKE) -f CMakeFiles/LintCode.dir/build.make CMakeFiles/LintCode.dir/sort/sort_test.cpp.i
+.PHONY : sort/sort_test.cpp.i
+
+sort/sort_test.s: sort/sort_test.cpp.s
+
+.PHONY : sort/sort_test.s
+
+# target to generate assembly for a file
+sort/sort_test.cpp.s:
+	$(MAKE) -f CMakeFiles/LintCode.dir/build.make CMakeFiles/LintCode.dir/sort/sort_test.cpp.s
+.PHONY : sort/sort_test.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -1422,6 +1476,12 @@ help:
 	@echo "... other/P28.o"
 	@echo "... other/P28.i"
 	@echo "... other/P28.s"
+	@echo "... sort/selectionSort.o"
+	@echo "... sort/selectionSort.i"
+	@echo "... sort/selectionSort.s"
+	@echo "... sort/sort_test.o"
+	@echo "... sort/sort_test.i"
+	@echo "... sort/sort_test.s"
 .PHONY : help
 
 
