@@ -438,6 +438,14 @@ iostream
 
 /cygdrive/i/LintCode/linkedList/165.h
 
+/cygdrive/i/LintCode/linkedList/P106.cpp
+P106.h
+/cygdrive/i/LintCode/linkedList/P106.h
+../main.h
+/cygdrive/i/LintCode/main.h
+
+/cygdrive/i/LintCode/linkedList/P106.h
+
 /cygdrive/i/LintCode/linkedList/P112.cpp
 P112.h
 /cygdrive/i/LintCode/linkedList/P112.h
@@ -489,8 +497,8 @@ Math&BitManipulation/P163.h
 /cygdrive/i/LintCode/Math&BitManipulation/P163.h
 Greedy/P52.h
 /cygdrive/i/LintCode/Greedy/P52.h
-linkedList/P96.h
-/cygdrive/i/LintCode/linkedList/P96.h
+linkedList/P106.h
+/cygdrive/i/LintCode/linkedList/P106.h
 sort/sort_test.h
 /cygdrive/i/LintCode/sort/sort_test.h
 
@@ -516,15 +524,35 @@ algorithm
 
 /cygdrive/i/LintCode/other/P28.h
 
+/cygdrive/i/LintCode/sort/insertionSort.cpp
+insertionSort.h
+/cygdrive/i/LintCode/sort/insertionSort.h
+utility
+-
+
+/cygdrive/i/LintCode/sort/insertionSort.h
+
 /cygdrive/i/LintCode/sort/selectionSort.cpp
 
 /cygdrive/i/LintCode/sort/selectionSort.h
+
+/cygdrive/i/LintCode/sort/shellSort.cpp
+shellSort.h
+/cygdrive/i/LintCode/sort/shellSort.h
+utility
+-
+
+/cygdrive/i/LintCode/sort/shellSort.h
 
 /cygdrive/i/LintCode/sort/sort_test.cpp
 iostream
 -
 selectionSort.h
 /cygdrive/i/LintCode/sort/selectionSort.h
+insertionSort.h
+/cygdrive/i/LintCode/sort/insertionSort.h
+shellSort.h
+/cygdrive/i/LintCode/sort/shellSort.h
 
 /cygdrive/i/LintCode/sort/sort_test.h
 

@@ -302,6 +302,12 @@
 		<Unit filename="/cygdrive/i/LintCode/linkedList/165.h">
 			<Option target="LintCode"/>
 		</Unit>
+		<Unit filename="/cygdrive/i/LintCode/linkedList/P106.cpp">
+			<Option target="LintCode"/>
+		</Unit>
+		<Unit filename="/cygdrive/i/LintCode/linkedList/P106.h">
+			<Option target="LintCode"/>
+		</Unit>
 		<Unit filename="/cygdrive/i/LintCode/linkedList/P112.cpp">
 			<Option target="LintCode"/>
 		</Unit>
@@ -338,10 +344,22 @@
 		<Unit filename="/cygdrive/i/LintCode/other/P28.h">
 			<Option target="LintCode"/>
 		</Unit>
+		<Unit filename="/cygdrive/i/LintCode/sort/insertionSort.cpp">
+			<Option target="LintCode"/>
+		</Unit>
+		<Unit filename="/cygdrive/i/LintCode/sort/insertionSort.h">
+			<Option target="LintCode"/>
+		</Unit>
 		<Unit filename="/cygdrive/i/LintCode/sort/selectionSort.cpp">
 			<Option target="LintCode"/>
 		</Unit>
 		<Unit filename="/cygdrive/i/LintCode/sort/selectionSort.h">
+			<Option target="LintCode"/>
+		</Unit>
+		<Unit filename="/cygdrive/i/LintCode/sort/shellSort.cpp">
+			<Option target="LintCode"/>
+		</Unit>
+		<Unit filename="/cygdrive/i/LintCode/sort/shellSort.h">
 			<Option target="LintCode"/>
 		</Unit>
 		<Unit filename="/cygdrive/i/LintCode/sort/sort_test.cpp">

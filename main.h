@@ -30,7 +30,18 @@ public:
     }
 };
 
+class TreeNode {
+public:
+    int val;
+    TreeNode *left, *right;
+    TreeNode(int val){
+        this->val = val;
+        this->left = this->right = NULL;
+    }
+};
+
 ListNode *createList(string);
-void printList(ListNode *);
+void printList(ListNode *head);
+void printTree(TreeNode *head);
 
 #endif //LINTCODE_MAIN_H

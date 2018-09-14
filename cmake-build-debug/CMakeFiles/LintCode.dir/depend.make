@@ -120,6 +120,10 @@ CMakeFiles/LintCode.dir/binSearch/P75.cpp.o: ../binSearch/P75.h
 CMakeFiles/LintCode.dir/linkedList/165.cpp.o: ../linkedList/165.cpp
 CMakeFiles/LintCode.dir/linkedList/165.cpp.o: ../linkedList/165.h
 
+CMakeFiles/LintCode.dir/linkedList/P106.cpp.o: ../linkedList/P106.cpp
+CMakeFiles/LintCode.dir/linkedList/P106.cpp.o: ../linkedList/P106.h
+CMakeFiles/LintCode.dir/linkedList/P106.cpp.o: ../main.h
+
 CMakeFiles/LintCode.dir/linkedList/P112.cpp.o: ../linkedList/P112.cpp
 CMakeFiles/LintCode.dir/linkedList/P112.cpp.o: ../linkedList/P112.h
 
@@ -140,7 +144,7 @@ CMakeFiles/LintCode.dir/main.cpp.o: ../Math&BitManipulation/P163.h
 CMakeFiles/LintCode.dir/main.cpp.o: ../String/P13.h
 CMakeFiles/LintCode.dir/main.cpp.o: ../String/P55.h
 CMakeFiles/LintCode.dir/main.cpp.o: ../binSearch/P183.h
-CMakeFiles/LintCode.dir/main.cpp.o: ../linkedList/P96.h
+CMakeFiles/LintCode.dir/main.cpp.o: ../linkedList/P106.h
 CMakeFiles/LintCode.dir/main.cpp.o: ../main.cpp
 CMakeFiles/LintCode.dir/main.cpp.o: ../main.h
 CMakeFiles/LintCode.dir/main.cpp.o: ../sort/sort_test.h
@@ -148,8 +152,16 @@ CMakeFiles/LintCode.dir/main.cpp.o: ../sort/sort_test.h
 CMakeFiles/LintCode.dir/other/P28.cpp.o: ../other/P28.cpp
 CMakeFiles/LintCode.dir/other/P28.cpp.o: ../other/P28.h
 
+CMakeFiles/LintCode.dir/sort/insertionSort.cpp.o: ../sort/insertionSort.cpp
+CMakeFiles/LintCode.dir/sort/insertionSort.cpp.o: ../sort/insertionSort.h
+
 CMakeFiles/LintCode.dir/sort/selectionSort.cpp.o: ../sort/selectionSort.cpp
 
+CMakeFiles/LintCode.dir/sort/shellSort.cpp.o: ../sort/shellSort.cpp
+CMakeFiles/LintCode.dir/sort/shellSort.cpp.o: ../sort/shellSort.h
+
+CMakeFiles/LintCode.dir/sort/sort_test.cpp.o: ../sort/insertionSort.h
 CMakeFiles/LintCode.dir/sort/sort_test.cpp.o: ../sort/selectionSort.h
+CMakeFiles/LintCode.dir/sort/sort_test.cpp.o: ../sort/shellSort.h
 CMakeFiles/LintCode.dir/sort/sort_test.cpp.o: ../sort/sort_test.cpp
 

@@ -120,6 +120,10 @@ CMakeFiles/LintCode.dir/binSearch/P75.cpp.o
 CMakeFiles/LintCode.dir/linkedList/165.cpp.o
  /cygdrive/i/LintCode/linkedList/165.cpp
  /cygdrive/i/LintCode/linkedList/165.h
+CMakeFiles/LintCode.dir/linkedList/P106.cpp.o
+ /cygdrive/i/LintCode/linkedList/P106.cpp
+ /cygdrive/i/LintCode/linkedList/P106.h
+ /cygdrive/i/LintCode/main.h
 CMakeFiles/LintCode.dir/linkedList/P112.cpp.o
  /cygdrive/i/LintCode/linkedList/P112.cpp
  /cygdrive/i/LintCode/linkedList/P112.h
@@ -141,15 +145,23 @@ CMakeFiles/LintCode.dir/main.cpp.o
  /cygdrive/i/LintCode/String/P13.h
  /cygdrive/i/LintCode/String/P55.h
  /cygdrive/i/LintCode/binSearch/P183.h
- /cygdrive/i/LintCode/linkedList/P96.h
+ /cygdrive/i/LintCode/linkedList/P106.h
  /cygdrive/i/LintCode/main.cpp
  /cygdrive/i/LintCode/main.h
  /cygdrive/i/LintCode/sort/sort_test.h
 CMakeFiles/LintCode.dir/other/P28.cpp.o
  /cygdrive/i/LintCode/other/P28.cpp
  /cygdrive/i/LintCode/other/P28.h
+CMakeFiles/LintCode.dir/sort/insertionSort.cpp.o
+ /cygdrive/i/LintCode/sort/insertionSort.cpp
+ /cygdrive/i/LintCode/sort/insertionSort.h
 CMakeFiles/LintCode.dir/sort/selectionSort.cpp.o
  /cygdrive/i/LintCode/sort/selectionSort.cpp
+CMakeFiles/LintCode.dir/sort/shellSort.cpp.o
+ /cygdrive/i/LintCode/sort/shellSort.cpp
+ /cygdrive/i/LintCode/sort/shellSort.h
 CMakeFiles/LintCode.dir/sort/sort_test.cpp.o
+ /cygdrive/i/LintCode/sort/insertionSort.h
  /cygdrive/i/LintCode/sort/selectionSort.h
+ /cygdrive/i/LintCode/sort/shellSort.h
  /cygdrive/i/LintCode/sort/sort_test.cpp

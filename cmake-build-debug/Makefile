@@ -1122,6 +1122,33 @@ linkedList/165.cpp.s:
 	$(MAKE) -f CMakeFiles/LintCode.dir/build.make CMakeFiles/LintCode.dir/linkedList/165.cpp.s
 .PHONY : linkedList/165.cpp.s
 
+linkedList/P106.o: linkedList/P106.cpp.o
+
+.PHONY : linkedList/P106.o
+
+# target to build an object file
+linkedList/P106.cpp.o:
+	$(MAKE) -f CMakeFiles/LintCode.dir/build.make CMakeFiles/LintCode.dir/linkedList/P106.cpp.o
+.PHONY : linkedList/P106.cpp.o
+
+linkedList/P106.i: linkedList/P106.cpp.i
+
+.PHONY : linkedList/P106.i
+
+# target to preprocess a source file
+linkedList/P106.cpp.i:
+	$(MAKE) -f CMakeFiles/LintCode.dir/build.make CMakeFiles/LintCode.dir/linkedList/P106.cpp.i
+.PHONY : linkedList/P106.cpp.i
+
+linkedList/P106.s: linkedList/P106.cpp.s
+
+.PHONY : linkedList/P106.s
+
+# target to generate assembly for a file
+linkedList/P106.cpp.s:
+	$(MAKE) -f CMakeFiles/LintCode.dir/build.make CMakeFiles/LintCode.dir/linkedList/P106.cpp.s
+.PHONY : linkedList/P106.cpp.s
+
 linkedList/P112.o: linkedList/P112.cpp.o
 
 .PHONY : linkedList/P112.o
@@ -1284,6 +1311,33 @@ other/P28.cpp.s:
 	$(MAKE) -f CMakeFiles/LintCode.dir/build.make CMakeFiles/LintCode.dir/other/P28.cpp.s
 .PHONY : other/P28.cpp.s
 
+sort/insertionSort.o: sort/insertionSort.cpp.o
+
+.PHONY : sort/insertionSort.o
+
+# target to build an object file
+sort/insertionSort.cpp.o:
+	$(MAKE) -f CMakeFiles/LintCode.dir/build.make CMakeFiles/LintCode.dir/sort/insertionSort.cpp.o
+.PHONY : sort/insertionSort.cpp.o
+
+sort/insertionSort.i: sort/insertionSort.cpp.i
+
+.PHONY : sort/insertionSort.i
+
+# target to preprocess a source file
+sort/insertionSort.cpp.i:
+	$(MAKE) -f CMakeFiles/LintCode.dir/build.make CMakeFiles/LintCode.dir/sort/insertionSort.cpp.i
+.PHONY : sort/insertionSort.cpp.i
+
+sort/insertionSort.s: sort/insertionSort.cpp.s
+
+.PHONY : sort/insertionSort.s
+
+# target to generate assembly for a file
+sort/insertionSort.cpp.s:
+	$(MAKE) -f CMakeFiles/LintCode.dir/build.make CMakeFiles/LintCode.dir/sort/insertionSort.cpp.s
+.PHONY : sort/insertionSort.cpp.s
+
 sort/selectionSort.o: sort/selectionSort.cpp.o
 
 .PHONY : sort/selectionSort.o
@@ -1310,6 +1364,33 @@ sort/selectionSort.s: sort/selectionSort.cpp.s
 sort/selectionSort.cpp.s:
 	$(MAKE) -f CMakeFiles/LintCode.dir/build.make CMakeFiles/LintCode.dir/sort/selectionSort.cpp.s
 .PHONY : sort/selectionSort.cpp.s
+
+sort/shellSort.o: sort/shellSort.cpp.o
+
+.PHONY : sort/shellSort.o
+
+# target to build an object file
+sort/shellSort.cpp.o:
+	$(MAKE) -f CMakeFiles/LintCode.dir/build.make CMakeFiles/LintCode.dir/sort/shellSort.cpp.o
+.PHONY : sort/shellSort.cpp.o
+
+sort/shellSort.i: sort/shellSort.cpp.i
+
+.PHONY : sort/shellSort.i
+
+# target to preprocess a source file
+sort/shellSort.cpp.i:
+	$(MAKE) -f CMakeFiles/LintCode.dir/build.make CMakeFiles/LintCode.dir/sort/shellSort.cpp.i
+.PHONY : sort/shellSort.cpp.i
+
+sort/shellSort.s: sort/shellSort.cpp.s
+
+.PHONY : sort/shellSort.s
+
+# target to generate assembly for a file
+sort/shellSort.cpp.s:
+	$(MAKE) -f CMakeFiles/LintCode.dir/build.make CMakeFiles/LintCode.dir/sort/shellSort.cpp.s
+.PHONY : sort/shellSort.cpp.s
 
 sort/sort_test.o: sort/sort_test.cpp.o
 
@@ -1458,6 +1539,9 @@ help:
 	@echo "... linkedList/165.o"
 	@echo "... linkedList/165.i"
 	@echo "... linkedList/165.s"
+	@echo "... linkedList/P106.o"
+	@echo "... linkedList/P106.i"
+	@echo "... linkedList/P106.s"
 	@echo "... linkedList/P112.o"
 	@echo "... linkedList/P112.i"
 	@echo "... linkedList/P112.s"
@@ -1476,9 +1560,15 @@ help:
 	@echo "... other/P28.o"
 	@echo "... other/P28.i"
 	@echo "... other/P28.s"
+	@echo "... sort/insertionSort.o"
+	@echo "... sort/insertionSort.i"
+	@echo "... sort/insertionSort.s"
 	@echo "... sort/selectionSort.o"
 	@echo "... sort/selectionSort.i"
 	@echo "... sort/selectionSort.s"
+	@echo "... sort/shellSort.o"
+	@echo "... sort/shellSort.i"
+	@echo "... sort/shellSort.s"
 	@echo "... sort/sort_test.o"
 	@echo "... sort/sort_test.i"
 	@echo "... sort/sort_test.s"
