@@ -5,7 +5,7 @@
 #include "binSearch/P183.h"
 #include "Math&BitManipulation/P163.h"
 #include "Greedy/P52.h"
-#include "linkedList/P106.h"
+#include "linkedList/P99.h"
 #include "sort/sort_test.h"
 
 
@@ -67,12 +67,20 @@ void printTree(TreeNode *head){
 TreeNode *createTree(string str){
 
 }
+void test(){
+    map<int, int> m{{1,1}, {2,3}};
+
+    for(auto x:m){
+        cout << x.first << x.second << endl;
+    }
+}
 
 
 
 int main() {
-     P106();
+     P99();
 //    sort_test();
+//    test();
 
     return 0;
 }

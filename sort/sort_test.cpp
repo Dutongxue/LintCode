@@ -2,6 +2,8 @@
 #include "selectionSort.h"
 #include "insertionSort.h"
 #include "shellSort.h"
+#include "mergeSort.h"
+#include "quickSort.h"
 
 using namespace std;
 
@@ -10,7 +12,9 @@ void sort_test(){
 
 //    selectionSort(arr, 15);
 //    insertionSort(arr, 15);
-    shellSort(arr, 15);
+//    shellSort(arr, 15);
+//    mergeSort(arr, 15);
+    quickSort(arr, 15);
 
     for(auto x : arr){
         cout << x << ' ';

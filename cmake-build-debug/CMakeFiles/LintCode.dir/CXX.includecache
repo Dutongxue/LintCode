@@ -438,6 +438,22 @@ iostream
 
 /cygdrive/i/LintCode/linkedList/165.h
 
+/cygdrive/i/LintCode/linkedList/P102.cpp
+P102.h
+/cygdrive/i/LintCode/linkedList/P102.h
+iostream
+-
+
+/cygdrive/i/LintCode/linkedList/P102.h
+
+/cygdrive/i/LintCode/linkedList/P105.cpp
+P105.h
+/cygdrive/i/LintCode/linkedList/P105.h
+../main.h
+/cygdrive/i/LintCode/main.h
+
+/cygdrive/i/LintCode/linkedList/P105.h
+
 /cygdrive/i/LintCode/linkedList/P106.cpp
 P106.h
 /cygdrive/i/LintCode/linkedList/P106.h
@@ -482,6 +498,16 @@ iostream
 
 /cygdrive/i/LintCode/linkedList/P96.h
 
+/cygdrive/i/LintCode/linkedList/P99.cpp
+P99.h
+/cygdrive/i/LintCode/linkedList/P99.h
+../main.h
+/cygdrive/i/LintCode/main.h
+iostream
+-
+
+/cygdrive/i/LintCode/linkedList/P99.h
+
 /cygdrive/i/LintCode/main.cpp
 main.h
 /cygdrive/i/LintCode/main.h
@@ -497,8 +523,8 @@ Math&BitManipulation/P163.h
 /cygdrive/i/LintCode/Math&BitManipulation/P163.h
 Greedy/P52.h
 /cygdrive/i/LintCode/Greedy/P52.h
-linkedList/P106.h
-/cygdrive/i/LintCode/linkedList/P106.h
+linkedList/P99.h
+/cygdrive/i/LintCode/linkedList/P99.h
 sort/sort_test.h
 /cygdrive/i/LintCode/sort/sort_test.h
 
@@ -510,6 +536,8 @@ vector
 cstring
 -
 string
+-
+map
 -
 
 /cygdrive/i/LintCode/other/P28.cpp
@@ -532,6 +560,22 @@ utility
 
 /cygdrive/i/LintCode/sort/insertionSort.h
 
+/cygdrive/i/LintCode/sort/mergeSort.cpp
+iostream
+-
+mergeSort.h
+/cygdrive/i/LintCode/sort/mergeSort.h
+
+/cygdrive/i/LintCode/sort/mergeSort.h
+
+/cygdrive/i/LintCode/sort/quickSort.cpp
+quickSort.h
+/cygdrive/i/LintCode/sort/quickSort.h
+utility
+-
+
+/cygdrive/i/LintCode/sort/quickSort.h
+
 /cygdrive/i/LintCode/sort/selectionSort.cpp
 
 /cygdrive/i/LintCode/sort/selectionSort.h
@@ -553,6 +597,10 @@ insertionSort.h
 /cygdrive/i/LintCode/sort/insertionSort.h
 shellSort.h
 /cygdrive/i/LintCode/sort/shellSort.h
+mergeSort.h
+/cygdrive/i/LintCode/sort/mergeSort.h
+quickSort.h
+/cygdrive/i/LintCode/sort/quickSort.h
 
 /cygdrive/i/LintCode/sort/sort_test.h
 

@@ -1209,6 +1209,126 @@ CMakeFiles/LintCode.dir/linkedList/P106.cpp.o.provides: CMakeFiles/LintCode.dir/
 CMakeFiles/LintCode.dir/linkedList/P106.cpp.o.provides.build: CMakeFiles/LintCode.dir/linkedList/P106.cpp.o
 
 
+CMakeFiles/LintCode.dir/linkedList/P105.cpp.o: CMakeFiles/LintCode.dir/flags.make
+CMakeFiles/LintCode.dir/linkedList/P105.cpp.o: ../linkedList/P105.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/i/LintCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_49) "Building CXX object CMakeFiles/LintCode.dir/linkedList/P105.cpp.o"
+	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LintCode.dir/linkedList/P105.cpp.o -c /cygdrive/i/LintCode/linkedList/P105.cpp
+
+CMakeFiles/LintCode.dir/linkedList/P105.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LintCode.dir/linkedList/P105.cpp.i"
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/i/LintCode/linkedList/P105.cpp > CMakeFiles/LintCode.dir/linkedList/P105.cpp.i
+
+CMakeFiles/LintCode.dir/linkedList/P105.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LintCode.dir/linkedList/P105.cpp.s"
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/i/LintCode/linkedList/P105.cpp -o CMakeFiles/LintCode.dir/linkedList/P105.cpp.s
+
+CMakeFiles/LintCode.dir/linkedList/P105.cpp.o.requires:
+
+.PHONY : CMakeFiles/LintCode.dir/linkedList/P105.cpp.o.requires
+
+CMakeFiles/LintCode.dir/linkedList/P105.cpp.o.provides: CMakeFiles/LintCode.dir/linkedList/P105.cpp.o.requires
+	$(MAKE) -f CMakeFiles/LintCode.dir/build.make CMakeFiles/LintCode.dir/linkedList/P105.cpp.o.provides.build
+.PHONY : CMakeFiles/LintCode.dir/linkedList/P105.cpp.o.provides
+
+CMakeFiles/LintCode.dir/linkedList/P105.cpp.o.provides.build: CMakeFiles/LintCode.dir/linkedList/P105.cpp.o
+
+
+CMakeFiles/LintCode.dir/sort/mergeSort.cpp.o: CMakeFiles/LintCode.dir/flags.make
+CMakeFiles/LintCode.dir/sort/mergeSort.cpp.o: ../sort/mergeSort.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/i/LintCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_50) "Building CXX object CMakeFiles/LintCode.dir/sort/mergeSort.cpp.o"
+	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LintCode.dir/sort/mergeSort.cpp.o -c /cygdrive/i/LintCode/sort/mergeSort.cpp
+
+CMakeFiles/LintCode.dir/sort/mergeSort.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LintCode.dir/sort/mergeSort.cpp.i"
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/i/LintCode/sort/mergeSort.cpp > CMakeFiles/LintCode.dir/sort/mergeSort.cpp.i
+
+CMakeFiles/LintCode.dir/sort/mergeSort.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LintCode.dir/sort/mergeSort.cpp.s"
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/i/LintCode/sort/mergeSort.cpp -o CMakeFiles/LintCode.dir/sort/mergeSort.cpp.s
+
+CMakeFiles/LintCode.dir/sort/mergeSort.cpp.o.requires:
+
+.PHONY : CMakeFiles/LintCode.dir/sort/mergeSort.cpp.o.requires
+
+CMakeFiles/LintCode.dir/sort/mergeSort.cpp.o.provides: CMakeFiles/LintCode.dir/sort/mergeSort.cpp.o.requires
+	$(MAKE) -f CMakeFiles/LintCode.dir/build.make CMakeFiles/LintCode.dir/sort/mergeSort.cpp.o.provides.build
+.PHONY : CMakeFiles/LintCode.dir/sort/mergeSort.cpp.o.provides
+
+CMakeFiles/LintCode.dir/sort/mergeSort.cpp.o.provides.build: CMakeFiles/LintCode.dir/sort/mergeSort.cpp.o
+
+
+CMakeFiles/LintCode.dir/linkedList/P102.cpp.o: CMakeFiles/LintCode.dir/flags.make
+CMakeFiles/LintCode.dir/linkedList/P102.cpp.o: ../linkedList/P102.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/i/LintCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_51) "Building CXX object CMakeFiles/LintCode.dir/linkedList/P102.cpp.o"
+	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LintCode.dir/linkedList/P102.cpp.o -c /cygdrive/i/LintCode/linkedList/P102.cpp
+
+CMakeFiles/LintCode.dir/linkedList/P102.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LintCode.dir/linkedList/P102.cpp.i"
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/i/LintCode/linkedList/P102.cpp > CMakeFiles/LintCode.dir/linkedList/P102.cpp.i
+
+CMakeFiles/LintCode.dir/linkedList/P102.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LintCode.dir/linkedList/P102.cpp.s"
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/i/LintCode/linkedList/P102.cpp -o CMakeFiles/LintCode.dir/linkedList/P102.cpp.s
+
+CMakeFiles/LintCode.dir/linkedList/P102.cpp.o.requires:
+
+.PHONY : CMakeFiles/LintCode.dir/linkedList/P102.cpp.o.requires
+
+CMakeFiles/LintCode.dir/linkedList/P102.cpp.o.provides: CMakeFiles/LintCode.dir/linkedList/P102.cpp.o.requires
+	$(MAKE) -f CMakeFiles/LintCode.dir/build.make CMakeFiles/LintCode.dir/linkedList/P102.cpp.o.provides.build
+.PHONY : CMakeFiles/LintCode.dir/linkedList/P102.cpp.o.provides
+
+CMakeFiles/LintCode.dir/linkedList/P102.cpp.o.provides.build: CMakeFiles/LintCode.dir/linkedList/P102.cpp.o
+
+
+CMakeFiles/LintCode.dir/sort/quickSort.cpp.o: CMakeFiles/LintCode.dir/flags.make
+CMakeFiles/LintCode.dir/sort/quickSort.cpp.o: ../sort/quickSort.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/i/LintCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_52) "Building CXX object CMakeFiles/LintCode.dir/sort/quickSort.cpp.o"
+	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LintCode.dir/sort/quickSort.cpp.o -c /cygdrive/i/LintCode/sort/quickSort.cpp
+
+CMakeFiles/LintCode.dir/sort/quickSort.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LintCode.dir/sort/quickSort.cpp.i"
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/i/LintCode/sort/quickSort.cpp > CMakeFiles/LintCode.dir/sort/quickSort.cpp.i
+
+CMakeFiles/LintCode.dir/sort/quickSort.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LintCode.dir/sort/quickSort.cpp.s"
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/i/LintCode/sort/quickSort.cpp -o CMakeFiles/LintCode.dir/sort/quickSort.cpp.s
+
+CMakeFiles/LintCode.dir/sort/quickSort.cpp.o.requires:
+
+.PHONY : CMakeFiles/LintCode.dir/sort/quickSort.cpp.o.requires
+
+CMakeFiles/LintCode.dir/sort/quickSort.cpp.o.provides: CMakeFiles/LintCode.dir/sort/quickSort.cpp.o.requires
+	$(MAKE) -f CMakeFiles/LintCode.dir/build.make CMakeFiles/LintCode.dir/sort/quickSort.cpp.o.provides.build
+.PHONY : CMakeFiles/LintCode.dir/sort/quickSort.cpp.o.provides
+
+CMakeFiles/LintCode.dir/sort/quickSort.cpp.o.provides.build: CMakeFiles/LintCode.dir/sort/quickSort.cpp.o
+
+
+CMakeFiles/LintCode.dir/linkedList/P99.cpp.o: CMakeFiles/LintCode.dir/flags.make
+CMakeFiles/LintCode.dir/linkedList/P99.cpp.o: ../linkedList/P99.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/i/LintCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_53) "Building CXX object CMakeFiles/LintCode.dir/linkedList/P99.cpp.o"
+	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LintCode.dir/linkedList/P99.cpp.o -c /cygdrive/i/LintCode/linkedList/P99.cpp
+
+CMakeFiles/LintCode.dir/linkedList/P99.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LintCode.dir/linkedList/P99.cpp.i"
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/i/LintCode/linkedList/P99.cpp > CMakeFiles/LintCode.dir/linkedList/P99.cpp.i
+
+CMakeFiles/LintCode.dir/linkedList/P99.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LintCode.dir/linkedList/P99.cpp.s"
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/i/LintCode/linkedList/P99.cpp -o CMakeFiles/LintCode.dir/linkedList/P99.cpp.s
+
+CMakeFiles/LintCode.dir/linkedList/P99.cpp.o.requires:
+
+.PHONY : CMakeFiles/LintCode.dir/linkedList/P99.cpp.o.requires
+
+CMakeFiles/LintCode.dir/linkedList/P99.cpp.o.provides: CMakeFiles/LintCode.dir/linkedList/P99.cpp.o.requires
+	$(MAKE) -f CMakeFiles/LintCode.dir/build.make CMakeFiles/LintCode.dir/linkedList/P99.cpp.o.provides.build
+.PHONY : CMakeFiles/LintCode.dir/linkedList/P99.cpp.o.provides
+
+CMakeFiles/LintCode.dir/linkedList/P99.cpp.o.provides.build: CMakeFiles/LintCode.dir/linkedList/P99.cpp.o
+
+
 # Object files for target LintCode
 LintCode_OBJECTS = \
 "CMakeFiles/LintCode.dir/main.cpp.o" \
@@ -1258,7 +1378,12 @@ LintCode_OBJECTS = \
 "CMakeFiles/LintCode.dir/sort/sort_test.cpp.o" \
 "CMakeFiles/LintCode.dir/sort/insertionSort.cpp.o" \
 "CMakeFiles/LintCode.dir/sort/shellSort.cpp.o" \
-"CMakeFiles/LintCode.dir/linkedList/P106.cpp.o"
+"CMakeFiles/LintCode.dir/linkedList/P106.cpp.o" \
+"CMakeFiles/LintCode.dir/linkedList/P105.cpp.o" \
+"CMakeFiles/LintCode.dir/sort/mergeSort.cpp.o" \
+"CMakeFiles/LintCode.dir/linkedList/P102.cpp.o" \
+"CMakeFiles/LintCode.dir/sort/quickSort.cpp.o" \
+"CMakeFiles/LintCode.dir/linkedList/P99.cpp.o"
 
 # External object files for target LintCode
 LintCode_EXTERNAL_OBJECTS =
@@ -1311,9 +1436,14 @@ LintCode.exe: CMakeFiles/LintCode.dir/sort/sort_test.cpp.o
 LintCode.exe: CMakeFiles/LintCode.dir/sort/insertionSort.cpp.o
 LintCode.exe: CMakeFiles/LintCode.dir/sort/shellSort.cpp.o
 LintCode.exe: CMakeFiles/LintCode.dir/linkedList/P106.cpp.o
+LintCode.exe: CMakeFiles/LintCode.dir/linkedList/P105.cpp.o
+LintCode.exe: CMakeFiles/LintCode.dir/sort/mergeSort.cpp.o
+LintCode.exe: CMakeFiles/LintCode.dir/linkedList/P102.cpp.o
+LintCode.exe: CMakeFiles/LintCode.dir/sort/quickSort.cpp.o
+LintCode.exe: CMakeFiles/LintCode.dir/linkedList/P99.cpp.o
 LintCode.exe: CMakeFiles/LintCode.dir/build.make
 LintCode.exe: CMakeFiles/LintCode.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/cygdrive/i/LintCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_49) "Linking CXX executable LintCode.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/cygdrive/i/LintCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_54) "Linking CXX executable LintCode.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/LintCode.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -1369,6 +1499,11 @@ CMakeFiles/LintCode.dir/requires: CMakeFiles/LintCode.dir/sort/sort_test.cpp.o.r
 CMakeFiles/LintCode.dir/requires: CMakeFiles/LintCode.dir/sort/insertionSort.cpp.o.requires
 CMakeFiles/LintCode.dir/requires: CMakeFiles/LintCode.dir/sort/shellSort.cpp.o.requires
 CMakeFiles/LintCode.dir/requires: CMakeFiles/LintCode.dir/linkedList/P106.cpp.o.requires
+CMakeFiles/LintCode.dir/requires: CMakeFiles/LintCode.dir/linkedList/P105.cpp.o.requires
+CMakeFiles/LintCode.dir/requires: CMakeFiles/LintCode.dir/sort/mergeSort.cpp.o.requires
+CMakeFiles/LintCode.dir/requires: CMakeFiles/LintCode.dir/linkedList/P102.cpp.o.requires
+CMakeFiles/LintCode.dir/requires: CMakeFiles/LintCode.dir/sort/quickSort.cpp.o.requires
+CMakeFiles/LintCode.dir/requires: CMakeFiles/LintCode.dir/linkedList/P99.cpp.o.requires
 
 .PHONY : CMakeFiles/LintCode.dir/requires
 

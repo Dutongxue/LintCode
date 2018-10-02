@@ -1122,6 +1122,60 @@ linkedList/165.cpp.s:
 	$(MAKE) -f CMakeFiles/LintCode.dir/build.make CMakeFiles/LintCode.dir/linkedList/165.cpp.s
 .PHONY : linkedList/165.cpp.s
 
+linkedList/P102.o: linkedList/P102.cpp.o
+
+.PHONY : linkedList/P102.o
+
+# target to build an object file
+linkedList/P102.cpp.o:
+	$(MAKE) -f CMakeFiles/LintCode.dir/build.make CMakeFiles/LintCode.dir/linkedList/P102.cpp.o
+.PHONY : linkedList/P102.cpp.o
+
+linkedList/P102.i: linkedList/P102.cpp.i
+
+.PHONY : linkedList/P102.i
+
+# target to preprocess a source file
+linkedList/P102.cpp.i:
+	$(MAKE) -f CMakeFiles/LintCode.dir/build.make CMakeFiles/LintCode.dir/linkedList/P102.cpp.i
+.PHONY : linkedList/P102.cpp.i
+
+linkedList/P102.s: linkedList/P102.cpp.s
+
+.PHONY : linkedList/P102.s
+
+# target to generate assembly for a file
+linkedList/P102.cpp.s:
+	$(MAKE) -f CMakeFiles/LintCode.dir/build.make CMakeFiles/LintCode.dir/linkedList/P102.cpp.s
+.PHONY : linkedList/P102.cpp.s
+
+linkedList/P105.o: linkedList/P105.cpp.o
+
+.PHONY : linkedList/P105.o
+
+# target to build an object file
+linkedList/P105.cpp.o:
+	$(MAKE) -f CMakeFiles/LintCode.dir/build.make CMakeFiles/LintCode.dir/linkedList/P105.cpp.o
+.PHONY : linkedList/P105.cpp.o
+
+linkedList/P105.i: linkedList/P105.cpp.i
+
+.PHONY : linkedList/P105.i
+
+# target to preprocess a source file
+linkedList/P105.cpp.i:
+	$(MAKE) -f CMakeFiles/LintCode.dir/build.make CMakeFiles/LintCode.dir/linkedList/P105.cpp.i
+.PHONY : linkedList/P105.cpp.i
+
+linkedList/P105.s: linkedList/P105.cpp.s
+
+.PHONY : linkedList/P105.s
+
+# target to generate assembly for a file
+linkedList/P105.cpp.s:
+	$(MAKE) -f CMakeFiles/LintCode.dir/build.make CMakeFiles/LintCode.dir/linkedList/P105.cpp.s
+.PHONY : linkedList/P105.cpp.s
+
 linkedList/P106.o: linkedList/P106.cpp.o
 
 .PHONY : linkedList/P106.o
@@ -1257,6 +1311,33 @@ linkedList/P96.cpp.s:
 	$(MAKE) -f CMakeFiles/LintCode.dir/build.make CMakeFiles/LintCode.dir/linkedList/P96.cpp.s
 .PHONY : linkedList/P96.cpp.s
 
+linkedList/P99.o: linkedList/P99.cpp.o
+
+.PHONY : linkedList/P99.o
+
+# target to build an object file
+linkedList/P99.cpp.o:
+	$(MAKE) -f CMakeFiles/LintCode.dir/build.make CMakeFiles/LintCode.dir/linkedList/P99.cpp.o
+.PHONY : linkedList/P99.cpp.o
+
+linkedList/P99.i: linkedList/P99.cpp.i
+
+.PHONY : linkedList/P99.i
+
+# target to preprocess a source file
+linkedList/P99.cpp.i:
+	$(MAKE) -f CMakeFiles/LintCode.dir/build.make CMakeFiles/LintCode.dir/linkedList/P99.cpp.i
+.PHONY : linkedList/P99.cpp.i
+
+linkedList/P99.s: linkedList/P99.cpp.s
+
+.PHONY : linkedList/P99.s
+
+# target to generate assembly for a file
+linkedList/P99.cpp.s:
+	$(MAKE) -f CMakeFiles/LintCode.dir/build.make CMakeFiles/LintCode.dir/linkedList/P99.cpp.s
+.PHONY : linkedList/P99.cpp.s
+
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -1337,6 +1418,60 @@ sort/insertionSort.s: sort/insertionSort.cpp.s
 sort/insertionSort.cpp.s:
 	$(MAKE) -f CMakeFiles/LintCode.dir/build.make CMakeFiles/LintCode.dir/sort/insertionSort.cpp.s
 .PHONY : sort/insertionSort.cpp.s
+
+sort/mergeSort.o: sort/mergeSort.cpp.o
+
+.PHONY : sort/mergeSort.o
+
+# target to build an object file
+sort/mergeSort.cpp.o:
+	$(MAKE) -f CMakeFiles/LintCode.dir/build.make CMakeFiles/LintCode.dir/sort/mergeSort.cpp.o
+.PHONY : sort/mergeSort.cpp.o
+
+sort/mergeSort.i: sort/mergeSort.cpp.i
+
+.PHONY : sort/mergeSort.i
+
+# target to preprocess a source file
+sort/mergeSort.cpp.i:
+	$(MAKE) -f CMakeFiles/LintCode.dir/build.make CMakeFiles/LintCode.dir/sort/mergeSort.cpp.i
+.PHONY : sort/mergeSort.cpp.i
+
+sort/mergeSort.s: sort/mergeSort.cpp.s
+
+.PHONY : sort/mergeSort.s
+
+# target to generate assembly for a file
+sort/mergeSort.cpp.s:
+	$(MAKE) -f CMakeFiles/LintCode.dir/build.make CMakeFiles/LintCode.dir/sort/mergeSort.cpp.s
+.PHONY : sort/mergeSort.cpp.s
+
+sort/quickSort.o: sort/quickSort.cpp.o
+
+.PHONY : sort/quickSort.o
+
+# target to build an object file
+sort/quickSort.cpp.o:
+	$(MAKE) -f CMakeFiles/LintCode.dir/build.make CMakeFiles/LintCode.dir/sort/quickSort.cpp.o
+.PHONY : sort/quickSort.cpp.o
+
+sort/quickSort.i: sort/quickSort.cpp.i
+
+.PHONY : sort/quickSort.i
+
+# target to preprocess a source file
+sort/quickSort.cpp.i:
+	$(MAKE) -f CMakeFiles/LintCode.dir/build.make CMakeFiles/LintCode.dir/sort/quickSort.cpp.i
+.PHONY : sort/quickSort.cpp.i
+
+sort/quickSort.s: sort/quickSort.cpp.s
+
+.PHONY : sort/quickSort.s
+
+# target to generate assembly for a file
+sort/quickSort.cpp.s:
+	$(MAKE) -f CMakeFiles/LintCode.dir/build.make CMakeFiles/LintCode.dir/sort/quickSort.cpp.s
+.PHONY : sort/quickSort.cpp.s
 
 sort/selectionSort.o: sort/selectionSort.cpp.o
 
@@ -1539,6 +1674,12 @@ help:
 	@echo "... linkedList/165.o"
 	@echo "... linkedList/165.i"
 	@echo "... linkedList/165.s"
+	@echo "... linkedList/P102.o"
+	@echo "... linkedList/P102.i"
+	@echo "... linkedList/P102.s"
+	@echo "... linkedList/P105.o"
+	@echo "... linkedList/P105.i"
+	@echo "... linkedList/P105.s"
 	@echo "... linkedList/P106.o"
 	@echo "... linkedList/P106.i"
 	@echo "... linkedList/P106.s"
@@ -1554,6 +1695,9 @@ help:
 	@echo "... linkedList/P96.o"
 	@echo "... linkedList/P96.i"
 	@echo "... linkedList/P96.s"
+	@echo "... linkedList/P99.o"
+	@echo "... linkedList/P99.i"
+	@echo "... linkedList/P99.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
@@ -1563,6 +1707,12 @@ help:
 	@echo "... sort/insertionSort.o"
 	@echo "... sort/insertionSort.i"
 	@echo "... sort/insertionSort.s"
+	@echo "... sort/mergeSort.o"
+	@echo "... sort/mergeSort.i"
+	@echo "... sort/mergeSort.s"
+	@echo "... sort/quickSort.o"
+	@echo "... sort/quickSort.i"
+	@echo "... sort/quickSort.s"
 	@echo "... sort/selectionSort.o"
 	@echo "... sort/selectionSort.i"
 	@echo "... sort/selectionSort.s"
