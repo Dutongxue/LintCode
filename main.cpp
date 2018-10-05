@@ -5,7 +5,7 @@
 #include "binSearch/P183.h"
 #include "Math&BitManipulation/P163.h"
 #include "Greedy/P52.h"
-#include "linkedList/P99.h"
+#include "linkedList/P98.h"
 #include "sort/sort_test.h"
 
 
@@ -78,7 +78,7 @@ void test(){
 
 
 int main() {
-     P99();
+     P98();
 //    sort_test();
 //    test();
 

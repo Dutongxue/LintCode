@@ -1,4 +1,4 @@
-C:\Users\91241\.CLion2018.1\system\cygwin_cmake\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /cygdrive/i/LintCode
+C:\Users\91241\.CLion2018.2\system\cygwin_cmake\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /cygdrive/i/LintCode
 -- Configuring done
 -- Generating done
 -- Build files have been written to: /cygdrive/i/LintCode/cmake-build-debug

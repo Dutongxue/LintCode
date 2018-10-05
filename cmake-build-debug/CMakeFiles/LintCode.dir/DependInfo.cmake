@@ -48,6 +48,7 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "/cygdrive/i/LintCode/linkedList/P170.cpp" "/cygdrive/i/LintCode/cmake-build-debug/CMakeFiles/LintCode.dir/linkedList/P170.cpp.o"
   "/cygdrive/i/LintCode/linkedList/P174.cpp" "/cygdrive/i/LintCode/cmake-build-debug/CMakeFiles/LintCode.dir/linkedList/P174.cpp.o"
   "/cygdrive/i/LintCode/linkedList/P96.cpp" "/cygdrive/i/LintCode/cmake-build-debug/CMakeFiles/LintCode.dir/linkedList/P96.cpp.o"
+  "/cygdrive/i/LintCode/linkedList/P98.cpp" "/cygdrive/i/LintCode/cmake-build-debug/CMakeFiles/LintCode.dir/linkedList/P98.cpp.o"
   "/cygdrive/i/LintCode/linkedList/P99.cpp" "/cygdrive/i/LintCode/cmake-build-debug/CMakeFiles/LintCode.dir/linkedList/P99.cpp.o"
   "/cygdrive/i/LintCode/main.cpp" "/cygdrive/i/LintCode/cmake-build-debug/CMakeFiles/LintCode.dir/main.cpp.o"
   "/cygdrive/i/LintCode/other/P28.cpp" "/cygdrive/i/LintCode/cmake-build-debug/CMakeFiles/LintCode.dir/other/P28.cpp.o"

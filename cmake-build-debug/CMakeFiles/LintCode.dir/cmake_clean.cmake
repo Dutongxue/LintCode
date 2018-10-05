@@ -52,6 +52,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/LintCode.dir/linkedList/P102.cpp.o"
   "CMakeFiles/LintCode.dir/sort/quickSort.cpp.o"
   "CMakeFiles/LintCode.dir/linkedList/P99.cpp.o"
+  "CMakeFiles/LintCode.dir/linkedList/P98.cpp.o"
   "LintCode.pdb"
   "LintCode.exe"
   "libLintCode.dll.a"

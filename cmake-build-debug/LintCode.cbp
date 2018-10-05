@@ -17,16 +17,6 @@
 					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/i/LintCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
-			<Target title="edit_cache">
-				<Option working_dir="/cygdrive/i/LintCode/cmake-build-debug"/>
-				<Option type="4"/>
-				<MakeCommands>
-					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/i/LintCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/i/LintCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/i/LintCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/i/LintCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
 			<Target title="rebuild_cache">
 				<Option working_dir="/cygdrive/i/LintCode/cmake-build-debug"/>
 				<Option type="4"/>
@@ -74,6 +64,16 @@
 				</Compiler>
 				<MakeCommands>
 					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/i/LintCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 LintCode/fast"/>
+					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/i/LintCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/i/LintCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/i/LintCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/cygdrive/i/LintCode/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/i/LintCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
 					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/i/LintCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
 					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/i/LintCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/i/LintCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
@@ -342,6 +342,12 @@
 			<Option target="LintCode"/>
 		</Unit>
 		<Unit filename="/cygdrive/i/LintCode/linkedList/P96.h">
+			<Option target="LintCode"/>
+		</Unit>
+		<Unit filename="/cygdrive/i/LintCode/linkedList/P98.cpp">
+			<Option target="LintCode"/>
+		</Unit>
+		<Unit filename="/cygdrive/i/LintCode/linkedList/P98.h">
 			<Option target="LintCode"/>
 		</Unit>
 		<Unit filename="/cygdrive/i/LintCode/linkedList/P99.cpp">
