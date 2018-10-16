@@ -40,6 +40,8 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "/cygdrive/i/LintCode/binSearch/P62.cpp" "/cygdrive/i/LintCode/cmake-build-debug/CMakeFiles/LintCode.dir/binSearch/P62.cpp.o"
   "/cygdrive/i/LintCode/binSearch/P74.cpp" "/cygdrive/i/LintCode/cmake-build-debug/CMakeFiles/LintCode.dir/binSearch/P74.cpp.o"
   "/cygdrive/i/LintCode/binSearch/P75.cpp" "/cygdrive/i/LintCode/cmake-build-debug/CMakeFiles/LintCode.dir/binSearch/P75.cpp.o"
+  "/cygdrive/i/LintCode/binaryTree/P93.cpp" "/cygdrive/i/LintCode/cmake-build-debug/CMakeFiles/LintCode.dir/binaryTree/P93.cpp.o"
+  "/cygdrive/i/LintCode/binaryTree/P97.cpp" "/cygdrive/i/LintCode/cmake-build-debug/CMakeFiles/LintCode.dir/binaryTree/P97.cpp.o"
   "/cygdrive/i/LintCode/linkedList/165.cpp" "/cygdrive/i/LintCode/cmake-build-debug/CMakeFiles/LintCode.dir/linkedList/165.cpp.o"
   "/cygdrive/i/LintCode/linkedList/P102.cpp" "/cygdrive/i/LintCode/cmake-build-debug/CMakeFiles/LintCode.dir/linkedList/P102.cpp.o"
   "/cygdrive/i/LintCode/linkedList/P105.cpp" "/cygdrive/i/LintCode/cmake-build-debug/CMakeFiles/LintCode.dir/linkedList/P105.cpp.o"

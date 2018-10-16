@@ -296,6 +296,18 @@
 		<Unit filename="/cygdrive/i/LintCode/binSearch/P75.h">
 			<Option target="LintCode"/>
 		</Unit>
+		<Unit filename="/cygdrive/i/LintCode/binaryTree/P93.cpp">
+			<Option target="LintCode"/>
+		</Unit>
+		<Unit filename="/cygdrive/i/LintCode/binaryTree/P93.h">
+			<Option target="LintCode"/>
+		</Unit>
+		<Unit filename="/cygdrive/i/LintCode/binaryTree/P97.cpp">
+			<Option target="LintCode"/>
+		</Unit>
+		<Unit filename="/cygdrive/i/LintCode/binaryTree/P97.h">
+			<Option target="LintCode"/>
+		</Unit>
 		<Unit filename="/cygdrive/i/LintCode/linkedList/165.cpp">
 			<Option target="LintCode"/>
 		</Unit>

@@ -1095,6 +1095,60 @@ binSearch/P75.cpp.s:
 	$(MAKE) -f CMakeFiles/LintCode.dir/build.make CMakeFiles/LintCode.dir/binSearch/P75.cpp.s
 .PHONY : binSearch/P75.cpp.s
 
+binaryTree/P93.o: binaryTree/P93.cpp.o
+
+.PHONY : binaryTree/P93.o
+
+# target to build an object file
+binaryTree/P93.cpp.o:
+	$(MAKE) -f CMakeFiles/LintCode.dir/build.make CMakeFiles/LintCode.dir/binaryTree/P93.cpp.o
+.PHONY : binaryTree/P93.cpp.o
+
+binaryTree/P93.i: binaryTree/P93.cpp.i
+
+.PHONY : binaryTree/P93.i
+
+# target to preprocess a source file
+binaryTree/P93.cpp.i:
+	$(MAKE) -f CMakeFiles/LintCode.dir/build.make CMakeFiles/LintCode.dir/binaryTree/P93.cpp.i
+.PHONY : binaryTree/P93.cpp.i
+
+binaryTree/P93.s: binaryTree/P93.cpp.s
+
+.PHONY : binaryTree/P93.s
+
+# target to generate assembly for a file
+binaryTree/P93.cpp.s:
+	$(MAKE) -f CMakeFiles/LintCode.dir/build.make CMakeFiles/LintCode.dir/binaryTree/P93.cpp.s
+.PHONY : binaryTree/P93.cpp.s
+
+binaryTree/P97.o: binaryTree/P97.cpp.o
+
+.PHONY : binaryTree/P97.o
+
+# target to build an object file
+binaryTree/P97.cpp.o:
+	$(MAKE) -f CMakeFiles/LintCode.dir/build.make CMakeFiles/LintCode.dir/binaryTree/P97.cpp.o
+.PHONY : binaryTree/P97.cpp.o
+
+binaryTree/P97.i: binaryTree/P97.cpp.i
+
+.PHONY : binaryTree/P97.i
+
+# target to preprocess a source file
+binaryTree/P97.cpp.i:
+	$(MAKE) -f CMakeFiles/LintCode.dir/build.make CMakeFiles/LintCode.dir/binaryTree/P97.cpp.i
+.PHONY : binaryTree/P97.cpp.i
+
+binaryTree/P97.s: binaryTree/P97.cpp.s
+
+.PHONY : binaryTree/P97.s
+
+# target to generate assembly for a file
+binaryTree/P97.cpp.s:
+	$(MAKE) -f CMakeFiles/LintCode.dir/build.make CMakeFiles/LintCode.dir/binaryTree/P97.cpp.s
+.PHONY : binaryTree/P97.cpp.s
+
 linkedList/165.o: linkedList/165.cpp.o
 
 .PHONY : linkedList/165.o
@@ -1698,6 +1752,12 @@ help:
 	@echo "... binSearch/P75.o"
 	@echo "... binSearch/P75.i"
 	@echo "... binSearch/P75.s"
+	@echo "... binaryTree/P93.o"
+	@echo "... binaryTree/P93.i"
+	@echo "... binaryTree/P93.s"
+	@echo "... binaryTree/P97.o"
+	@echo "... binaryTree/P97.i"
+	@echo "... binaryTree/P97.s"
 	@echo "... linkedList/165.o"
 	@echo "... linkedList/165.i"
 	@echo "... linkedList/165.s"

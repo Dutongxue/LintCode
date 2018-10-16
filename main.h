@@ -42,6 +42,7 @@ public:
 };
 
 ListNode *createList(string);
+TreeNode *createTreeNode_bfs(string);
 void printList(ListNode *head);
 void printTree(TreeNode *head);
 

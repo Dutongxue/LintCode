@@ -6,6 +6,7 @@
 #include "Math&BitManipulation/P163.h"
 #include "Greedy/P52.h"
 #include "linkedList/P98.h"
+#include "binaryTree/P93.h"
 #include "sort/sort_test.h"
 
 
@@ -21,15 +22,6 @@ ListNode *createList(string str){
     vector<int> v;
     int b = 0, e;
 
-//    for(int i = 0; i < str.length(); i++){
-//        if(str[i] == '-'){
-//            e = i;
-//            v.push_back(stoi(str.substr(b, e)));
-//        }
-//        if(str[i] == '>'){
-//            b = i + 1;
-//        }
-//    }
     char *strc = new char[str.length() + 1];
     copy(str.begin(), str.end(), strc);
     char *tmp = strtok(strc, "->");
@@ -64,9 +56,31 @@ void printTree(TreeNode *head){
     }
 }
 
-TreeNode *createTree(string str){
+TreeNode *createTN(){
+    TreeNode *root = new TreeNode(0);
 
+    return root;
 }
+
+TreeNode *createTreeNode_bfs(string str){
+    vector<int> v;
+    char *strc = new char[str.length() + 1];
+
+    copy(str.begin(), str.end(), strc);
+    char *tmp = strtok(strc, ",");
+    while(tmp != NULL){
+        v.push_back(atoi(tmp));
+        tmp = strtok(NULL, ",");
+    }
+
+    TreeNode *root = new TreeNode(0), *p = root;
+//    for(auto x : v){
+//        p->left
+//    }
+
+    return root;
+}
+
 void test(){
     map<int, int> m{{1,1}, {2,3}};
 
@@ -76,9 +90,8 @@ void test(){
 }
 
 
-
 int main() {
-     P98();
+     P93();
 //    sort_test();
 //    test();
 
