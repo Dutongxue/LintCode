@@ -40,6 +40,8 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "/cygdrive/i/LintCode/binSearch/P62.cpp" "/cygdrive/i/LintCode/cmake-build-debug/CMakeFiles/LintCode.dir/binSearch/P62.cpp.o"
   "/cygdrive/i/LintCode/binSearch/P74.cpp" "/cygdrive/i/LintCode/cmake-build-debug/CMakeFiles/LintCode.dir/binSearch/P74.cpp.o"
   "/cygdrive/i/LintCode/binSearch/P75.cpp" "/cygdrive/i/LintCode/cmake-build-debug/CMakeFiles/LintCode.dir/binSearch/P75.cpp.o"
+  "/cygdrive/i/LintCode/binaryTree/P69.cpp" "/cygdrive/i/LintCode/cmake-build-debug/CMakeFiles/LintCode.dir/binaryTree/P69.cpp.o"
+  "/cygdrive/i/LintCode/binaryTree/P85.cpp" "/cygdrive/i/LintCode/cmake-build-debug/CMakeFiles/LintCode.dir/binaryTree/P85.cpp.o"
   "/cygdrive/i/LintCode/binaryTree/P93.cpp" "/cygdrive/i/LintCode/cmake-build-debug/CMakeFiles/LintCode.dir/binaryTree/P93.cpp.o"
   "/cygdrive/i/LintCode/binaryTree/P97.cpp" "/cygdrive/i/LintCode/cmake-build-debug/CMakeFiles/LintCode.dir/binaryTree/P97.cpp.o"
   "/cygdrive/i/LintCode/linkedList/165.cpp" "/cygdrive/i/LintCode/cmake-build-debug/CMakeFiles/LintCode.dir/linkedList/165.cpp.o"
@@ -60,6 +62,7 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "/cygdrive/i/LintCode/sort/selectionSort.cpp" "/cygdrive/i/LintCode/cmake-build-debug/CMakeFiles/LintCode.dir/sort/selectionSort.cpp.o"
   "/cygdrive/i/LintCode/sort/shellSort.cpp" "/cygdrive/i/LintCode/cmake-build-debug/CMakeFiles/LintCode.dir/sort/shellSort.cpp.o"
   "/cygdrive/i/LintCode/sort/sort_test.cpp" "/cygdrive/i/LintCode/cmake-build-debug/CMakeFiles/LintCode.dir/sort/sort_test.cpp.o"
+  "/cygdrive/i/LintCode/tmp/create_tree_bfs.cpp" "/cygdrive/i/LintCode/cmake-build-debug/CMakeFiles/LintCode.dir/tmp/create_tree_bfs.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

@@ -6,7 +6,7 @@
 #include "Math&BitManipulation/P163.h"
 #include "Greedy/P52.h"
 #include "linkedList/P98.h"
-#include "binaryTree/P93.h"
+#include "binaryTree/P69.h"
 #include "sort/sort_test.h"
 
 
@@ -62,21 +62,50 @@ TreeNode *createTN(){
     return root;
 }
 
-TreeNode *createTreeNode_bfs(string str){
+TreeNode *createTreeNode_bfs(string str){   // 按层次序列创建二叉树
     vector<int> v;
     char *strc = new char[str.length() + 1];
 
     copy(str.begin(), str.end(), strc);
     char *tmp = strtok(strc, ",");
     while(tmp != NULL){
-        v.push_back(atoi(tmp));
+        if(*tmp == '#'){
+            v.push_back(-1);
+        } else {
+            v.push_back(atoi(tmp));
+        }
         tmp = strtok(NULL, ",");
     }
 
-    TreeNode *root = new TreeNode(0), *p = root;
-//    for(auto x : v){
-//        p->left
-//    }
+    TreeNode *root = new TreeNode(v[0]), *p;
+    TreeNode *que[100] = {root};
+
+    int front = 0, tail = 1;
+    vector<int>::iterator it = v.begin() + 1;
+    while(front != tail){
+        if(it == v.end()) break;
+        if(que[front] == NULL){
+            front++;
+            continue;
+        }
+
+        p = que[front];
+        if(*it == -1){ // 接着两个节点入队
+            que[tail++] = NULL;
+        } else {
+            que[tail++] = new TreeNode(*it);
+        }
+        it++;
+        if(*it == -1){
+            que[tail++] = NULL;
+        } else{
+            que[tail++] = new TreeNode(*it);
+        }
+        it++;
+        p->left = que[tail - 2];
+        p->right = que[tail - 1];
+        front++;
+    }
 
     return root;
 }
@@ -91,7 +120,7 @@ void test(){
 
 
 int main() {
-     P93();
+     P69();
 //    sort_test();
 //    test();
 

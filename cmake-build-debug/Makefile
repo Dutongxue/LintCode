@@ -1095,6 +1095,60 @@ binSearch/P75.cpp.s:
 	$(MAKE) -f CMakeFiles/LintCode.dir/build.make CMakeFiles/LintCode.dir/binSearch/P75.cpp.s
 .PHONY : binSearch/P75.cpp.s
 
+binaryTree/P69.o: binaryTree/P69.cpp.o
+
+.PHONY : binaryTree/P69.o
+
+# target to build an object file
+binaryTree/P69.cpp.o:
+	$(MAKE) -f CMakeFiles/LintCode.dir/build.make CMakeFiles/LintCode.dir/binaryTree/P69.cpp.o
+.PHONY : binaryTree/P69.cpp.o
+
+binaryTree/P69.i: binaryTree/P69.cpp.i
+
+.PHONY : binaryTree/P69.i
+
+# target to preprocess a source file
+binaryTree/P69.cpp.i:
+	$(MAKE) -f CMakeFiles/LintCode.dir/build.make CMakeFiles/LintCode.dir/binaryTree/P69.cpp.i
+.PHONY : binaryTree/P69.cpp.i
+
+binaryTree/P69.s: binaryTree/P69.cpp.s
+
+.PHONY : binaryTree/P69.s
+
+# target to generate assembly for a file
+binaryTree/P69.cpp.s:
+	$(MAKE) -f CMakeFiles/LintCode.dir/build.make CMakeFiles/LintCode.dir/binaryTree/P69.cpp.s
+.PHONY : binaryTree/P69.cpp.s
+
+binaryTree/P85.o: binaryTree/P85.cpp.o
+
+.PHONY : binaryTree/P85.o
+
+# target to build an object file
+binaryTree/P85.cpp.o:
+	$(MAKE) -f CMakeFiles/LintCode.dir/build.make CMakeFiles/LintCode.dir/binaryTree/P85.cpp.o
+.PHONY : binaryTree/P85.cpp.o
+
+binaryTree/P85.i: binaryTree/P85.cpp.i
+
+.PHONY : binaryTree/P85.i
+
+# target to preprocess a source file
+binaryTree/P85.cpp.i:
+	$(MAKE) -f CMakeFiles/LintCode.dir/build.make CMakeFiles/LintCode.dir/binaryTree/P85.cpp.i
+.PHONY : binaryTree/P85.cpp.i
+
+binaryTree/P85.s: binaryTree/P85.cpp.s
+
+.PHONY : binaryTree/P85.s
+
+# target to generate assembly for a file
+binaryTree/P85.cpp.s:
+	$(MAKE) -f CMakeFiles/LintCode.dir/build.make CMakeFiles/LintCode.dir/binaryTree/P85.cpp.s
+.PHONY : binaryTree/P85.cpp.s
+
 binaryTree/P93.o: binaryTree/P93.cpp.o
 
 .PHONY : binaryTree/P93.o
@@ -1635,6 +1689,33 @@ sort/sort_test.cpp.s:
 	$(MAKE) -f CMakeFiles/LintCode.dir/build.make CMakeFiles/LintCode.dir/sort/sort_test.cpp.s
 .PHONY : sort/sort_test.cpp.s
 
+tmp/create_tree_bfs.o: tmp/create_tree_bfs.cpp.o
+
+.PHONY : tmp/create_tree_bfs.o
+
+# target to build an object file
+tmp/create_tree_bfs.cpp.o:
+	$(MAKE) -f CMakeFiles/LintCode.dir/build.make CMakeFiles/LintCode.dir/tmp/create_tree_bfs.cpp.o
+.PHONY : tmp/create_tree_bfs.cpp.o
+
+tmp/create_tree_bfs.i: tmp/create_tree_bfs.cpp.i
+
+.PHONY : tmp/create_tree_bfs.i
+
+# target to preprocess a source file
+tmp/create_tree_bfs.cpp.i:
+	$(MAKE) -f CMakeFiles/LintCode.dir/build.make CMakeFiles/LintCode.dir/tmp/create_tree_bfs.cpp.i
+.PHONY : tmp/create_tree_bfs.cpp.i
+
+tmp/create_tree_bfs.s: tmp/create_tree_bfs.cpp.s
+
+.PHONY : tmp/create_tree_bfs.s
+
+# target to generate assembly for a file
+tmp/create_tree_bfs.cpp.s:
+	$(MAKE) -f CMakeFiles/LintCode.dir/build.make CMakeFiles/LintCode.dir/tmp/create_tree_bfs.cpp.s
+.PHONY : tmp/create_tree_bfs.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -1752,6 +1833,12 @@ help:
 	@echo "... binSearch/P75.o"
 	@echo "... binSearch/P75.i"
 	@echo "... binSearch/P75.s"
+	@echo "... binaryTree/P69.o"
+	@echo "... binaryTree/P69.i"
+	@echo "... binaryTree/P69.s"
+	@echo "... binaryTree/P85.o"
+	@echo "... binaryTree/P85.i"
+	@echo "... binaryTree/P85.s"
 	@echo "... binaryTree/P93.o"
 	@echo "... binaryTree/P93.i"
 	@echo "... binaryTree/P93.s"
@@ -1812,6 +1899,9 @@ help:
 	@echo "... sort/sort_test.o"
 	@echo "... sort/sort_test.i"
 	@echo "... sort/sort_test.s"
+	@echo "... tmp/create_tree_bfs.o"
+	@echo "... tmp/create_tree_bfs.i"
+	@echo "... tmp/create_tree_bfs.s"
 .PHONY : help
 
 

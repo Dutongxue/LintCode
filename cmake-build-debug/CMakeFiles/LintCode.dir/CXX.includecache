@@ -6,15 +6,43 @@
 
 #IncludeRegexTransform: 
 
-/cygdrive/i/LintCode/linkedList/P98.cpp
-P98.h
-/cygdrive/i/LintCode/linkedList/P98.h
-../main.h
-/cygdrive/i/LintCode/main.h
-iostream
--
+/cygdrive/i/LintCode/Array/P57.h
+
+/cygdrive/i/LintCode/Greedy/P52.h
+
+/cygdrive/i/LintCode/Math&BitManipulation/P163.h
+
+/cygdrive/i/LintCode/String/P13.h
+
+/cygdrive/i/LintCode/String/P55.h
+
+/cygdrive/i/LintCode/binSearch/P183.h
+
+/cygdrive/i/LintCode/binaryTree/P69.h
 
 /cygdrive/i/LintCode/linkedList/P98.h
+
+/cygdrive/i/LintCode/main.cpp
+main.h
+/cygdrive/i/LintCode/main.h
+String/P55.h
+/cygdrive/i/LintCode/String/P55.h
+String/P13.h
+/cygdrive/i/LintCode/String/P13.h
+Array/P57.h
+/cygdrive/i/LintCode/Array/P57.h
+binSearch/P183.h
+/cygdrive/i/LintCode/binSearch/P183.h
+Math&BitManipulation/P163.h
+/cygdrive/i/LintCode/Math&BitManipulation/P163.h
+Greedy/P52.h
+/cygdrive/i/LintCode/Greedy/P52.h
+linkedList/P98.h
+/cygdrive/i/LintCode/linkedList/P98.h
+binaryTree/P69.h
+/cygdrive/i/LintCode/binaryTree/P69.h
+sort/sort_test.h
+/cygdrive/i/LintCode/sort/sort_test.h
 
 /cygdrive/i/LintCode/main.h
 iostream
@@ -27,4 +55,8 @@ string
 -
 map
 -
+queue
+-
+
+/cygdrive/i/LintCode/sort/sort_test.h
 

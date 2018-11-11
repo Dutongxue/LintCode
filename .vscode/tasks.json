@@ -1,0 +1,22 @@
+// {
+//     "version": "2.0.0",
+//     "label": "tasks",
+//     "command": "g++",
+//     "args": [
+//         "-g", "${file}", "-o", "${fileDirname}\\${fileBasenameNoExtension}.exe"
+//     ]
+// }
+
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "build",   // 任务名，要和launch.json中preLaunchTask字段一致；
+            "command": "g++",
+            "args": [
+                "-g", "${file}", "-o", "${fileDirname}\\${fileBasenameNoExtension}.exe"
+            ]
+        } 
+    ],
+    
+}

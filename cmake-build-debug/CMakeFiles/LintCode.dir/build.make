@@ -785,6 +785,45 @@ CMakeFiles/LintCode.dir/binaryTree/P93.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LintCode.dir/binaryTree/P93.cpp.s"
 	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/i/LintCode/binaryTree/P93.cpp -o CMakeFiles/LintCode.dir/binaryTree/P93.cpp.s
 
+CMakeFiles/LintCode.dir/binaryTree/P85.cpp.o: CMakeFiles/LintCode.dir/flags.make
+CMakeFiles/LintCode.dir/binaryTree/P85.cpp.o: ../binaryTree/P85.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/i/LintCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_57) "Building CXX object CMakeFiles/LintCode.dir/binaryTree/P85.cpp.o"
+	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LintCode.dir/binaryTree/P85.cpp.o -c /cygdrive/i/LintCode/binaryTree/P85.cpp
+
+CMakeFiles/LintCode.dir/binaryTree/P85.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LintCode.dir/binaryTree/P85.cpp.i"
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/i/LintCode/binaryTree/P85.cpp > CMakeFiles/LintCode.dir/binaryTree/P85.cpp.i
+
+CMakeFiles/LintCode.dir/binaryTree/P85.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LintCode.dir/binaryTree/P85.cpp.s"
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/i/LintCode/binaryTree/P85.cpp -o CMakeFiles/LintCode.dir/binaryTree/P85.cpp.s
+
+CMakeFiles/LintCode.dir/tmp/create_tree_bfs.cpp.o: CMakeFiles/LintCode.dir/flags.make
+CMakeFiles/LintCode.dir/tmp/create_tree_bfs.cpp.o: ../tmp/create_tree_bfs.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/i/LintCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_58) "Building CXX object CMakeFiles/LintCode.dir/tmp/create_tree_bfs.cpp.o"
+	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LintCode.dir/tmp/create_tree_bfs.cpp.o -c /cygdrive/i/LintCode/tmp/create_tree_bfs.cpp
+
+CMakeFiles/LintCode.dir/tmp/create_tree_bfs.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LintCode.dir/tmp/create_tree_bfs.cpp.i"
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/i/LintCode/tmp/create_tree_bfs.cpp > CMakeFiles/LintCode.dir/tmp/create_tree_bfs.cpp.i
+
+CMakeFiles/LintCode.dir/tmp/create_tree_bfs.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LintCode.dir/tmp/create_tree_bfs.cpp.s"
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/i/LintCode/tmp/create_tree_bfs.cpp -o CMakeFiles/LintCode.dir/tmp/create_tree_bfs.cpp.s
+
+CMakeFiles/LintCode.dir/binaryTree/P69.cpp.o: CMakeFiles/LintCode.dir/flags.make
+CMakeFiles/LintCode.dir/binaryTree/P69.cpp.o: ../binaryTree/P69.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/i/LintCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_59) "Building CXX object CMakeFiles/LintCode.dir/binaryTree/P69.cpp.o"
+	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LintCode.dir/binaryTree/P69.cpp.o -c /cygdrive/i/LintCode/binaryTree/P69.cpp
+
+CMakeFiles/LintCode.dir/binaryTree/P69.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LintCode.dir/binaryTree/P69.cpp.i"
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/i/LintCode/binaryTree/P69.cpp > CMakeFiles/LintCode.dir/binaryTree/P69.cpp.i
+
+CMakeFiles/LintCode.dir/binaryTree/P69.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LintCode.dir/binaryTree/P69.cpp.s"
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/i/LintCode/binaryTree/P69.cpp -o CMakeFiles/LintCode.dir/binaryTree/P69.cpp.s
+
 # Object files for target LintCode
 LintCode_OBJECTS = \
 "CMakeFiles/LintCode.dir/main.cpp.o" \
@@ -842,7 +881,10 @@ LintCode_OBJECTS = \
 "CMakeFiles/LintCode.dir/linkedList/P99.cpp.o" \
 "CMakeFiles/LintCode.dir/linkedList/P98.cpp.o" \
 "CMakeFiles/LintCode.dir/binaryTree/P97.cpp.o" \
-"CMakeFiles/LintCode.dir/binaryTree/P93.cpp.o"
+"CMakeFiles/LintCode.dir/binaryTree/P93.cpp.o" \
+"CMakeFiles/LintCode.dir/binaryTree/P85.cpp.o" \
+"CMakeFiles/LintCode.dir/tmp/create_tree_bfs.cpp.o" \
+"CMakeFiles/LintCode.dir/binaryTree/P69.cpp.o"
 
 # External object files for target LintCode
 LintCode_EXTERNAL_OBJECTS =
@@ -903,9 +945,12 @@ LintCode.exe: CMakeFiles/LintCode.dir/linkedList/P99.cpp.o
 LintCode.exe: CMakeFiles/LintCode.dir/linkedList/P98.cpp.o
 LintCode.exe: CMakeFiles/LintCode.dir/binaryTree/P97.cpp.o
 LintCode.exe: CMakeFiles/LintCode.dir/binaryTree/P93.cpp.o
+LintCode.exe: CMakeFiles/LintCode.dir/binaryTree/P85.cpp.o
+LintCode.exe: CMakeFiles/LintCode.dir/tmp/create_tree_bfs.cpp.o
+LintCode.exe: CMakeFiles/LintCode.dir/binaryTree/P69.cpp.o
 LintCode.exe: CMakeFiles/LintCode.dir/build.make
 LintCode.exe: CMakeFiles/LintCode.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/cygdrive/i/LintCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_57) "Linking CXX executable LintCode.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/cygdrive/i/LintCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_60) "Linking CXX executable LintCode.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/LintCode.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
